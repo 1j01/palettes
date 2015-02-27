@@ -1,0 +1,173 @@
+
+html {
+    /*-webkit-filter: invert() sepia();*/
+    background: #66A;
+    background: rgba(0, 0, 0, 0.1);
+    background-size: cover; 
+}
+
+#html1 body { -webkit-filter: hue-rotate(30deg); }
+#html2 body { -webkit-filter: hue-rotate(60deg); }
+#html3 body { -webkit-filter: hue-rotate(150deg); }
+#htmlc body { -webkit-filter: hue-rotate(250deg); }
+
+#html1 img{ -webkit-filter: hue-rotate(-30deg); }
+#html2 img{ -webkit-filter: hue-rotate(-60deg); }
+#html3 img{ -webkit-filter: hue-rotate(-150deg); }
+#htmlc img{ -webkit-filter: hue-rotate(-250deg); }
+
+#html1 { background-image: url(http://www.blogseitb.us/basque_mountain_biking/wp-content/uploads/2011/06/Header-Basque-Spain-Mountain-Bike-Holidays-May-3.jpg);}
+#html2 { background-image: url(http://2.bp.blogspot.com/-BfTcpvpPkzk/T77c7F2G_JI/AAAAAAAAAyY/ugHebCBiJbU/s1600/inquisicion1.jpg);}
+#html3 { background-image: url(http://lrc.salemstate.edu/pictures/ipc2009/images/33%20-%20Jerry%20Rosen%20-%20Plateaus%20of%20Ronda,%20Spain.jpg);}
+#htmlc { background-image: url(http://www.iofspirit.co.uk/wp-content/uploads/2011/12/SpainMountains.jpg);}
+/*#htmlc { background: url(http://flagpedia.net/data/flags/ultra/es.png); background-size: contain; }*/
+
+.svg { -webkit-filter: hue-rotate(-250deg); }
+iframe { -webkit-filter: hue-rotate(-30deg); }
+
+.left{float:left}
+.right{float:right}
+#htmlc .caption{margin-left:auto;marin-right:auto}
+/*#htmlc .flagdiv{width: 50%;}*/
+
+::-webkit-scrollbar {
+    width: 10px;
+    height: 10px;
+}
+ 
+::-webkit-scrollbar-track {
+    -webkit-box-shadow: inset 0 0 6px rgba(0,0,0,0.3); 
+    border-radius: 2px;
+    margin: 5px;
+}
+ 
+::-webkit-scrollbar-thumb {
+    border-radius: 2px;
+    background-color: rgba(0,0,0,0.2);
+    -webkit-box-shadow: inset 0 0 8px rgba(255,255,255,0.5), 0 0 6px rgba(255,255,255,0.9); 
+    margin: 5px;
+}
+
+::-webkit-scrollbar-corner {
+    display: none;
+}
+
+
+.caption{
+    margin-left:1%;
+    margin-right:auto;
+    width: 60%;
+    text-align:center;
+    
+    padding: 3px;
+    padding-top: 1%;
+    padding-bottom: 1%;
+    
+    border-radius: 10px;
+    background: #E0FFF0;
+    box-shadow: 0 0 5px black, 1px 1px 2px white inset;
+}
+nav span, nav a {
+    margin: 1%;
+    font-size: 1.3em;
+}
+nav {
+    max-width: 500px;
+    min-width: 50px;
+    width: auto;
+    margin-left:auto;
+    margin-right:auto;
+    padding: 10px;
+    padding-top: 1%;
+    padding-bottom: 1%;
+    
+    border-radius: 10px;
+    background: #E0F0FF;
+    box-shadow: 0 0 5px black, 1px 1px 2px white inset;
+    
+    text-align: center;
+}
+nav a, nav span{
+    width: 100px;
+    display: inline-block;
+}
+nav span {
+    color: black;
+    font-weight: bold;
+    border-bottom: 2px solid orange;
+}
+a {
+    color: #444;
+    text-decoration: none;
+    transition: border .2s ease-in-out;
+    -webkit-transition: border .2s ease-in-out;
+}
+nav a:hover {
+    color: black;
+    border-bottom: 2px solid red;
+    border-bottom: 2px solid rgba(0,0,0,0.5);
+}
+a:hover {
+    color: orange;
+}
+
+#main {
+    margin-top: 5%;
+    margin-left:auto;
+    margin-right:auto;
+    
+    position: absolute; 
+    top: 50px; bottom: 46px; 
+    left: 10px; right: 10px;
+    
+    background-color:#9BC9D1;
+    overflow: auto;
+    
+    max-width: 800px;
+    width: 75%;
+    
+    padding: 1%;
+    border-radius: 10px;
+    background: #F0F0F0;
+    box-shadow: 0 0 15px 1px black, 1px 1px 2px white inset;
+}
+
+footer {
+    position: absolute; bottom: 5px;
+    padding: 5px;
+    
+    text-align: center;
+    
+    border-radius: 5px;
+    background-color:#6E919A;
+}
+
+.chrome {
+    color: yellow;
+}
+.chrome:before {
+    content: url(http://plugindoc.mozdev.org/images/chrome.png);
+    vertical-align: -40%;
+}
+
+
+.awesome,footer {
+    background-attachment: scroll;
+    background-clip: border-box;
+    background-color: #444;
+    background-image: -webkit-linear-gradient(top, #474747, #2B2B2B);
+    background-origin: padding-box;
+    border-radius: 2px;
+    border-style: solid;
+    border-width: 1px;
+    border-bottom-color: #373737;
+    border-left-color: #474747;
+    border-right-color: #474747;
+    border-top-color: #676767;
+    box-shadow: #181818 0 0 1px 1px;
+    color: #999;
+    font-size: 11px;
+    font-weight: bold;
+    text-shadow: rgba(0, 0, 0, 0.449219) 0 1px 0;
+}
+

@@ -1,0 +1,399 @@
+
+.card {
+	display: inline-block;
+	width: 5cm;
+	height: 7.5cm;
+	font-size: 11pt;
+	border-radius: 5px;
+	border: 5px solid #444;
+	background-color: rgba(255,255,255,0.5);
+	background-image: url("/very-unorganized/marble1.png");
+	color: #000;
+	box-shadow: 0 0 250px 10px rgba(255,255,255,0.9) inset, 0 0 250px 10px rgba(255,255,255,0.9) inset, 0 0 250px 10px rgba(20,0,0,0.9) inset;
+}
+.header * {
+	display: inline-block;
+}
+.m {
+	display: inline-block;
+	vertical-align: top;
+	width: 0;
+	height: 0;
+	border-radius: 5mm 5mm;
+	padding: 0.3em;
+	border: 0.5mm solid black;
+	background: yellow;
+	box-shadow: 0.1mm 0.1mm 0.6mm 0.1mm #FFF inset, -0.3mm -0.3mm 0.6mm 0.1mm #FA0 inset;
+}
+.money {
+	white-space: nowrap;
+}
+.cost {
+	float: right;
+	margin-right: 1mm;
+}
+.major-types {
+	margin-right: 1mm;
+}
+.minor-types {
+	opacity: 0.8;
+}
+/*
+.lower {
+	height: ;
+}*/
+.image {
+	width: 90%;
+	height: 40%;
+	margin: auto;
+	border: 0.5mm solid #ADE;
+	box-shadow: 1px 2px 3px 0 rgba(20,10,0,0.5);
+	overflow: hidden;
+}
+.image img {
+	width: 100%;
+	height: 100%;
+	border: 0;
+}
+.id {
+	float: right;
+	/*position: absolute;
+	right: 50px;
+	bottom: 50px;*/
+	color: rgba(0,0,0,0.8);
+	font-size: 5pt;
+}
+.description {
+	font-size: 7pt;
+	padding: 1mm;
+	margin: 1mm;
+	margin-top: 4mm;
+	background: rgba(255,255,255,0.7);
+	border: 1px solid gray;
+	border-radius: 1mm;
+}
+.container {
+	width: auto;
+	height: auto;
+	display: inline-block;
+	margin: 1cm;
+}
+.name {
+	font-weight: bold;
+	font-size: 10pt;
+}
+q {
+  quotes: "“" "”" "‘" "’";
+  font-style: italic;
+  opacity: 0.9;
+}
+q:before {
+    content: open-quote;
+}
+q:after {
+    content: close-quote;
+}
+/*
+.unknown {
+	background: red;
+	color: white;
+	border: 1px dotted gray;
+	font-size: 0.7em;
+}
+
+@media display {
+	.container {
+		width: 6cm;
+		height: 8.5cm;
+		position: relative;
+		perspective: 800px;
+		display: inline-block;
+		margin: 1cm;
+	}
+	.card .front {
+		background: #FFC;
+	}
+	.card .back {
+		background: blue;
+		transform: rotateY( 180deg );
+		left: 50px;
+		right: 50px;
+	}
+	.front, .back {
+		display: block;
+		position: absolute;
+		width: 100%;
+		height: 100%;
+		backface-visibility: hidden;
+	}
+	.card {
+		position: absolute;
+		transform-style: preserve-3d;
+	}
+	.card:hover {
+		transform: rotateY(180deg);
+		-webkit-transform: rotateY(180deg);
+	}
+}
+*/
+@media print {
+	html, body {
+		background: white !important;
+	}
+}
+@media screen {
+	html, body {
+		background: black;
+	}
+}
+
+
+
+
+
+
+
+
+
+
+/* FLIP CARDS */
+
+	body {
+		max-width: 800px;
+		padding-right: 60px;
+	}
+	.panel {
+		float: left;
+		width: 200px;
+		height: 200px;
+		margin: 20px;
+		position: relative;
+		font-size: .8em;
+
+		-webkit-perspective: 600px;
+		-moz-perspective: 600px;
+						perspective: 600px;
+	}
+	/* -- make sure to declare a default for every property that you want animated -- */
+	/* -- general styles, including Y axis rotation -- */
+	.panel .front {
+		float: none;
+		position: absolute;
+		top: 0;
+		left: 0;
+		z-index: 900;
+		width: inherit;
+		height: inherit;
+		border: 1px solid #ccc;
+		background: #6b7077;
+		text-align: center;
+		box-shadow: 0 1px 5px rgba(0,0,0,0.9);
+
+		-webkit-transform: rotateX(0deg) rotateY(0deg);
+			 -moz-transform: rotateX(0deg) rotateY(0deg);
+						transform: rotateX(0deg) rotateY(0deg);
+
+		-webkit-transform-style: preserve-3d;
+			 -moz-transform-style: preserve-3d;
+						transform-style: preserve-3d;
+
+		-webkit-backface-visibility: hidden;
+			 -moz-backface-visibility: hidden;
+						backface-visibility: hidden;
+
+		/* -- transition is the magic sauce for animation -- */
+		-webkit-transition: all .4s ease-in-out;
+						transition: all .4s ease-in-out;
+	}
+	.panel.flip .front {
+		z-index: 900;
+		border-color: #eee;
+		background: #333;
+
+		-webkit-transform: rotateY(180deg);
+			 -moz-transform: rotateY(180deg);
+						transform: rotateY(180deg);
+
+		box-shadow: 0 15px 50px rgba(0,0,0,0.2);
+	}
+
+	.panel .back {
+		float: none;
+		position: absolute;
+		top: 0;
+		left: 0;
+		z-index: 800;
+		width: inherit;
+		height: inherit;
+		border: 1px solid #ccc;
+		background: #333;
+		text-shadow: 1px  1px 1px rgba(0,0,0,0.6);
+
+		-webkit-transform: rotateY(-180deg);
+		-webkit-transform-style: preserve-3d;
+		-webkit-backface-visibility: hidden;
+
+			 -moz-transform: rotateY(-180deg);
+			 -moz-transform-style: preserve-3d;
+			 -moz-backface-visibility: hidden;
+
+						transform: rotateY(-180deg);
+						transform-style: preserve-3d;
+						backface-visibility: hidden;
+
+		/* -- transition is the magic sauce for animation -- */
+		-webkit-transition: all .4s ease-in-out;
+						transition: all .4s ease-in-out;
+	}
+
+	.panel.flip .back {
+		z-index: 1000;
+		background: #80868d;
+
+		-webkit-transform: rotateX(0deg) rotateY(0deg);
+			 -moz-transform: rotateX(0deg) rotateY(0deg);
+						transform: rotateX(0deg) rotateY(0deg);
+
+		box-shadow: 0 15px 50px rgba(0,0,0,0.2);
+	}
+
+	/* -- X axis rotation for click panel -- */
+	.click .front {
+		cursor: pointer;
+		-webkit-transform: rotateX(0deg);
+			 -moz-transform: rotateX(0deg);
+						transform: rotateX(0deg);
+	}
+	.click.flip .front {
+		-webkit-transform: rotateX(180deg);
+			 -moz-transform: rotateX(180deg);
+						transform: rotateX(180deg);
+	}
+	.click .back {
+		cursor: pointer;
+		-webkit-transform: rotateX(-180deg);
+			 -moz-transform: rotateX(-180deg);
+						transform: rotateX(-180deg);
+	}
+	.click.flip .back {
+		-webkit-transform: rotateX(0deg);
+			 -moz-transform: rotateX(0deg);
+						transform: rotateX(0deg);
+	}
+
+  /* -- contact panel -- */
+  .contact {
+    width: 290px;
+    height: 240px;
+  }
+
+	/* -- diagonal axis rotation -- */
+	.diagonal .front {
+		-webkit-transform: rotate3d(45,45,0,0deg);
+			 -moz-transform: rotate3d(45,45,0,0deg);
+						transform: rotate3d(45,45,0,0deg);
+	}
+	.diagonal .front:hover {
+		/* for the patient :) */
+		-webkit-transition-duration: 10s;
+			 -moz-transition-duration: 10s;
+						transition-duration: 10s;
+
+		-webkit-transform: rotate3d(45,45,0,-36deg);
+			 -moz-transform: rotate3d(45,45,0,-36deg);
+						transform: rotate3d(45,45,0,-36deg);
+	}
+
+	.diagonal.flip .front,
+	.diagonal.flip .front:hover {
+		-webkit-transform: rotate3d(-45,-45,0,150deg);
+			 -moz-transform: rotate3d(-45,-45,0,150deg);
+						transform: rotate3d(-45,-45,0,150deg);
+
+		-webkit-transition: all .4s ease-in-out;
+						transition: all .4s ease-in-out;
+	}
+
+	.diagonal .front .message {
+	  opacity: 0;
+		font-size: 1.4em;
+	}
+	.diagonal .front:hover .message {
+		opacity: .4;
+		-webkit-transition-duration: 12s;
+			 -moz-transition-duration: 12s;
+						transition-duration: 12s;
+
+		-webkit-transition-delay: 4s;
+			 -moz-transition-delay: 4s;
+						transition-delay: 4s;
+
+		-webkit-transform: translateX(-30px) translateZ(40px) scale(1.4);
+			 -moz-transform: translateX(-30px) translateZ(40px) scale(1.4);
+						transform: translateX(-30px) translateZ(40px) scale(1.4);
+	}
+	.diagonal.flip .front .message {
+		-webkit-transition-duration: 1s;
+						transition-duration: 1s;
+	  -webkit-transform: translateZ(0px) scale(.5);
+					  transform: translateZ(0px) scale(.5);
+	}
+
+	.diagonal .back {
+		-webkit-transform: rotate3d(45,45,0,-180deg);
+			 -moz-transform: rotate3d(45,45,0,-180deg);
+						transform: rotate3d(45,45,0,-180deg);
+	}
+	.diagonal.flip .back {
+		-webkit-transform: rotate3d(45,45,0,-30deg);
+			 -moz-transform: rotate3d(45,45,0,-30deg);
+						transform: rotate3d(45,45,0,-30deg);
+	}
+
+  /* -- swing like a gate -- */
+  .swing .front,
+  .swing .back {
+    width: 140px;
+    -webkit-backface-visibility: visible;
+			 -moz-backface-visibility: visible;
+						backface-visibility: visible;
+
+    -webkit-transition-duration: 1s;
+			 -moz-transition-duration: 1s;
+						transition-duration: 1s;
+
+    -webkit-transform-origin: 170px 0;
+			 -moz-transform-origin: 170px 0;
+						transform-origin: 170px 0;
+  }
+  .swing .front {
+    -webkit-transform: rotateY(0deg);
+			 -moz-transform: rotateY(0deg);
+						transform: rotateY(0deg);
+  }
+  .swing .back {
+    background-color: #555; /* hiding this side, so get darker */
+    -webkit-transform: rotateY(-180deg) translateX(198px) translateZ(2px);
+			 -moz-transform: rotateY(-180deg) translateX(198px) translateZ(2px);
+  }
+
+  .swing.flip .front {
+    background-color: #222; /* hiding this side, so get darker */
+    -webkit-transform: rotateY(180deg);
+			 -moz-transform: rotateY(180deg);
+  }
+  .swing.flip .back {
+    background-color: #80888f;
+    -webkit-transform: rotateY(0deg) translateX(198px) translateZ(2px);
+			 -moz-transform: rotateY(0deg) translateX(198px) translateZ(2px);
+  }
+
+
+	/* -- cosmetics -- */
+	.panel .pad {padding: 0 15px; }
+	.panel.flip .action {display: none; }
+	.block ol li {text-align: left; margin: 0 0 0 28px; }
+	.block .action {display: block; padding: 3px; background: #333; text-align: right; font-size: .8em; opacity: 0; position: absolute; cursor: pointer; -webkit-transition: opacity .2s linear; }
+	.block:hover .action {opacity: .7; }
+	.circle div {border-radius: 100px; }
+	.circle div h2 {padding-top: 3em; text-align: center; }

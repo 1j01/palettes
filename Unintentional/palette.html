@@ -1,0 +1,720 @@
+<!doctype html>
+<html>
+    <head>
+        <title>Palette Generator</title>
+        <meta name="description" content="Generate pixely palettes!">
+        <meta name="keywords" content="Generate,pixely,palettes,pixel,pixel art,palette">
+        <meta name="author" content="Isaiah Odhner">
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link rel="shortcut icon" href="http://cdn1.iconfinder.com/data/icons/ledicons/color_swatch_2.png">
+        <script>
+            //GLOBALS: pal, pal2d, pal1d, pal1dUnsorted, setting_width, setting_height;
+            //pal is an Array of Arrays of <td>s or maybe an Array of nodeLists; I could probably just use t.rows.
+            //pal2d is an Array of Arrays of hex strings. Used for exporting/importing.
+            //pal1d is an Array of hex strings. Always sorted, no nulls, each value unique. Used for exporting.
+            //pal1dUnsorted is an Array of hex strings. Duplicates included, but "normalized", no nulls. Used for drawing to the canvas.
+            
+            //OUGHTODO: Tidy code: remove globals, use closures and such. Fix history states: don't need an unformatted state AND a formatted state.
+            //TODO: Fix JSON input lag.
+            
+            setting_width=4;
+            setting_height=4;
+            
+            function domLoaded(){
+                //When the DOM is loaded...
+                //Load a palette.
+                loadPaletteFromHash();
+                window.onhashchange=function(){
+                    loadPaletteFromHash(true);
+                };
+                
+                //When an input value is changed, update stuff.
+                var e=document.getElementsByTagName("input");
+                for(var i in e){if(e[i].style)e[i].onchange=function(){savePalette(true)};};//You'd think this would be loadPalette...
+                
+                //Create the palette size table.
+                var t=document.getElementById("palettesize");
+                for(var i=0;i<16;i++){
+                    var tr=document.createElement("tr");
+                    var row=[];
+                    for(var j=0;j<16;j++){
+                        var td=document.createElement("td");
+                        td.className="palettesizecell";
+                        tr.appendChild(td);
+                        td.xpos=j;
+                        td.ypos=i;
+                        td.addEventListener("mouseover",function(){
+                            updatePaletteSizeTable(this.xpos,this.ypos);
+                            this.style.backgroundColor="blue";
+                        });
+                        td.addEventListener("click",function(){
+                            var t=document.getElementById("palettesize");
+                            setting_width=this.xpos+1;
+                            setting_height=this.ypos+1;
+                            updatePaletteSizeTable(this.xpos,this.ypos,true);
+                        });
+                        row.push(td);
+                    }
+                    t.appendChild(tr);
+                }
+                t.addEventListener("mouseout",function(){
+                    updatePaletteSizeTable(-1);
+                });
+                updatePaletteSizeTable();
+            }
+            function updatePaletteSizeTable(xpos,ypos,clicked) {
+                if(!xpos)xpos=0;
+                if(!ypos)ypos=0;
+                if(!clicked)clicked=false;
+                var t=document.getElementById("palettesize");
+                for(var i=0;i<t.rows.length;i++){
+                    for(var j=0;j<t.rows[i].childNodes.length;j++){
+                        t.rows[i].childNodes[j].style.backgroundColor=
+                            "rgba("
+                            +((255-(j<=xpos && i<=ypos)*255))
+                            +","
+                            +clicked*255
+                            +","
+                            +((255-(j<setting_width && i<setting_height)*255))
+                            +",1)";
+                            /*
+                            "rgba(255,"
+                            +clicked*255
+                            +","
+                            +(((255-(j<setting_width && i<setting_height)*255))+((255-(j<=xpos && i<=ypos)*255)))
+                            +",1)";*/
+                            //+","
+                            //+((j<=setting_width && i<=setting_height)+(j<=this.xpos && i<=this.ypos))/2
+                            //+")";
+                    }
+                }
+                var l=document.getElementById("palettesizelabel");
+                if(xpos && ypos){
+                    l.innerText=""+(xpos+1)+"x"+(ypos+1);
+                }else{
+                    l.innerText=""+(setting_width+1)+"x"+(setting_height+1);
+                }
+            }
+            function loadPaletteFromHash(fromHashChangeEvent) {
+                //Load the palette from the URL#hash.
+                if(location.hash){
+                    var port=document.getElementById("port");
+                    var json=decodeURIComponent(location.hash.slice(1));
+                    if(json!==port.value){
+                        
+                        if(!fromHashChangeEvent){
+                            port.value=json;
+                        
+                            if(loadPalette(true, fromHashChangeEvent)){
+                                return;
+                            }
+                        }
+                    }else{
+                        return;
+                    }
+                }
+                //If there is no #hash, or the palette couldn't be loaded, make a new palette.
+                newPalette();
+            }
+            function loadPalette(fromHash, fromHashChangeEvent) {
+                //Load palette rom textarea
+                var t=document.getElementById("palette");
+                var port=document.getElementById("port");
+                var jsonerror=document.getElementById("jsonerror");
+                var exportinfo=document.getElementById("exportinfo");
+                
+                //Clear messages.
+                jsonerror.innerText="";
+                
+                try {
+                    pal2d=JSON.parse(port.value);
+                    if(typeof pal2d[0]==="string") //I really really want this to be an array, but it's an "object".
+                        pal2d=[pal2d];
+                    
+                    //["#000000","#3e2518","#4d5542","#9bab84","#b6322d","#ce7f53","#f9bc67"]
+                } catch(e) {
+                    jsonerror.innerText=e.toString();
+                    exportinfo.innerText="";
+                    return false;
+                }
+                
+                
+                clearPalette();
+                
+                // Poplate the table (with cells! and data!)
+                for(var i=0;i<pal2d.length;i++){
+                    var tr=document.createElement("tr");
+                    var palrow=[];
+                    for(var j=0;j<pal2d[i].length;j++){
+                        var td=document.createElement("td");
+                        td.style.backgroundColor=pal2d[i][j];
+                        tr.appendChild(td);
+                        palrow.push(td);
+                    }
+                    t.appendChild(tr);
+                    pal.push(palrow);
+                }
+                
+                //Export the 2d textarea to the 1d one.
+                //Don't try to write to the textarea as it's being edited.
+                //Do write to it if it is loaded from the hash.
+                savePalette(!fromHash, fromHashChangeEvent);
+                
+                return true;
+            }
+            function savePalette(fromLoad, fromHashChangeEvent) {
+                //Save the palette to the textareas.
+                var exportinfo=document.getElementById("exportinfo");
+                var port=document.getElementById("port");
+                var minimumColorDistance=document.getElementById("colordistance").value;
+                var proportionalColors=document.getElementById("proportionalColors").checked;
+                var Ignoring="Removed";
+                
+                var sc=document.getElementById("sc");
+                var ed=document.getElementById("ed");
+                var scopen=sc?(sc.open?" open ":" "):" ";
+                var edopen=ed?(ed.open?" open ":" "):" ";
+                
+                //Clear export information message.
+                exportinfo.innerText="";
+                
+                //Don't try to write to the textarea as it's being edited.
+                //Do write to it if it is loaded from the hash.
+                if((!fromLoad) && (!fromHashChangeEvent)){
+                    
+                    //Create a two dimensional array of hexs.
+                    pal2d=[];
+                    for(var i=0;i<pal.length;i++){
+                        var row=[];
+                        for(var j=0;j<pal[i].length;j++){
+                            //row.push(cssrgb2hexget(ComputedStyle(pal[i][j]).backgroundColor));
+                            row.push(getPal(i,j));
+                        }
+                        pal2d.push(row);
+                    }
+                    
+                    //Output the 2d data to the textarea.
+                    port.value=JSON.stringify(pal2d);
+                    console.log(pal2d);
+                }
+                
+                    //Don't munipulate the hash from the hashchange event. Bad things. Baaaaaad things.
+                    if(!fromHashChangeEvent){
+                        //Output the 2d data to the #url
+                        if((decodeURIComponent(location.hash).slice(1))!==port.value){
+                            location.hash=port.value;
+                        }
+                        //location.hash=JSON.stringify(pal2d);
+                    }
+                
+                var xport=document.getElementById("export");
+                
+                //Create a one dimensional array of hexs, removing duplicates.
+                pal1d=[];
+                pal1dUnsorted=[];
+                var exactDuplicates=0;
+                var similarColors=0;
+                var nulls=0;
+                var details="";
+                var duplicates={};
+                for(var i=0;i<pal.length;i++){
+                    for(var j=0;j<pal[i].length;j++){
+                        var hex=cssrgb2hex(getComputedStyle(pal[i][j]).backgroundColor);
+                        var tooClose=false;
+                        if(!hex){
+                            nulls++;
+                        }else{
+                            for(var k=0;k<pal1d.length;k++){
+                                if(colorDistance(hex,pal1d[k])<minimumColorDistance){
+                                    if(colorDistance(hex,pal1d[k])>0){
+                                        details+=("<span class='indented'>"+Ignoring+" "+hex2html(hex)+" because it's too much like "+hex2html(pal1d[k])+".</span><br>");
+                                        similarColors++;
+                                    }else{
+                                        exactDuplicates++;
+                                        if(duplicates[hex]){
+                                            duplicates[hex]++;
+                                        }else{
+                                            duplicates[hex]=1;
+                                        }
+                                    }
+                                    tooClose=true;
+                                    if(proportionalColors){
+                                        pal1dUnsorted.push(pal1d[k]);
+                                    }
+                                    break;
+                                }
+                            }
+                            if(!tooClose){
+                                pal1d.push(hex);
+                                pal1dUnsorted.push(hex);
+                            }
+                        }
+                        /*if(pal1d.indexOf(hex) === -1){
+                            pal1d.push(hex);
+                        }*/
+                    }
+                }
+                
+                //Formulate exportation information.
+                var msg="";
+                if (similarColors) {
+                    if(similarColors>1) {
+                        msg+="<details"+scopen+"id='sc'>";
+                        msg+="<summary>"+Ignoring+" "+similarColors+" similar color"+(similarColors>1?"s":"")+".</summary>";
+                        msg+=details;
+                        msg+="</details>";
+                    }else{
+                        msg+=details.replace("indented","notindented");
+                    }
+                }
+                if (exactDuplicates) {
+                    msg+="<details"+edopen+"id='ed'>";
+                    msg+="<summary>"+Ignoring+" "+exactDuplicates+" exact duplicate"+(exactDuplicates>1?"s":"")+".</summary>";
+                    for(i in duplicates){
+                        msg+='<span class="indented">'+Ignoring+' '+(duplicates[i])+' '+hex2html(i)+((duplicates[i])>1?"s":"")+'.</span><br>';
+                    }
+                    msg+="</details>";
+                }
+                if (nulls) {
+                    msg+="<div class='badthing'>"+((nulls>1)?"There are some non-colors in there.":"There's a non-color in there.")+"</div>";
+                }
+                msg+="Exported palette.";
+                
+                //Show message.
+                exportinfo.innerHTML=msg;
+                
+                //Sort the palette from dark to light.
+                pal1d=pal1d.sort();
+                
+                //Output the 1d data to the textarea.
+                xport.value=JSON.stringify(pal1d);
+                
+                //Show the 1d data visually.
+                var s=document.getElementById("uniques");
+                while(s.hasChildNodes()){ s.removeChild(s.childNodes[0]); }
+                for (i=0;i<pal1d.length;i++) {
+                    var c=document.createElement("div");
+                    c.className="palettecolorsmall";
+                    s.appendChild(c);
+                    c.style.backgroundColor=pal1d[i];
+                    c.style.display="inline-block";
+                }
+                
+                //Update the palette test canvas.
+                draw();
+            }
+            function clearPalette() {
+                //Clear the palette and remove the table's elements.
+                var t=document.getElementById("palette");
+                while(t.hasChildNodes()){t.removeChild(t.rows[0])}
+                pal=[];
+            }
+            function newPalette() {
+                //Generate a new palette.
+                clearPalette();
+                extendPalette();
+            }
+            function extendPalette() {
+                //Add elements to the table AND generate the palette.
+                var t=document.getElementById("palette");
+                var bluriness=document.getElementById("palettebluriness").value,
+                    //width=document.getElementById("palettewidth").value,
+                    //height=document.getElementById("paletteheight").value,
+                    width=setting_width,
+                    height=setting_height,
+                    startingcolors=document.getElementById("startingcolors").value;
+                newPal=[];
+                
+                //Add an empty row.
+                var tr=document.createElement("tr");
+                t.appendChild(tr);
+                // Poplate the table (with cells!)
+                for(var i=0;i<height;i++){
+                    var tr=document.createElement("tr");
+                    var palrow=[];
+                    for(var j=0;j<width;j++){
+                        var td=document.createElement("td");
+                        tr.appendChild(td);
+                        //td.appendChild(document.createTextNode("("+i+","+j+")"));
+                        palrow.push(td);
+                    }
+                    t.appendChild(tr);
+                    newPal.push(palrow);
+                }
+                //Start the palette off black and stuff.
+                for (var i=0; i<newPal.length; i++) {
+                    for (var j=0; j<newPal[i].length; j++) {
+                        //newPal[i][j].style.backgroundColor=Math.random()<0.5?"#FFFFAF":'#000000';
+                        newPal[i][j].style.backgroundColor='#000000';
+                    }
+                }
+                //Make a few random colors here and there.
+                for (var i=0; i<startingcolors; i++) {
+                    newPal[Math.floor(Math.random()*height)][Math.floor(Math.random()*width)].style.backgroundColor='#'+(Math.random()*0xFFFFFF<<0).toString(16);
+                }
+                //Blend some colors together for a nice palette.
+                for(k=0;k<bluriness;k++){
+                    for(var i=1;i<newPal.length-1;i++){
+                        for(var j=1;j<newPal[i].length-1;j++){
+                            if((Math.random()<0.2)){
+                                var x=(Math.random()<0.5)?-1:1;
+                                var y=(Math.random()<0.5)?-1:1;
+                            }else if((Math.random()<0.5)){
+                                var x=0;
+                                var y=(Math.random()<0.5)?-1:1;
+                            }else{
+                                var x=(Math.random()<0.5)?-1:1;
+                                var y=0;
+                            }
+                            if(getPal(i+x,j+y,newPal)!=="#00000"){
+                                newPal[i+x][j+y].style.backgroundColor=merge_color(getPal(i+x,j+y,newPal),getPal(i,j,newPal));
+                            }
+                        }
+                    }
+                }
+                
+                //Add the new palette to the global palette.
+                pal=pal.concat(newPal);
+                
+                //Update the textareas.
+                savePalette();
+                
+            }
+            
+            function draw() {
+                //Update the palette test canvas and icon.
+                //console.log(pal1d);
+                //console.log(pal1dUnsorted);
+                var cvs=document.getElementById("palettetest");
+                var ctx=cvs.getContext("2d");
+                
+                ctx.fillStyle=pal1dUnsorted[Math.floor(Math.random()*pal1dUnsorted.length)];
+                ctx.fillRect(0,0,cvs.width,cvs.height);
+                
+                var s=3,
+                    w=cvs.width/s,
+                    h=cvs.height/s;
+                    w2=90/s,
+                    h2=90/s;
+                
+                for(i=0;i<400*w;i++){
+                    ctx.fillStyle=pal1dUnsorted[Math.floor(Math.random()*pal1dUnsorted.length)];
+                    ctx.fillRect(
+                        Math.floor(Math.random()*w-Math.random()*w/5)*s,
+                        Math.floor(Math.random()*h-Math.random()*h/5)*s,
+                        Math.floor(Math.random()*w2/5)*s,
+                        Math.floor(Math.random()*h2/5)*s);
+                }
+                
+                for(i=0;i<400*w;i++){
+                    ctx.fillStyle=pal1dUnsorted[Math.floor(Math.random()*pal1dUnsorted.length)];
+                    ctx.fillRect(
+                        Math.floor(Math.random()*w-Math.random()*w/16)*s,
+                        Math.floor(Math.random()*h-Math.random()*h/16)*s,
+                        Math.floor(Math.random()*w2/16*s)*s,
+                        Math.floor(Math.random()*h2/16*s)*s);
+                }
+                
+                updatePageIcon();
+            }
+            function updatePageIcon(){
+                //Render the page's icon.
+                var cvs=document.createElement('canvas');
+                cvs.width=16;
+                cvs.height=16;
+                var ctx=cvs.getContext("2d");
+                var sh=16/pal2d.length;
+                for(var i=0;i<pal2d.length;i++){
+                    var sw=16/pal2d[i].length;
+                    for(var j=0;j<pal2d[i].length;j++){
+                        ctx.fillStyle=pal2d[i][j];
+                        ctx.fillRect(j*sw,i*sh,sw,sh);
+                    }
+                }
+                setPageIcon(cvs.toDataURL("image/png"));
+                delete cvs;
+            }
+            function setPageIcon(url) {
+                //Set the page's icon.
+                var es=document.head.children;
+                var e=null;
+                for(var i in es){
+                    if(es[i].rel && (es[i].rel.indexOf("icon")!==-1)){
+                        e=es[i];
+                        break;
+                    }
+                }
+                if(!e){
+                    e=document.createElement("link");
+                    document.head.appendChild(e);
+                    e.rel="shortcut icon";
+                }
+                e.href=url;
+            }
+              ///////////////////////
+             // Utility functions //
+            ///////////////////////
+            
+            function getPal(x,y,p) {
+                //Get a hex color from the global pal palette or another.
+                if(!p)p=pal;
+                var hex=cssrgb2hex(p[x][y].style.backgroundColor);
+                if(!hex)hex=cssrgb2hex(getComputedStyle(p[x][y]).backgroundColor)
+                return hex;
+            }
+            
+            function colorDistance(hex1,hex2){
+                //Returns how different two hex colors are from 0 to 255.
+                //Not color difference, color distance.
+                if(hex1==hex2) return 0;
+                var rgb1=hex2rgb(hex1);
+                var rgb2=hex2rgb(hex2);
+                if(!rgb1 || !rgb2) return 255;
+                return (Math.abs(rgb1.r-rgb2.r)+Math.abs(rgb1.g-rgb2.g)+Math.abs(rgb1.b-rgb2.b))/3;
+            }
+            function merge_color(hex1,hex2,a){
+                //Merges two colors.
+                //IGNORES (a), USES (0.5) INSTEAD!!!!
+                if(!hex1 || !hex2) return null;
+                var rgb1=hex2rgb(hex1),
+                    rgb2=hex2rgb(hex2);
+                if(!rgb1 || !rgb2) return hex1;
+                return rgb2hex({r:(rgb1.r+rgb2.r)/2,g:(rgb1.g+rgb2.g)/2,b:(rgb1.b+rgb2.b)/2});
+            }
+            function contrast(hex){
+                var rgb=hex2rgb(hex);
+                return ((rgb.r+rgb.g+rgb.b)<300)?"#FFFFFF":"#000000";
+            }
+            function hex2html(hex){
+                return "<span style='background-color: "+hex+"; color: "+contrast(hex)+"'>"+hex+"</span>";
+            }
+            function rgb2hex(rgb){
+                //{r:255,g:255,b:255}->"#FFFFFF"
+                var r=Math.floor(rgb.r).toString(16),
+                    g=Math.floor(rgb.g).toString(16),
+                    b=Math.floor(rgb.b).toString(16);
+                if (r.length==1)r='0'+r;
+                if (g.length==1)g='0'+g;
+                if (b.length==1)b='0'+b;
+                return '#'+r+g+b;
+            }
+            /*
+            function rgb2hsl(rgb){
+                //{r:255,g:255,b:255}->{h:255,s:?,l:255}
+                var r = rgb.r/255, g = rgb.g/255, b = rgb.b/255;
+                var max = Math.max(r, g, b), min = Math.min(r, g, b);
+                var h, s, l = (max + min) / 2;
+            
+                if(max == min){
+                    h = s = 0; // achromatic
+                }else{
+                    var d = max - min;
+                    s = l > 0.5 ? d / (2 - max - min) : d / (max + min);
+                    switch(max){
+                        case r: h = (g - b) / d + (g < b ? 6 : 0); break;
+                        case g: h = (b - r) / d + 2; break;
+                        case b: h = (r - g) / d + 4; break;
+                    }
+                    h /= 6;
+                }
+                return {h:h,s:s,l:l};
+            }*/
+            function hex2rgb(hex){
+                //"#FFFFFF"->{r:255,g:255,b:255}
+                if(!hex) return null;
+                var rgx=/^(\w{2})(\w{2})(\w{2})$/,
+                    bits=rgx.exec(hex.slice(1)); // (hex.split("#")[1]) is how the PROs do it.
+                if(!bits) return null;
+                return {
+                    r: parseInt(bits[1], 16),
+                    g: parseInt(bits[2], 16),
+                    b: parseInt(bits[3], 16)
+                };
+            }
+            function cssrgb2hex(rgb){
+                //"rgb(255,255,255)"->"#FFFFFF"
+                //"rgba(255,255,255,1)"->null
+                if(!rgb) return null;
+                rgb = rgb.match(/^rgb\((\d+),\s*(\d+),\s*(\d+)\)$/);
+                if(!rgb) return null;
+                return "#" + ("0" + parseInt(rgb[1],10).toString(16)).slice(-2)
+                           + ("0" + parseInt(rgb[2],10).toString(16)).slice(-2)
+                           + ("0" + parseInt(rgb[3],10).toString(16)).slice(-2);
+            }
+            
+            window.dontSetIcon=true;
+        </script>
+        <script type="text/javascript" src="/kc.js"></script>
+        <style>
+            #palette td {
+                width: 40px;
+                height: 40px;
+                border: 0px dotted gray;
+            }
+            .palettecolorsmall {
+                width: 10px;
+                height: 10px;
+                border: 1px solid black;
+            }
+            #palette {
+                border-collapse: separate;
+                border-spacing: 0px;
+            }
+            #palettetest {
+                position: fixed;
+                right: 10px; bottom: 10px;
+            }
+            #port {
+                resize: vertical;
+            }
+            #jsonerror {
+                color: red;
+            }
+            #exportinfo {
+                color: green;
+            }
+            .badthing {
+                color: #FF4000;
+            }
+            #palettetest {
+                box-shadow: 2px 2px 15px black;
+            }
+            
+            .indented {
+                margin-left: 40px;
+                color: #383;
+            }
+            details{ width:500px; }
+            
+            ul { list-style:none;margin:0; }
+            li { margin:0; }
+            li:before{ margin: 5px; }
+            .delete:before{content:url(http://cdn1.iconfinder.com/data/icons/ledicons/cross.png);}
+            .add:before{content:url(http://cdn1.iconfinder.com/data/icons/ledicons/add.png);}
+            .move:before{content:url(http://cdn1.iconfinder.com/data/icons/cc_mono_icon_set/blacks/16x16/cursor_drag_arrow.png);}
+            .change:before{content:url(http://cdn1.iconfinder.com/data/icons/ledicons/control_wheel.png);}
+            .merge:before{content:url(http://cdn1.iconfinder.com/data/icons/ledicons/arrow_merge.png);}
+            .compliment:before{content:url(http://cdn1.iconfinder.com/data/icons/Momentum_GlossyEntireSet/16/highlighter.png);}
+            .fav:before{content:url(http://cdn1.iconfinder.com/data/icons/ledicons/star_1.png);}
+            .love:before{content:url(http://cdn1.iconfinder.com/data/icons/ledicons/heart.png);}
+            .vision:before{content:url(http://cdn1.iconfinder.com/data/icons/ledicons/eye.png);}
+            .vision { margin-top:10px; }
+            
+            label:not(.notalabel) { color: #000; font-weight:bold; font-size: 1.1em; }
+            #options label:not(.notalabel) { color: #444; font-weight:normal; font-size: 0.9em; }
+            #options input[type="range"] { position:relative; top: 10px; background-color: lime !important; }
+            #palettesize {
+                border-collapse: collapse;
+                border-spacing: 0;
+            }
+            #palettesize:hover {
+            }
+            .palettesize {
+                position: relative;
+            }
+            #palettesize:hover {
+                -webkit-transform: scale(2);
+                z-index: 5;
+            }
+            td.palettesizecell {
+                width: 3px;
+                height: 3px;
+                border: 1px solid gray;
+            }
+            /*.palettesize:hover td.palettesizecell {
+                width: 6px;
+                height: 6px;
+            }*/
+            #right {
+                position: absolute;
+                right: 0;
+                top: 0;
+                bottom: 0;
+                padding: 20px;
+                padding-left: 0;
+                
+                background: rgba(255,255,255,0.7);
+                box-shadow: -20px 20px 20px rgba(255,255,255,0.7);
+            }
+            
+            *               { -webkit-transition: all .2s ease-in-out; }
+            input,textarea  { -webkit-transition: none; }
+            
+            [title]{border-bottom:1px dotted blue}
+            [title]{border:blue1px0dotted}
+            
+            #palettesizelabel {
+                font-size: 3em;
+                position: relative;
+                left: 0; top: 0; bottom: 50px; right: 0;
+                border: 1px solid red;
+                pointer-events: none;
+                
+                color: rgba(255,255,255,0.5);
+                
+                text-shadow: 5px black;
+            }
+        </style>
+    </head>
+    <body onload="domLoaded()" class="dont-set-icon">
+        <button onclick="newPalette()">New Palette</button>
+        <button onclick="extendPalette()">Extend Palette</button>
+        <table id="palette"></table>
+        <br><br>
+        <label for="port">Import/Export 2d palette data</label>
+        <div id="jsonerror"></div>
+        <textarea id="port" cols=54 rows=5 onchange="loadPalette()" onkeypress="loadPalette()" onkeyup="loadPalette()"></textarea><br><br>
+        <label for="export">Export unique colors</label> (<span id="uniques"></span>)<br>
+        <textarea id="export" cols=54 rows=5></textarea>
+        <div id="exportinfo"></div><br>
+        <div id="right">
+            <h3>Options</h3>
+            <div>
+                <label>Palette size</label>
+                <!--
+        <br>    Width: <input type="number" min=1 max=25 value=5 id="palettewidth">
+                Height: <input type="number" min=1 max=25 value=5 id="paletteheight">
+                -->
+        <br>    <div class="palettesize">
+                    <table id="palettesize"></table>
+                    <label id="palettesizelabel"></label>
+                </div>
+        <br>
+        <br>    <label>Palette Generation</label>
+        <br>    <span title="How much colors get merged with each other.">Bluriness</span>: 
+                <input type="range" min=0 max=12 value=3 id="palettebluriness">
+        <br>    Starting colors: 
+                <input type="range" min=0 max=100 value=6 id="startingcolors">
+        <br>
+        <br>    <label>Exporting Colors</label>
+        <br>    <q><span title="The sum of [ the absolute difference in ]each[ of the chanels. ]">Uniqueness</span></q> threshold: 
+                <input type="range" min=1 max=50 value=7 id="colordistance">
+        <br>    <label class="notalabel" title="Indicates that the color usage (duplicate/similar colors) when drawing to the canvas in the bottom right should be proportional to the color usage in the palette.">Color usage proportional: <input type="checkbox" id="proportionalColors"></label>
+                
+            </div>
+            <h3>"Tools"</h3>
+            <ul>
+                <li class="delete">Delete</li>
+                <li class="add">Add</li>
+                <li class="move">Move colors</li>
+                <li class="change">Change colors</li>
+                <li class="merge">Merge colors</li>
+                <li class="compliment">Generate complement</li>
+                <li class="fav">Favorites</li>
+                <li class="love">Love the colors</li>
+                <li class="vision">Vision Simulator</li>
+            </ul>
+            <h3>About</h3>
+            <div>
+                <div class="add">Help</div>
+                <div class="fav">Features</div>
+                <div class="compliment">Todo</div>
+                <div class="change" title="Ctrl-S, Cmd-S, Save webpage. F12, view-source:this.html, etc.">Get Source</div>
+                <div class="love">Donate... love</div>
+            </div>
+        </div>
+        <canvas id="palettetest" width=180 height=180></canvas>
+    </body>
+</html>

@@ -1,0 +1,18 @@
+// default colors
+
+navy    = #222245
+blue    = #1DA1CD
+aqua    = #53ECEC
+teal    = #339999
+olive   = #77A277
+green   = #68D286
+lime    = #66CC66
+yellow  = #FCD174
+orange  = #FBAD2F
+red     = #EB585C
+maroon  = #854848
+fuchsia = #D270D2
+purple  = #A085C6
+silver  = #D3D3D3
+gray    = #353D44
+black   = #111111
