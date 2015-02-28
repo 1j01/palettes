@@ -1,0 +1,27 @@
+{
+  "name": "palettes",
+  "version": "0.0.1",
+  "description": "A collection of palettes",
+  "keywords": [
+    "palettes",
+    "palette",
+    "colors",
+    "color"
+  ],
+  "private": true,
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/1j01/palettes.git"
+  },
+  "bugs": {
+    "url": "https://github.com/1j01/palettes/issues"
+  },
+  "main": "palettes.json",
+  "scripts": {
+    "build": "cake build"
+  },
+  "devDependencies": {
+    "coffee-script": "^1.9.1",
+    "glob": "^4.4.1"
+  }
+}
