@@ -19,6 +19,7 @@
 		name: "DawnBringer's palettes"
 		description: "
 			<a href='http://www.pixeljoint.com/p/23821.htm'>DawnBringer</a>'s 16 and 32 color palettes in various formats.
+			<a href='http://www.pixeljoint.com/forum/forum_posts.asp?TID=26050'>DB8</a> and
 			<a href='http://www.pixeljoint.com/forum/forum_posts.asp?TID=12795'>DB16</a> and
 			<a href='http://www.pixeljoint.com/forum/forum_posts.asp?TID=16247'>DB32</a>
 		"
@@ -29,6 +30,7 @@
 			"db32.act"
 			"db32.gpl"
 			"db16.gpl"
+			"db8.pal"
 			# "db32_v1_pal64x32.png"
 		]
 	}
