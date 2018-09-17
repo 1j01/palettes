@@ -78,6 +78,30 @@
 		] 
 	}
 	{
+		name: "Nord (style files)"
+		description: ""
+		dir: "Nord/"
+		fnames: [
+			"nord.css"
+			"nord.less"
+			"nord.scss"
+			"nord.styl"
+		]
+	}
+	{
+		name: "Nord (native palettes)"
+		description: ""
+		dir: "Nord/native/"
+		fnames: [
+			"nord.aco"
+			"nord.ase"
+			"nord.clr"
+			"nord.gpa"
+			"nord.gpl"
+			"nord.mtl"
+		]
+	}
+	{
 		name: "StarCraft palettes"
 		description: "" # "Load even StarCraft's palette formats!"
 		dir: "StarCraft/"
