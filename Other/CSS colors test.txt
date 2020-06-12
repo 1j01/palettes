@@ -1,0 +1,144 @@
+RGB colors
+The RGB color model defines a given color according to its red, green, and blue components. An optional alpha component represents the color's transparency.
+
+Syntax
+RGB colors can be expressed through both hexadecimal (prefixed with #) and functional (rgb(), rgba()) notations.
+
+Note: As of CSS Colors Level 4, rgba() is an alias for rgb(). In browsers that implement the Level 4 standard, they accept the same parameters and behave the same way.
+
+Hexadecimal notation: #RRGGBB[AA]
+R (red), G (green), B (blue), and A (alpha) are hexadecimal characters (0–9, A–F). A is optional. For example, #ff0000 is equivalent to #ff0000ff.
+Hexadecimal notation: #RGB[A]
+R (red), G (green), B (blue), and A (alpha) are hexadecimal characters (0–9, A–F). A is optional. The three-digit notation (#RGB) is a shorter version of the six-digit form (#RRGGBB). For example, #f09 is the same color as #ff0099. Likewise, the four-digit RGB notation (#RGBA) is a shorter version of the eight-digit form (#RRGGBBAA). For example, #0f38 is the same color as #00ff3388.
+Functional notation: rgb[a](R, G, B[, A])
+R (red), G (green), and B (blue) can be either <number>s or <percentage>s, where the number 255 corresponds to 100%. A (alpha) can be a <number> between 0 and 1, or a <percentage>, where the number 1 corresponds to 100% (full opacity).
+Functional notation: rgb[a](R G B[ / A])
+CSS Colors Level 4 adds support for space-separated values in the functional notation.
+Examples
+RGB syntax variations
+This example shows the many ways in which a single color can be created with the various RGB color syntaxes.
+
+/* These syntax variations all specify the same color: a fully opaque hot pink. */
+
+/* Hexadecimal syntax */
+#f09
+#F09
+#ff0099
+#FF0099
+
+/* Functional syntax */
+rgb(255,0,153)
+rgb(255, 0, 153)
+rgb(255, 0, 153.0)
+rgb(100%,0%,60%)
+rgb(100%, 0%, 60%)
+rgb(100%, 0, 60%) /* ERROR! Don't mix numbers and percentages. */
+rgb(255 0 153)
+
+/* Hexadecimal syntax with alpha value */
+#f09f
+#F09F
+#ff0099ff
+#FF0099FF
+
+/* Functional syntax with alpha value */
+rgb(255, 0, 153, 1)
+rgb(255, 0, 153, 100%)
+
+/* Whitespace syntax */
+rgb(255 0 153 / 1)
+rgb(255 0 153 / 100%)
+
+/* Functional syntax with floats value */
+rgb(255, 0, 153.6, 1)
+rgb(1e2, .5e1, .5e0, +.25e2%)
+RGB transparency variations
+/* Hexadecimal syntax */
+#3a30                    /*   0% opaque green */ 
+#3A3F                    /* full opaque green */ 
+#33aa3300                /*   0% opaque green */ 
+#33AA3380                /*  50% opaque green */ 
+
+/* Functional syntax */
+rgba(51, 170, 51, .1)    /*  10% opaque green */ 
+rgba(51, 170, 51, .4)    /*  40% opaque green */ 
+rgba(51, 170, 51, .7)    /*  70% opaque green */ 
+rgba(51, 170, 51,  1)    /* full opaque green */ 
+
+/* Whitespace syntax */
+rgba(51 170 51 / 0.4)    /*  40% opaque green */ 
+rgba(51 170 51 / 40%)    /*  40% opaque green */ 
+
+/* Functional syntax with floats value */
+rgba(255, 0, 153.6, 1)
+rgba(1e2, .5e1, .5e0, +.25e2%)
+HSL colors
+The HSL color model defines a given color according to its hue, saturation, and lightness components. An optional alpha component represents the color's transparency.
+
+Many designers find HSL more intuitive than RGB, since it allows hue, saturation, and lightness to each be adjusted independently. HSL can also make it easier to create a set of matching colors (such as when you want multiple shades of a single hue).
+
+Syntax
+HSL colors are expressed through the functional hsl() and hsla() notations.
+
+Note: As of CSS Colors Level 4, hsla() is an alias for hsl(). In browsers that implement the Level 4 standard, they accept the same parameters and behave the same way.
+
+Functional notation: hsl[a](H, S, L[, A])
+H (hue) is an <angle> of the color circle given in degs, rads, grads, or turns in CSS Color Module Level 4. When written as a unitless <number>, it is interpreted as degrees, as specified in CSS Color Module Level 3. By definition, red=0deg=360deg, with the other colors spread around the circle, so green=120deg, blue=240deg, etc. As an <angle>, it implicitly wraps around such that -120deg=240deg, 480deg=120deg, -1turn=1turn, etc.
+S (saturation) and L (lightness) are percentages. 100% saturation is completely saturated, while 0% is completely unsaturated (gray). 100% lightness is white, 0% lightness is black, and 50% lightness is “normal.”
+A (alpha) can be a <number> between 0 and 1, or a <percentage>, where the number 1 corresponds to 100% (full opacity).
+Functional notation: hsl[a](H S L[ / A])
+CSS Colors Level 4 adds support for space-separated values in the functional notation.
+Examples
+HSL syntax variations
+/* These examples all specify the same color: a lavender. */
+hsl(270,60%,70%)
+hsl(270, 60%, 70%)
+hsl(270 60% 70%)
+hsl(270deg, 60%, 70%)
+hsl(4.71239rad, 60%, 70%)
+hsl(.75turn, 60%, 70%)
+
+/* These examples all specify the same color: a lavender that is 15% opaque. */
+hsl(270, 60%, 50%, .15)
+hsl(270, 60%, 50%, 15%)
+hsl(270 60% 50% / .15)
+hsl(270 60% 50% / 15%)
+Fully saturated colors
+Notation	Description	Live
+hsl(0, 100%, 50%)	red	
+hsl(30, 100%, 50%)	orange	
+hsl(60, 100%, 50%)	yellow	
+hsl(90, 100%, 50%)	lime green	
+hsl(120, 100%, 50%)	green	
+hsl(150, 100%, 50%)	blue-green	
+hsl(180, 100%, 50%)	cyan	
+hsl(210, 100%, 50%)	sky blue	
+hsl(240, 100%, 50%)	blue	
+hsl(270, 100%, 50%)	purple	
+hsl(300, 100%, 50%)	magenta	
+hsl(330, 100%, 50%)	pink	
+hsl(360, 100%, 50%)	red	Lighter and darker greens
+Notation	Description	Live
+hsl(120, 100%, 0%)	black	
+hsl(120, 100%, 20%)		
+hsl(120, 100%, 40%)		
+hsl(120, 100%, 60%)		
+hsl(120, 100%, 80%)		
+hsl(120, 100%, 100%)	white	Saturated and desaturated greens
+Notation	Description	Live
+hsl(120, 100%, 50%)	green	
+hsl(120, 80%, 50%)		
+hsl(120, 60%, 50%)		
+hsl(120, 40%, 50%)		
+hsl(120, 20%, 50%)		
+hsl(120, 0%, 50%)	gray	HSL transparency variations
+hsla(240, 100%, 50%, .05)     /*   5% opaque blue */ 
+hsla(240, 100%, 50%, .4)      /*  40% opaque blue */ 
+hsla(240, 100%, 50%, .7)      /*  70% opaque blue */ 
+hsla(240, 100%, 50%, 1)       /* full opaque blue */ 
+
+/* Whitespace syntax */
+hsla(240 100% 50% / .05)      /*   5% opaque blue */ 
+
+/* Percentage value for alpha */
+hsla(240 100% 50% / 5%)       /*   5% opaque blue */ 
