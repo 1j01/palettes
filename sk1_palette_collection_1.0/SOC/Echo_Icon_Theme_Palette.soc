@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Palette source: Echo Project
+The palette is published here:
+https://fedorahosted.org/echo-icon-theme/wiki/Guidelines/ColorPalette
+
+-->
+<office:color-table xmlns:form="http://openoffice.org/2000/form" xmlns:number="http://openoffice.org/2000/datastyle" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:office="http://openoffice.org/2000/office" xmlns:meta="http://openoffice.org/2000/meta" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:svg="http://www.w3.org/2000/svg" xmlns:dr3d="http://openoffice.org/2000/dr3d" xmlns:text="http://openoffice.org/2000/text" xmlns:style="http://openoffice.org/2000/style" xmlns:script="http://openoffice.org/2000/script" xmlns:chart="http://openoffice.org/2000/chart" xmlns:draw="http://openoffice.org/2000/drawing" xmlns:table="http://openoffice.org/2000/table" xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:config="http://openoffice.org/2001/config" xmlns:dc="http://purl.org/dc/elements/1.1/">
+ <draw:color draw:name="Blue1" draw:color="#19aeff"/>
+ <draw:color draw:name="Blue2" draw:color="#0084c8"/>
+ <draw:color draw:name="Blue3" draw:color="#005c94"/>
+ <draw:color draw:name="Red1" draw:color="#ff4141"/>
+ <draw:color draw:name="Red2" draw:color="#dc0000"/>
+ <draw:color draw:name="Red3" draw:color="#b50000"/>
+ <draw:color draw:name="Orange1" draw:color="#ffff3e"/>
+ <draw:color draw:name="Orange2" draw:color="#ff9900"/>
+ <draw:color draw:name="Orange3" draw:color="#ff6600"/>
+ <draw:color draw:name="Brown1" draw:color="#ffc022"/>
+ <draw:color draw:name="Brown2" draw:color="#b88100"/>
+ <draw:color draw:name="Brown3" draw:color="#804d00"/>
+ <draw:color draw:name="Green1" draw:color="#ccff42"/>
+ <draw:color draw:name="Green2" draw:color="#9ade00"/>
+ <draw:color draw:name="Green3" draw:color="#009100"/>
+ <draw:color draw:name="Purple1" draw:color="#f1caff"/>
+ <draw:color draw:name="Purple2" draw:color="#d76cff"/>
+ <draw:color draw:name="Purple3" draw:color="#ba00ff"/>
+ <draw:color draw:name="Metalic1" draw:color="#bdcdd4"/>
+ <draw:color draw:name="Metalic2" draw:color="#9eabb0"/>
+ <draw:color draw:name="Metalic3" draw:color="#364e59"/>
+ <draw:color draw:name="Metalic4" draw:color="#0e232e"/>
+ <draw:color draw:name="Grey1" draw:color="#ffffff"/>
+ <draw:color draw:name="Grey2" draw:color="#cccccc"/>
+ <draw:color draw:name="Grey3" draw:color="#999999"/>
+ <draw:color draw:name="Grey4" draw:color="#666666"/>
+ <draw:color draw:name="Grey5" draw:color="#2d2d2d"/>
+</office:color-table>

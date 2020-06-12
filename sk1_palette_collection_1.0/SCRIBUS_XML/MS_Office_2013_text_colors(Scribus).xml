@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Palette source: Microsoft
+The palette is published here:
+https://msdn.microsoft.com/en-us/library/office/dn684229.aspx
+-->
+<SCRIBUSCOLORS Name="MS Office 2013 text colors" >
+	<COLOR RGB="#000000" NAME="Black" />
+	<COLOR RGB="#333333" NAME="Primary" />
+	<COLOR RGB="#666666" NAME="Secondary" />
+	<COLOR RGB="#336699" NAME="Hyperlink" />
+	<COLOR RGB="#c8c8c8" NAME="Tertiary" />
+	<COLOR RGB="#a80f22" NAME="Warnings" />
+	<COLOR RGB="#333333" NAME="Selected text" />
+</SCRIBUSCOLORS>

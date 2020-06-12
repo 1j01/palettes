@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Palette source: Mageia
+The palette is published here:
+https://wiki.mageia.org/en/Artwork_team
+
+-->
+<office:color-table xmlns:form="http://openoffice.org/2000/form" xmlns:number="http://openoffice.org/2000/datastyle" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:office="http://openoffice.org/2000/office" xmlns:meta="http://openoffice.org/2000/meta" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:svg="http://www.w3.org/2000/svg" xmlns:dr3d="http://openoffice.org/2000/dr3d" xmlns:text="http://openoffice.org/2000/text" xmlns:style="http://openoffice.org/2000/style" xmlns:script="http://openoffice.org/2000/script" xmlns:chart="http://openoffice.org/2000/chart" xmlns:draw="http://openoffice.org/2000/drawing" xmlns:table="http://openoffice.org/2000/table" xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:config="http://openoffice.org/2001/config" xmlns:dc="http://purl.org/dc/elements/1.1/">
+ <draw:color draw:name="Black" draw:color="#000000"/>
+ <draw:color draw:name="Bombay ~" draw:color="#b7b7b7"/>
+ <draw:color draw:name="White" draw:color="#ffffff"/>
+ <draw:color draw:name="Midnight blue ~" draw:color="#36005e"/>
+ <draw:color draw:name="Midnight blue ~" draw:color="#4c006f"/>
+ <draw:color draw:name="Indigo ~" draw:color="#610c81"/>
+ <draw:color draw:name="Dark magenta ~" draw:color="#772493"/>
+ <draw:color draw:name="Fuchsia ~" draw:color="#8c38a5"/>
+ <draw:color draw:name="Medium violet red ~" draw:color="#a34cb8"/>
+ <draw:color draw:name="Medium purple ~" draw:color="#b95fca"/>
+ <draw:color draw:name="Orchid ~" draw:color="#d073de"/>
+ <draw:color draw:name="Violet ~" draw:color="#e787f1"/>
+ <draw:color draw:name="Midnight blue ~" draw:color="#001260"/>
+ <draw:color draw:name="Midnight blue" draw:color="#1c2172"/>
+ <draw:color draw:name="Indigo ~" draw:color="#363183"/>
+ <draw:color draw:name="Daisy bush ~" draw:color="#4d4195"/>
+ <draw:color draw:name="Studio ~" draw:color="#6453a8"/>
+ <draw:color draw:name="Fuchsia ~" draw:color="#7a64ba"/>
+ <draw:color draw:name="True v ~" draw:color="#9077cd"/>
+ <draw:color draw:name="Cornflower ~" draw:color="#a68ae0"/>
+ <draw:color draw:name="Deep sky blue ~" draw:color="#bd9ef4"/>
+ <draw:color draw:name="Paris m ~" draw:color="#002a5f"/>
+ <draw:color draw:name="Resolution blue ~" draw:color="#003970"/>
+ <draw:color draw:name="Jacksons purple ~" draw:color="#004a81"/>
+ <draw:color draw:name="Endeavour ~" draw:color="#095b93"/>
+ <draw:color draw:name="Scampi ~" draw:color="#326da5"/>
+ <draw:color draw:name="Curious blue" draw:color="#4c80b8"/>
+ <draw:color draw:name="Picton blue ~" draw:color="#6593ca"/>
+ <draw:color draw:name="Jordy blue ~" draw:color="#7ca6dd"/>
+ <draw:color draw:name="Dark turquoise ~" draw:color="#93bbf1"/>
+ <draw:color draw:name="Bahama blue ~" draw:color="#105e7d"/>
+ <draw:color draw:name="Waikawa grey ~" draw:color="#31708f"/>
+ <draw:color draw:name="Dark cyan ~" draw:color="#4983a1"/>
+ <draw:color draw:name="Shakespeare ~" draw:color="#6096b3"/>
+ <draw:color draw:name="Polo blue ~" draw:color="#77aac5"/>
+ <draw:color draw:name="Moon raker ~" draw:color="#8dbed8"/>
+ <draw:color draw:name="Sail ~" draw:color="#a4d3eb"/>
+ <draw:color draw:name="Pale turquoise ~" draw:color="#bbe8ff"/>
+ <draw:color draw:name="Light cyan ~" draw:color="#d2fdff"/>
+ <draw:color draw:name="Stratos ~" draw:color="#000127"/>
+ <draw:color draw:name="Stratos ~" draw:color="#000127"/>
+ <draw:color draw:name="Outer space ~" draw:color="#001735"/>
+ <draw:color draw:name="Violent violet ~" draw:color="#052645"/>
+ <draw:color draw:name="Cobalt" draw:color="#1f3555"/>
+ <draw:color draw:name="Bay of many ~" draw:color="#344666"/>
+ <draw:color draw:name="Chambray" draw:color="#485777"/>
+ <draw:color draw:name="Wedgewood ~" draw:color="#5c6988"/>
+ <draw:color draw:name="Hippie blue ~" draw:color="#717c9a"/>
+ <draw:color draw:name="Dark red ~" draw:color="#7e0001"/>
+ <draw:color draw:name="Bright red ~" draw:color="#950011"/>
+ <draw:color draw:name="Firebrick ~" draw:color="#ae001d"/>
+ <draw:color draw:name="Mandy ~" draw:color="#c6002b"/>
+ <draw:color draw:name="Crimson ~" draw:color="#df013a"/>
+ <draw:color draw:name="Orange red ~" draw:color="#f72f49"/>
+ <draw:color draw:name="Orange red ~" draw:color="#ff4958"/>
+ <draw:color draw:name="Tomato" draw:color="#ff6169"/>
+ <draw:color draw:name="Coral ~" draw:color="#ff777a"/>
+</office:color-table>

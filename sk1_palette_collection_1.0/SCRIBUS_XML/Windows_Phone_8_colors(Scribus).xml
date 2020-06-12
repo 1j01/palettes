@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Palette source: Microsoft
+The palette is published here:
+https://msdn.microsoft.com/library/windows/apps/ff402557(v=vs.105).aspx
+-->
+<SCRIBUSCOLORS Name="Windows Phone 8 colors" >
+	<COLOR RGB="#a4c400" NAME="Lime" />
+	<COLOR RGB="#60a917" NAME="Green" />
+	<COLOR RGB="#008a00" NAME="Emerald" />
+	<COLOR RGB="#00aba9" NAME="Teal" />
+	<COLOR RGB="#1ba1e2" NAME="Cyan" />
+	<COLOR RGB="#0050ef" NAME="Cobalt" />
+	<COLOR RGB="#6a00ff" NAME="Indigo" />
+	<COLOR RGB="#aa00ff" NAME="Violet" />
+	<COLOR RGB="#f472d0" NAME="Pink" />
+	<COLOR RGB="#d80073" NAME="Magenta" />
+	<COLOR RGB="#a20025" NAME="Crimson" />
+	<COLOR RGB="#e51400" NAME="Red" />
+	<COLOR RGB="#fa6800" NAME="Orange" />
+	<COLOR RGB="#f0a30a" NAME="Amber" />
+	<COLOR RGB="#e3c800" NAME="Yellow" />
+	<COLOR RGB="#825a2c" NAME="Brown" />
+	<COLOR RGB="#6d8764" NAME="Olive" />
+	<COLOR RGB="#647687" NAME="Steel" />
+	<COLOR RGB="#76608a" NAME="Mauve" />
+	<COLOR RGB="#a0522d" NAME="Sienna" />
+</SCRIBUSCOLORS>

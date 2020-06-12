@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Palette source: Google
+The palette is published here:
+http://ftp.gunadarma.ac.id/android/sdk/sdk_310712/docs/guide/practices/ui_guidelines/icon_design_launcher.html
+-->
+<SCRIBUSCOLORS Name="Android icon colors" >
+	<COLOR RGB="#ffffff" NAME="#FFFFFF" />
+	<COLOR RGB="#bfbfbf" NAME="#BFBFBF" />
+	<COLOR RGB="#6699ff" NAME="#6699FF" />
+	<COLOR RGB="#99cc33" NAME="#99CC33" />
+	<COLOR RGB="#ffcc00" NAME="#FFCC00" />
+	<COLOR RGB="#808080" NAME="#808080" />
+	<COLOR RGB="#3366cc" NAME="#3366CC" />
+	<COLOR RGB="#00cc00" NAME="#00CC00" />
+	<COLOR RGB="#ff9900" NAME="#FF9900" />
+	<COLOR RGB="#000000" NAME="#000000" />
+	<COLOR RGB="#404040" NAME="#404040" />
+	<COLOR RGB="#003399" NAME="#003399" />
+	<COLOR RGB="#669900" NAME="#669900" />
+	<COLOR RGB="#ff6600" NAME="#FF6600" />
+	<COLOR RGB="#cc0000" NAME="#CC0000" />
+</SCRIBUSCOLORS>

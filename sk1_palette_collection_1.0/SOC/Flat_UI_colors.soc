@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Palette source: Designmondo
+The palette is published here:
+http://designmodo.github.io/Flat-UI/
+
+-->
+<office:color-table xmlns:form="http://openoffice.org/2000/form" xmlns:number="http://openoffice.org/2000/datastyle" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:office="http://openoffice.org/2000/office" xmlns:meta="http://openoffice.org/2000/meta" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:svg="http://www.w3.org/2000/svg" xmlns:dr3d="http://openoffice.org/2000/dr3d" xmlns:text="http://openoffice.org/2000/text" xmlns:style="http://openoffice.org/2000/style" xmlns:script="http://openoffice.org/2000/script" xmlns:chart="http://openoffice.org/2000/chart" xmlns:draw="http://openoffice.org/2000/drawing" xmlns:table="http://openoffice.org/2000/table" xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:config="http://openoffice.org/2001/config" xmlns:dc="http://purl.org/dc/elements/1.1/">
+ <draw:color draw:name="TURQUOISE" draw:color="#1abc9c"/>
+ <draw:color draw:name="EMERALD" draw:color="#2ecc71"/>
+ <draw:color draw:name="PETER RIVER" draw:color="#3498db"/>
+ <draw:color draw:name="AMETHYST" draw:color="#9b59b6"/>
+ <draw:color draw:name="WET ASPHALT" draw:color="#34495e"/>
+ <draw:color draw:name="GREEN SEA" draw:color="#16a085"/>
+ <draw:color draw:name="NEPHRITIS" draw:color="#27ae60"/>
+ <draw:color draw:name="BELIZE HOLE" draw:color="#2980b9"/>
+ <draw:color draw:name="WISTERIA" draw:color="#8e44ad"/>
+ <draw:color draw:name="MIDNIGHT BLUE" draw:color="#2c3e50"/>
+ <draw:color draw:name="SUN FLOWER" draw:color="#f1c40f"/>
+ <draw:color draw:name="CARROT" draw:color="#e67e22"/>
+ <draw:color draw:name="ALIZARIN" draw:color="#e74c3c"/>
+ <draw:color draw:name="CLOUDS" draw:color="#ecf0f1"/>
+ <draw:color draw:name="CONCRETE" draw:color="#95a5a6"/>
+ <draw:color draw:name="ORANGE" draw:color="#f39c12"/>
+ <draw:color draw:name="PUMPKIN" draw:color="#d35400"/>
+ <draw:color draw:name="POMEGRANATE" draw:color="#c0392b"/>
+ <draw:color draw:name="SILVER" draw:color="#b9bfc3"/>
+ <draw:color draw:name="ASBESTOS" draw:color="#7e8a8b"/>
+</office:color-table>

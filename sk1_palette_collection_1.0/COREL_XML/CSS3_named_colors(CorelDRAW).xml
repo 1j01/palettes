@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+Palette source: W3C
+The palette is published here:
+http://www.w3.org/TR/css3-color/
+
+-->
+<palette guid="c5eda314-15a2-11e5-a91f-e03f4985805d" name="CSS3 named colors">
+	<colorspaces />
+	<colors>
+		<page>
+			<color cs="RGB" tints="0.0,0.0,0.0" name="black" />
+			<color cs="RGB" tints="0.752941,0.752941,0.752941" name="silver" />
+			<color cs="RGB" tints="0.501961,0.501961,0.501961" name="gray" />
+			<color cs="RGB" tints="1.0,1.0,1.0" name="white" />
+			<color cs="RGB" tints="0.501961,0.0,0.0" name="maroon" />
+			<color cs="RGB" tints="1.0,0.0,0.0" name="red" />
+			<color cs="RGB" tints="0.501961,0.0,0.501961" name="purple" />
+			<color cs="RGB" tints="1.0,0.0,1.0" name="fuchsia" />
+			<color cs="RGB" tints="0.0,0.501961,0.0" name="green" />
+			<color cs="RGB" tints="0.0,1.0,0.0" name="lime" />
+			<color cs="RGB" tints="0.501961,0.501961,0.0" name="olive" />
+			<color cs="RGB" tints="1.0,1.0,0.0" name="yellow" />
+			<color cs="RGB" tints="0.0,0.0,0.501961" name="navy" />
+			<color cs="RGB" tints="0.0,0.0,1.0" name="blue" />
+			<color cs="RGB" tints="0.0,0.501961,0.501961" name="teal" />
+			<color cs="RGB" tints="0.0,1.0,1.0" name="aqua" />
+		</page>
+	</colors>
+	<localization />
+</palette>

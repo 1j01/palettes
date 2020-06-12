@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+Palette source: Fedora Project
+The palette is published here:
+http://fedoraproject.org/wiki/Artwork/BluecurveIconGuidelines
+
+-->
+<palette guid="c5eab35c-15a2-11e5-a91f-e03f4985805d" name="Bluecurve icon colors">
+	<colorspaces />
+	<colors>
+		<page>
+			<color cs="RGB" tints="0.866667,0.745098,0.866667" name="DDBEDD" />
+			<color cs="RGB" tints="0.737255,0.501961,0.741176" name="BC80BD" />
+			<color cs="RGB" tints="0.619608,0.286275,0.631373" name="9E49A1" />
+			<color cs="RGB" tints="0.505882,0.090196,0.533333" name="811788" />
+			<color cs="RGB" tints="0.478431,0.0,0.509804" name="7A0082" />
+			<color cs="RGB" tints="0.74902,0.792157,0.886275" name="BFCAE2" />
+			<color cs="RGB" tints="0.501961,0.611765,0.788235" name="809CC9" />
+			<color cs="RGB" tints="0.270588,0.45098,0.701961" name="457383" />
+			<color cs="RGB" tints="0.039216,0.313725,0.631373" name="0A50A1" />
+			<color cs="RGB" tints="0.011765,0.172549,0.529412" name="032C87" />
+			<color cs="RGB" tints="0.898039,0.945098,0.956863" name="E5F1F4" />
+			<color cs="RGB" tints="0.8,0.92549,0.956863" name="CCECF4" />
+			<color cs="RGB" tints="0.6,0.85098,0.909804" name="99D9E8" />
+			<color cs="RGB" tints="0.403922,0.776471,0.866667" name="65C6DD" />
+			<color cs="RGB" tints="0.203922,0.701961,0.819608" name="34B3D1" />
+			<color cs="RGB" tints="0.8,0.921569,0.72549" name="CCEBB9" />
+			<color cs="RGB" tints="0.6,0.831373,0.498039" name="99D47F" />
+			<color cs="RGB" tints="0.4,0.733333,0.313725" name="66BB50" />
+			<color cs="RGB" tints="0.2,0.627451,0.172549" name="33A02C" />
+			<color cs="RGB" tints="0.0,0.6,0.0" name="009900" />
+			<color cs="RGB" tints="1.0,1.0,0.74902" name="FFFFBF" />
+			<color cs="RGB" tints="1.0,1.0,0.6" name="FFFF99" />
+			<color cs="RGB" tints="1.0,1.0,0.4" name="FFFF66" />
+			<color cs="RGB" tints="1.0,1.0,0.0" name="FFFF00" />
+			<color cs="RGB" tints="1.0,0.913725,0.0" name="FFE900" />
+			<color cs="RGB" tints="0.886275,0.745098,0.537255" name="E2BE89" />
+			<color cs="RGB" tints="1.0,0.592157,0.4" name="FF9766" />
+			<color cs="RGB" tints="0.8,0.4,0.207843" name="CC6635" />
+			<color cs="RGB" tints="0.6,0.2,0.0" name="993300" />
+			<color cs="RGB" tints="0.419608,0.196078,0.0" name="6B3200" />
+			<color cs="RGB" tints="0.996078,0.937255,0.815686" name="FEEFD0" />
+			<color cs="RGB" tints="0.996078,0.87451,0.701961" name="FEDFB3" />
+			<color cs="RGB" tints="0.992157,0.74902,0.435294" name="FDBF6F" />
+			<color cs="RGB" tints="1.0,0.623529,0.203922" name="FF9F34" />
+			<color cs="RGB" tints="1.0,0.498039,0.0" name="FF7F00" />
+			<color cs="RGB" tints="0.988235,0.752941,0.654902" name="FCC0A7" />
+			<color cs="RGB" tints="0.984314,0.501961,0.372549" name="FB805F" />
+			<color cs="RGB" tints="0.988235,0.254902,0.156863" name="FC4128" />
+			<color cs="RGB" tints="1.0,0.0,0.0" name="FF0000" />
+			<color cs="RGB" tints="0.654902,0.0,0.0" name="A70000" />
+			<color cs="RGB" tints="1.0,1.0,1.0" name="FFFFFF" />
+			<color cs="RGB" tints="0.8,0.8,0.8" name="CCCCCC" />
+			<color cs="RGB" tints="0.6,0.6,0.6" name="999999" />
+			<color cs="RGB" tints="0.4,0.4,0.4" name="666666" />
+			<color cs="RGB" tints="0.2,0.2,0.2" name="333333" />
+			<color cs="RGB" tints="0.0,0.0,0.0" name="000000" />
+		</page>
+	</colors>
+	<localization />
+</palette>

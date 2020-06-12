@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+Palette source: openSUSE
+The palette is published here:
+https://en.opensuse.org/Help:Colors
+
+-->
+<palette guid="c6b30b90-15a2-11e5-a91f-e03f4985805d" name="openSUSE colors">
+	<colorspaces />
+	<colors>
+		<page>
+			<color cs="RGB" tints="0.988235,0.682353,0.105882" name="Light Orange" />
+			<color cs="RGB" tints="0.890196,0.313725,0.003922" name="Dark Orange" />
+			<color cs="RGB" tints="1.0,1.0,0.4" name="Light Butter" />
+			<color cs="RGB" tints="0.698039,0.698039,0.278431" name="Dark Butter" />
+			<color cs="RGB" tints="0.580392,0.815686,0.023529" name="Light Lemon" />
+			<color cs="RGB" tints="0.133333,0.470588,0.031373" name="Dark Lemon" />
+			<color cs="RGB" tints="0.831373,0.768627,1.0" name="Light Plum" />
+			<color cs="RGB" tints="0.298039,0.266667,0.4" name="Dark Plum" />
+			<color cs="RGB" tints="0.313725,0.509804,1.0" name="Light Sky" />
+			<color cs="RGB" tints="0.0,0.0,0.454902" name="Dark Sky" />
+			<color cs="RGB" tints="0.729412,0.741176,0.717647" name="Light Dust" />
+			<color cs="RGB" tints="0.180392,0.203922,0.211765" name="Dark Dust" />
+			<color cs="RGB" tints="1.0,0.301961,0.301961" name="Light Blood" />
+			<color cs="RGB" tints="0.54902,0.0,0.0" name="Dark Blood" />
+		</page>
+	</colors>
+	<localization />
+</palette>

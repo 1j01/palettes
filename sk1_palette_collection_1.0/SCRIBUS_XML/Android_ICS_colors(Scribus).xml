@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Palette source: Google
+The palette is published here:
+http://developer.android.com/design/style/color.html
+-->
+<SCRIBUSCOLORS Name="Android ICS colors" >
+	<COLOR RGB="#33b5e5" NAME="33B5E5" />
+	<COLOR RGB="#aa66cc" NAME="AA66CC" />
+	<COLOR RGB="#99cc00" NAME="99CC00" />
+	<COLOR RGB="#ffbb33" NAME="FFBB33" />
+	<COLOR RGB="#ff4444" NAME="FF4444" />
+	<COLOR RGB="#0099cc" NAME="0099CC" />
+	<COLOR RGB="#9933cc" NAME="9933CC" />
+	<COLOR RGB="#669900" NAME="669900" />
+	<COLOR RGB="#ff8800" NAME="FF8800" />
+	<COLOR RGB="#cc0000" NAME="CC0000" />
+</SCRIBUSCOLORS>

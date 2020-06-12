@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Palette source: Microsoft
+The palette colors are from tiles found on the Start Screen.
+
+-->
+<office:color-table xmlns:form="http://openoffice.org/2000/form" xmlns:number="http://openoffice.org/2000/datastyle" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:office="http://openoffice.org/2000/office" xmlns:meta="http://openoffice.org/2000/meta" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:svg="http://www.w3.org/2000/svg" xmlns:dr3d="http://openoffice.org/2000/dr3d" xmlns:text="http://openoffice.org/2000/text" xmlns:style="http://openoffice.org/2000/style" xmlns:script="http://openoffice.org/2000/script" xmlns:chart="http://openoffice.org/2000/chart" xmlns:draw="http://openoffice.org/2000/drawing" xmlns:table="http://openoffice.org/2000/table" xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:config="http://openoffice.org/2001/config" xmlns:dc="http://purl.org/dc/elements/1.1/">
+ <draw:color draw:name="#008299" draw:color="#008299"/>
+ <draw:color draw:name="#00A0B1" draw:color="#00a0b1"/>
+ <draw:color draw:name="#2672EC" draw:color="#2672ec"/>
+ <draw:color draw:name="#2E8DEF" draw:color="#2e8def"/>
+ <draw:color draw:name="#8C0095" draw:color="#8c0095"/>
+ <draw:color draw:name="#A700AE" draw:color="#a700ae"/>
+ <draw:color draw:name="#5133AB" draw:color="#5133ab"/>
+ <draw:color draw:name="#643EBF" draw:color="#643ebf"/>
+ <draw:color draw:name="#AC193D" draw:color="#ac193d"/>
+ <draw:color draw:name="#BF1E4B" draw:color="#bf1e4b"/>
+ <draw:color draw:name="#D24726" draw:color="#d24726"/>
+ <draw:color draw:name="#DC572E" draw:color="#dc572e"/>
+ <draw:color draw:name="#008A00" draw:color="#008a00"/>
+ <draw:color draw:name="#00A600" draw:color="#00a600"/>
+ <draw:color draw:name="#094AB2" draw:color="#094ab2"/>
+ <draw:color draw:name="#0A5BC4" draw:color="#0a5bc4"/>
+</office:color-table>

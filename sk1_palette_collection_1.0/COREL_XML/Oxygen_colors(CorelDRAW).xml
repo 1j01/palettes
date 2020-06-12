@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+Palette source: KDE (https://www.kde.org/)
+Converted from oxygen.gpl
+
+-->
+<palette guid="c62cc904-15a2-11e5-a91f-e03f4985805d" name="Oxygen colors">
+	<colorspaces />
+	<colors>
+		<page>
+			<color cs="RGB" tints="0.219608,0.145098,0.035294" name="wood brown6" />
+			<color cs="RGB" tints="0.341176,0.25098,0.117647" name="wood brown5" />
+			<color cs="RGB" tints="0.458824,0.317647,0.101961" name="wood brown4" />
+			<color cs="RGB" tints="0.560784,0.419608,0.196078" name="wood brown3" />
+			<color cs="RGB" tints="0.701961,0.572549,0.364706" name="wood brown2" />
+			<color cs="RGB" tints="0.870588,0.737255,0.521569" name="wood brown1" />
+			<color cs="RGB" tints="0.611765,0.058824,0.058824" name="brick red6" />
+			<color cs="RGB" tints="0.74902,0.011765,0.011765" name="brick red5" />
+			<color cs="RGB" tints="0.886275,0.031373,0.0" name="brick red4" />
+			<color cs="RGB" tints="0.909804,0.341176,0.321569" name="brick red3" />
+			<color cs="RGB" tints="0.941176,0.52549,0.509804" name="brick red2" />
+			<color cs="RGB" tints="0.976471,0.8,0.792157" name="brick red1" />
+			<color cs="RGB" tints="0.611765,0.058824,0.337255" name="raspberry pink6" />
+			<color cs="RGB" tints="0.74902,0.011765,0.380392" name="raspberry pink5" />
+			<color cs="RGB" tints="0.886275,0.0,0.443137" name="raspberry pink4" />
+			<color cs="RGB" tints="0.909804,0.321569,0.564706" name="raspberry pink3" />
+			<color cs="RGB" tints="0.941176,0.509804,0.690196" name="raspberry pink2" />
+			<color cs="RGB" tints="0.976471,0.792157,0.870588" name="raspberry pink1" />
+			<color cs="RGB" tints="0.415686,0.0,0.337255" name="burgundy purple6" />
+			<color cs="RGB" tints="0.521569,0.007843,0.423529" name="burgundy purple5" />
+			<color cs="RGB" tints="0.627451,0.152941,0.52549" name="burgundy purple4" />
+			<color cs="RGB" tints="0.694118,0.309804,0.603922" name="burgundy purple3" />
+			<color cs="RGB" tints="0.756863,0.45098,0.690196" name="burgundy purple2" />
+			<color cs="RGB" tints="0.909804,0.717647,0.843137" name="burgundy purple1" />
+			<color cs="RGB" tints="0.113725,0.039216,0.333333" name="grape violet6" />
+			<color cs="RGB" tints="0.203922,0.090196,0.431373" name="grape violet5" />
+			<color cs="RGB" tints="0.27451,0.156863,0.52549" name="grape violet4" />
+			<color cs="RGB" tints="0.392157,0.290196,0.607843" name="grape violet3" />
+			<color cs="RGB" tints="0.556863,0.47451,0.647059" name="grape violet2" />
+			<color cs="RGB" tints="0.764706,0.705882,0.854902" name="grape violet1" />
+			<color cs="RGB" tints="0.0,0.192157,0.431373" name="skyblue6" />
+			<color cs="RGB" tints="0.0,0.262745,0.541176" name="skyblue5" />
+			<color cs="RGB" tints="0.0,0.341176,0.682353" name="skyblue4" />
+			<color cs="RGB" tints="0.172549,0.447059,0.780392" name="skyblue3" />
+			<color cs="RGB" tints="0.380392,0.576471,0.811765" name="skyblue2" />
+			<color cs="RGB" tints="0.643137,0.752941,0.894118" name="skyblue1" />
+			<color cs="RGB" tints="0.0,0.282353,0.301961" name="sea blue6" />
+			<color cs="RGB" tints="0.0,0.376471,0.4" name="sea blue5" />
+			<color cs="RGB" tints="0.0,0.470588,0.501961" name="sea blue4" />
+			<color cs="RGB" tints="0.0,0.654902,0.701961" name="sea blue3" />
+			<color cs="RGB" tints="0.0,0.768627,0.8" name="sea blue2" />
+			<color cs="RGB" tints="0.658824,0.866667,0.878431" name="sea blue1" />
+			<color cs="RGB" tints="0.0,0.345098,0.247059" name="emerald green6" />
+			<color cs="RGB" tints="0.0,0.45098,0.301961" name="emerald green5" />
+			<color cs="RGB" tints="0.0,0.6,0.4" name="emerald green4" />
+			<color cs="RGB" tints="0.0,0.701961,0.466667" name="emerald green3" />
+			<color cs="RGB" tints="0.0,0.8,0.533333" name="emerald green2" />
+			<color cs="RGB" tints="0.6,0.862745,0.776471" name="emerald green1" />
+			<color cs="RGB" tints="0.0,0.431373,0.160784" name="forest green6" />
+			<color cs="RGB" tints="0.0,0.537255,0.172549" name="forest green5" />
+			<color cs="RGB" tints="0.215686,0.643137,0.172549" name="forest green4" />
+			<color cs="RGB" tints="0.466667,0.717647,0.32549" name="forest green3" />
+			<color cs="RGB" tints="0.694118,0.823529,0.560784" name="forest green2" />
+			<color cs="RGB" tints="0.847059,0.909804,0.760784" name="forest green1" />
+			<color cs="RGB" tints="0.890196,0.678431,0.0" name="sun yellow6" />
+			<color cs="RGB" tints="0.952941,0.764706,0.0" name="sun yellow5" />
+			<color cs="RGB" tints="1.0,0.866667,0.0" name="sun yellow4" />
+			<color cs="RGB" tints="1.0,0.921569,0.333333" name="sun yellow3" />
+			<color cs="RGB" tints="1.0,0.94902,0.6" name="sun yellow2" />
+			<color cs="RGB" tints="1.0,0.964706,0.784314" name="sun yellow1" />
+			<color cs="RGB" tints="0.67451,0.262745,0.066667" name="hot orange6" />
+			<color cs="RGB" tints="0.811765,0.286275,0.07451" name="hot orange5" />
+			<color cs="RGB" tints="0.921569,0.45098,0.192157" name="hot orange4" />
+			<color cs="RGB" tints="0.94902,0.607843,0.407843" name="hot orange3" />
+			<color cs="RGB" tints="0.94902,0.733333,0.533333" name="hot orange2" />
+			<color cs="RGB" tints="1.0,0.85098,0.690196" name="hot orange1" />
+			<color cs="RGB" tints="0.180392,0.203922,0.211765" name="aluminum gray6" />
+			<color cs="RGB" tints="0.333333,0.341176,0.32549" name="aluminum gray5" />
+			<color cs="RGB" tints="0.533333,0.541176,0.521569" name="aluminum gray4" />
+			<color cs="RGB" tints="0.729412,0.741176,0.713725" name="aluminum gray3" />
+			<color cs="RGB" tints="0.827451,0.843137,0.811765" name="aluminum gray2" />
+			<color cs="RGB" tints="0.933333,0.933333,0.92549" name="aluminum gray1" />
+			<color cs="RGB" tints="0.301961,0.14902,0.0" name="brown orange6" />
+			<color cs="RGB" tints="0.501961,0.247059,0.0" name="brown orange5" />
+			<color cs="RGB" tints="0.74902,0.368627,0.0" name="brown orange4" />
+			<color cs="RGB" tints="1.0,0.494118,0.0" name="brown orange3" />
+			<color cs="RGB" tints="1.0,0.74902,0.501961" name="brown orange2" />
+			<color cs="RGB" tints="1.0,0.87451,0.74902" name="brown orange1" />
+			<color cs="RGB" tints="0.34902,0.0,0.0" name="red6" />
+			<color cs="RGB" tints="0.54902,0.0,0.0" name="red5" />
+			<color cs="RGB" tints="0.74902,0.0,0.0" name="red4" />
+			<color cs="RGB" tints="1.0,0.0,0.0" name="red3" />
+			<color cs="RGB" tints="1.0,0.501961,0.501961" name="red2" />
+			<color cs="RGB" tints="1.0,0.74902,0.74902" name="red1" />
+			<color cs="RGB" tints="0.45098,0.0,0.333333" name="pink6" />
+			<color cs="RGB" tints="0.639216,0.0,0.482353" name="pink5" />
+			<color cs="RGB" tints="0.8,0.0,0.603922" name="pink4" />
+			<color cs="RGB" tints="1.0,0.0,0.74902" name="pink3" />
+			<color cs="RGB" tints="1.0,0.501961,0.87451" name="pink2" />
+			<color cs="RGB" tints="1.0,0.74902,0.941176" name="pink1" />
+			<color cs="RGB" tints="0.172549,0.0,0.34902" name="purple6" />
+			<color cs="RGB" tints="0.25098,0.0,0.501961" name="purple5" />
+			<color cs="RGB" tints="0.352941,0.0,0.701961" name="purple4" />
+			<color cs="RGB" tints="0.501961,0.0,1.0" name="purple3" />
+			<color cs="RGB" tints="0.752941,0.501961,1.0" name="purple2" />
+			<color cs="RGB" tints="0.87451,0.74902,1.0" name="purple1" />
+			<color cs="RGB" tints="0.0,0.0,0.501961" name="blue6" />
+			<color cs="RGB" tints="0.0,0.0,0.74902" name="blue5" />
+			<color cs="RGB" tints="0.0,0.0,1.0" name="blue4" />
+			<color cs="RGB" tints="0.0,0.4,1.0" name="blue3" />
+			<color cs="RGB" tints="0.501961,0.701961,1.0" name="blue2" />
+			<color cs="RGB" tints="0.74902,0.85098,1.0" name="blue1" />
+			<color cs="RGB" tints="0.0,0.301961,0.0" name="green6" />
+			<color cs="RGB" tints="0.0,0.54902,0.0" name="green5" />
+			<color cs="RGB" tints="0.0,0.74902,0.0" name="green4" />
+			<color cs="RGB" tints="0.0,1.0,0.0" name="green3" />
+			<color cs="RGB" tints="0.501961,1.0,0.501961" name="green2" />
+			<color cs="RGB" tints="0.74902,1.0,0.74902" name="green1" />
+			<color cs="RGB" tints="0.388235,0.501961,0.0" name="lime6" />
+			<color cs="RGB" tints="0.545098,0.701961,0.0" name="lime5" />
+			<color cs="RGB" tints="0.74902,0.960784,0.0" name="lime4" />
+			<color cs="RGB" tints="0.898039,1.0,0.0" name="lime3" />
+			<color cs="RGB" tints="0.941176,1.0,0.501961" name="lime2" />
+			<color cs="RGB" tints="0.972549,1.0,0.74902" name="lime1" />
+			<color cs="RGB" tints="1.0,0.666667,0.0" name="yellow6" />
+			<color cs="RGB" tints="1.0,0.74902,0.0" name="yellow5" />
+			<color cs="RGB" tints="1.0,0.835294,0.0" name="yellow4" />
+			<color cs="RGB" tints="1.0,1.0,0.0" name="yellow3" />
+			<color cs="RGB" tints="1.0,1.0,0.6" name="yellow2" />
+			<color cs="RGB" tints="1.0,1.0,0.74902" name="yellow1" />
+			<color cs="RGB" tints="0.196078,0.196078,0.196078" name="gray6" />
+			<color cs="RGB" tints="0.333333,0.333333,0.333333" name="gray5" />
+			<color cs="RGB" tints="0.533333,0.533333,0.533333" name="gray4" />
+			<color cs="RGB" tints="0.733333,0.733333,0.733333" name="gray3" />
+			<color cs="RGB" tints="0.866667,0.866667,0.866667" name="gray2" />
+			<color cs="RGB" tints="0.933333,0.933333,0.933333" name="gray1" />
+		</page>
+	</colors>
+	<localization />
+</palette>

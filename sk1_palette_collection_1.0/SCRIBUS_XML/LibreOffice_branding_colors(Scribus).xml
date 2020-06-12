@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Palette source: Document Foundation
+The palette is published here:
+https://wiki.documentfoundation.org/Marketing/Branding#Colors
+-->
+<SCRIBUSCOLORS Name="LibreOffice branding colors" >
+	<COLOR RGB="#70a752" NAME="Olive" />
+	<COLOR RGB="#106802" NAME="Green 0" />
+	<COLOR RGB="#18a303" NAME="Green 1" />
+	<COLOR RGB="#43c330" NAME="Green 2" />
+	<COLOR RGB="#92e285" NAME="Green 3" />
+	<COLOR RGB="#ccf4c6" NAME="Green 4" />
+	<COLOR RGB="#023f62" NAME="Blue 0" />
+	<COLOR RGB="#0369a3" NAME="Blue 1" />
+	<COLOR RGB="#1c99e0" NAME="Blue 2" />
+	<COLOR RGB="#63bbee" NAME="Blue 3" />
+	<COLOR RGB="#aadcf7" NAME="Blue 4" />
+	<COLOR RGB="#622502" NAME="Orange 0" />
+	<COLOR RGB="#a33e03" NAME="Orange 1" />
+	<COLOR RGB="#d36118" NAME="Orange 2" />
+	<COLOR RGB="#f09e6f" NAME="Orange 3" />
+	<COLOR RGB="#f9cfb5" NAME="Orange 4" />
+	<COLOR RGB="#530260" NAME="Purple 0" />
+	<COLOR RGB="#8e03a3" NAME="Purple 1" />
+	<COLOR RGB="#c254d2" NAME="Purple 2" />
+	<COLOR RGB="#dc85e9" NAME="Purple 3" />
+	<COLOR RGB="#f2cbf8" NAME="Purple 4" />
+	<COLOR RGB="#876900" NAME="Yellow 0" />
+	<COLOR RGB="#c99c00" NAME="Yellow 1" />
+	<COLOR RGB="#e9b913" NAME="Yellow 2" />
+	<COLOR RGB="#f5ce53" NAME="Yellow 3" />
+	<COLOR RGB="#fde9a9" NAME="Yellow 4" />
+	<COLOR RGB="#2cee0e" NAME="Green Accent" />
+	<COLOR RGB="#00a0fc" NAME="Blue Accent" />
+	<COLOR RGB="#fc5c00" NAME="Orange Accent" />
+	<COLOR RGB="#e327ff" NAME="Purple Accent" />
+	<COLOR RGB="#ffd74c" NAME="Yellow Accent" />
+</SCRIBUSCOLORS>

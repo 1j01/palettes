@@ -1,0 +1,28 @@
+GIMP Palette
+Name: Windows Phone 8 colors
+Columns: 4
+#
+# Palette source: Microsoft
+# The palette is published here:
+# https://msdn.microsoft.com/library/windows/apps/ff402557(v=vs.105).aspx
+#
+164 196   0	Lime
+ 96 169  23	Green
+  0 138   0	Emerald
+  0 171 169	Teal
+ 27 161 226	Cyan
+  0  80 239	Cobalt
+106   0 255	Indigo
+170   0 255	Violet
+244 114 208	Pink
+216   0 115	Magenta
+162   0  37	Crimson
+229  20   0	Red
+250 104   0	Orange
+240 163  10	Amber
+227 200   0	Yellow
+130  90  44	Brown
+109 135 100	Olive
+100 118 135	Steel
+118  96 138	Mauve
+160  82  45	Sienna

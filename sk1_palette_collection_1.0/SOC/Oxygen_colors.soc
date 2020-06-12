@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Palette source: KDE (https://www.kde.org/)
+Converted from oxygen.gpl
+
+-->
+<office:color-table xmlns:form="http://openoffice.org/2000/form" xmlns:number="http://openoffice.org/2000/datastyle" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:office="http://openoffice.org/2000/office" xmlns:meta="http://openoffice.org/2000/meta" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:svg="http://www.w3.org/2000/svg" xmlns:dr3d="http://openoffice.org/2000/dr3d" xmlns:text="http://openoffice.org/2000/text" xmlns:style="http://openoffice.org/2000/style" xmlns:script="http://openoffice.org/2000/script" xmlns:chart="http://openoffice.org/2000/chart" xmlns:draw="http://openoffice.org/2000/drawing" xmlns:table="http://openoffice.org/2000/table" xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:config="http://openoffice.org/2001/config" xmlns:dc="http://purl.org/dc/elements/1.1/">
+ <draw:color draw:name="wood brown6" draw:color="#382509"/>
+ <draw:color draw:name="wood brown5" draw:color="#57401e"/>
+ <draw:color draw:name="wood brown4" draw:color="#75511a"/>
+ <draw:color draw:name="wood brown3" draw:color="#8f6b32"/>
+ <draw:color draw:name="wood brown2" draw:color="#b3925d"/>
+ <draw:color draw:name="wood brown1" draw:color="#debc85"/>
+ <draw:color draw:name="brick red6" draw:color="#9c0f0f"/>
+ <draw:color draw:name="brick red5" draw:color="#bf0303"/>
+ <draw:color draw:name="brick red4" draw:color="#e20800"/>
+ <draw:color draw:name="brick red3" draw:color="#e85752"/>
+ <draw:color draw:name="brick red2" draw:color="#f08682"/>
+ <draw:color draw:name="brick red1" draw:color="#f9ccca"/>
+ <draw:color draw:name="raspberry pink6" draw:color="#9c0f56"/>
+ <draw:color draw:name="raspberry pink5" draw:color="#bf0361"/>
+ <draw:color draw:name="raspberry pink4" draw:color="#e20071"/>
+ <draw:color draw:name="raspberry pink3" draw:color="#e85290"/>
+ <draw:color draw:name="raspberry pink2" draw:color="#f082b0"/>
+ <draw:color draw:name="raspberry pink1" draw:color="#f9cade"/>
+ <draw:color draw:name="burgundy purple6" draw:color="#6a0056"/>
+ <draw:color draw:name="burgundy purple5" draw:color="#85026c"/>
+ <draw:color draw:name="burgundy purple4" draw:color="#a02786"/>
+ <draw:color draw:name="burgundy purple3" draw:color="#b14f9a"/>
+ <draw:color draw:name="burgundy purple2" draw:color="#c173b0"/>
+ <draw:color draw:name="burgundy purple1" draw:color="#e8b7d7"/>
+ <draw:color draw:name="grape violet6" draw:color="#1d0a55"/>
+ <draw:color draw:name="grape violet5" draw:color="#34176e"/>
+ <draw:color draw:name="grape violet4" draw:color="#462886"/>
+ <draw:color draw:name="grape violet3" draw:color="#644a9b"/>
+ <draw:color draw:name="grape violet2" draw:color="#8e79a5"/>
+ <draw:color draw:name="grape violet1" draw:color="#c3b4da"/>
+ <draw:color draw:name="skyblue6" draw:color="#00316e"/>
+ <draw:color draw:name="skyblue5" draw:color="#00438a"/>
+ <draw:color draw:name="skyblue4" draw:color="#0057ae"/>
+ <draw:color draw:name="skyblue3" draw:color="#2c72c7"/>
+ <draw:color draw:name="skyblue2" draw:color="#6193cf"/>
+ <draw:color draw:name="skyblue1" draw:color="#a4c0e4"/>
+ <draw:color draw:name="sea blue6" draw:color="#00484d"/>
+ <draw:color draw:name="sea blue5" draw:color="#006066"/>
+ <draw:color draw:name="sea blue4" draw:color="#007880"/>
+ <draw:color draw:name="sea blue3" draw:color="#00a7b3"/>
+ <draw:color draw:name="sea blue2" draw:color="#00c4cc"/>
+ <draw:color draw:name="sea blue1" draw:color="#a8dde0"/>
+ <draw:color draw:name="emerald green6" draw:color="#00583f"/>
+ <draw:color draw:name="emerald green5" draw:color="#00734d"/>
+ <draw:color draw:name="emerald green4" draw:color="#009966"/>
+ <draw:color draw:name="emerald green3" draw:color="#00b377"/>
+ <draw:color draw:name="emerald green2" draw:color="#00cc88"/>
+ <draw:color draw:name="emerald green1" draw:color="#99dcc6"/>
+ <draw:color draw:name="forest green6" draw:color="#006e29"/>
+ <draw:color draw:name="forest green5" draw:color="#00892c"/>
+ <draw:color draw:name="forest green4" draw:color="#37a42c"/>
+ <draw:color draw:name="forest green3" draw:color="#77b753"/>
+ <draw:color draw:name="forest green2" draw:color="#b1d28f"/>
+ <draw:color draw:name="forest green1" draw:color="#d8e8c2"/>
+ <draw:color draw:name="sun yellow6" draw:color="#e3ad00"/>
+ <draw:color draw:name="sun yellow5" draw:color="#f3c300"/>
+ <draw:color draw:name="sun yellow4" draw:color="#ffdd00"/>
+ <draw:color draw:name="sun yellow3" draw:color="#ffeb55"/>
+ <draw:color draw:name="sun yellow2" draw:color="#fff299"/>
+ <draw:color draw:name="sun yellow1" draw:color="#fff6c8"/>
+ <draw:color draw:name="hot orange6" draw:color="#ac4311"/>
+ <draw:color draw:name="hot orange5" draw:color="#cf4913"/>
+ <draw:color draw:name="hot orange4" draw:color="#eb7331"/>
+ <draw:color draw:name="hot orange3" draw:color="#f29b68"/>
+ <draw:color draw:name="hot orange2" draw:color="#f2bb88"/>
+ <draw:color draw:name="hot orange1" draw:color="#ffd9b0"/>
+ <draw:color draw:name="aluminum gray6" draw:color="#2e3436"/>
+ <draw:color draw:name="aluminum gray5" draw:color="#555753"/>
+ <draw:color draw:name="aluminum gray4" draw:color="#888a85"/>
+ <draw:color draw:name="aluminum gray3" draw:color="#babdb6"/>
+ <draw:color draw:name="aluminum gray2" draw:color="#d3d7cf"/>
+ <draw:color draw:name="aluminum gray1" draw:color="#eeeeec"/>
+ <draw:color draw:name="brown orange6" draw:color="#4d2600"/>
+ <draw:color draw:name="brown orange5" draw:color="#803f00"/>
+ <draw:color draw:name="brown orange4" draw:color="#bf5e00"/>
+ <draw:color draw:name="brown orange3" draw:color="#ff7e00"/>
+ <draw:color draw:name="brown orange2" draw:color="#ffbf80"/>
+ <draw:color draw:name="brown orange1" draw:color="#ffdfbf"/>
+ <draw:color draw:name="red6" draw:color="#590000"/>
+ <draw:color draw:name="red5" draw:color="#8c0000"/>
+ <draw:color draw:name="red4" draw:color="#bf0000"/>
+ <draw:color draw:name="red3" draw:color="#ff0000"/>
+ <draw:color draw:name="red2" draw:color="#ff8080"/>
+ <draw:color draw:name="red1" draw:color="#ffbfbf"/>
+ <draw:color draw:name="pink6" draw:color="#730055"/>
+ <draw:color draw:name="pink5" draw:color="#a3007b"/>
+ <draw:color draw:name="pink4" draw:color="#cc009a"/>
+ <draw:color draw:name="pink3" draw:color="#ff00bf"/>
+ <draw:color draw:name="pink2" draw:color="#ff80df"/>
+ <draw:color draw:name="pink1" draw:color="#ffbff0"/>
+ <draw:color draw:name="purple6" draw:color="#2c0059"/>
+ <draw:color draw:name="purple5" draw:color="#400080"/>
+ <draw:color draw:name="purple4" draw:color="#5a00b3"/>
+ <draw:color draw:name="purple3" draw:color="#8000ff"/>
+ <draw:color draw:name="purple2" draw:color="#c080ff"/>
+ <draw:color draw:name="purple1" draw:color="#dfbfff"/>
+ <draw:color draw:name="blue6" draw:color="#000080"/>
+ <draw:color draw:name="blue5" draw:color="#0000bf"/>
+ <draw:color draw:name="blue4" draw:color="#0000ff"/>
+ <draw:color draw:name="blue3" draw:color="#0066ff"/>
+ <draw:color draw:name="blue2" draw:color="#80b3ff"/>
+ <draw:color draw:name="blue1" draw:color="#bfd9ff"/>
+ <draw:color draw:name="green6" draw:color="#004d00"/>
+ <draw:color draw:name="green5" draw:color="#008c00"/>
+ <draw:color draw:name="green4" draw:color="#00bf00"/>
+ <draw:color draw:name="green3" draw:color="#00ff00"/>
+ <draw:color draw:name="green2" draw:color="#80ff80"/>
+ <draw:color draw:name="green1" draw:color="#bfffbf"/>
+ <draw:color draw:name="lime6" draw:color="#638000"/>
+ <draw:color draw:name="lime5" draw:color="#8bb300"/>
+ <draw:color draw:name="lime4" draw:color="#bff500"/>
+ <draw:color draw:name="lime3" draw:color="#e5ff00"/>
+ <draw:color draw:name="lime2" draw:color="#f0ff80"/>
+ <draw:color draw:name="lime1" draw:color="#f8ffbf"/>
+ <draw:color draw:name="yellow6" draw:color="#ffaa00"/>
+ <draw:color draw:name="yellow5" draw:color="#ffbf00"/>
+ <draw:color draw:name="yellow4" draw:color="#ffd500"/>
+ <draw:color draw:name="yellow3" draw:color="#ffff00"/>
+ <draw:color draw:name="yellow2" draw:color="#ffff99"/>
+ <draw:color draw:name="yellow1" draw:color="#ffffbf"/>
+ <draw:color draw:name="gray6" draw:color="#323232"/>
+ <draw:color draw:name="gray5" draw:color="#555555"/>
+ <draw:color draw:name="gray4" draw:color="#888888"/>
+ <draw:color draw:name="gray3" draw:color="#bbbbbb"/>
+ <draw:color draw:name="gray2" draw:color="#dddddd"/>
+ <draw:color draw:name="gray1" draw:color="#eeeeee"/>
+</office:color-table>

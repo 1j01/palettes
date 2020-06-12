@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Palette source: Microsoft
+-->
+<SCRIBUSCOLORS Name="Windows 10 personalizing colors" >
+	<COLOR RGB="#ababab" NAME="#ABABAB" />
+	<COLOR RGB="#8acfff" NAME="#8ACFFF" />
+	<COLOR RGB="#f598d6" NAME="#F598D6" />
+	<COLOR RGB="#f3d240" NAME="#F3D240" />
+	<COLOR RGB="#add85f" NAME="#ADD85F" />
+	<COLOR RGB="#78d9d9" NAME="#78D9D9" />
+	<COLOR RGB="#ffaf51" NAME="#FFAF51" />
+	<COLOR RGB="#ff6f6f" NAME="#FF6F6F" />
+	<COLOR RGB="#f359a8" NAME="#F359A8" />
+	<COLOR RGB="#47cf74" NAME="#47CF74" />
+	<COLOR RGB="#c48aff" NAME="#C48AFF" />
+	<COLOR RGB="#58b1fc" NAME="#58B1FC" />
+	<COLOR RGB="#9898ff" NAME="#9898FF" />
+	<COLOR RGB="#c3b5a8" NAME="#C3B5A8" />
+	<COLOR RGB="#fcfcfc" NAME="#FCFCFC" />
+</SCRIBUSCOLORS>

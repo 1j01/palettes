@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+Palette source: Google
+The palette is published here:
+http://ftp.gunadarma.ac.id/android/sdk/sdk_310712/docs/guide/practices/ui_guidelines/icon_design_launcher.html
+
+-->
+<palette guid="c5e7ea0a-15a2-11e5-a91f-e03f4985805d" name="Android icon colors">
+	<colorspaces />
+	<colors>
+		<page>
+			<color cs="RGB" tints="1.0,1.0,1.0" name="#FFFFFF" />
+			<color cs="RGB" tints="0.74902,0.74902,0.74902" name="#BFBFBF" />
+			<color cs="RGB" tints="0.4,0.6,1.0" name="#6699FF" />
+			<color cs="RGB" tints="0.6,0.8,0.2" name="#99CC33" />
+			<color cs="RGB" tints="1.0,0.8,0.0" name="#FFCC00" />
+			<color cs="RGB" tints="0.501961,0.501961,0.501961" name="#808080" />
+			<color cs="RGB" tints="0.2,0.4,0.8" name="#3366CC" />
+			<color cs="RGB" tints="0.0,0.8,0.0" name="#00CC00" />
+			<color cs="RGB" tints="1.0,0.6,0.0" name="#FF9900" />
+			<color cs="RGB" tints="0.0,0.0,0.0" name="#000000" />
+			<color cs="RGB" tints="0.25098,0.25098,0.25098" name="#404040" />
+			<color cs="RGB" tints="0.0,0.2,0.6" name="#003399" />
+			<color cs="RGB" tints="0.4,0.6,0.0" name="#669900" />
+			<color cs="RGB" tints="1.0,0.4,0.0" name="#FF6600" />
+			<color cs="RGB" tints="0.8,0.0,0.0" name="#CC0000" />
+		</page>
+	</colors>
+	<localization />
+</palette>

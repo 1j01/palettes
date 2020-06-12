@@ -1,0 +1,760 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Palette source: Scriptics Corp.
+The palette is published here:
+http://www.tcl.tk/man/tcl8.4/TkCmd/colors.htm
+-->
+<SCRIBUSCOLORS Name="Tk named colors" >
+	<COLOR RGB="#f0f8ff" NAME="alice blue" />
+	<COLOR RGB="#f0f8ff" NAME="AliceBlue" />
+	<COLOR RGB="#faebd7" NAME="antique white" />
+	<COLOR RGB="#faebd7" NAME="AntiqueWhite" />
+	<COLOR RGB="#ffefdb" NAME="AntiqueWhite1" />
+	<COLOR RGB="#eedfcc" NAME="AntiqueWhite2" />
+	<COLOR RGB="#cdc0b0" NAME="AntiqueWhite3" />
+	<COLOR RGB="#8b8378" NAME="AntiqueWhite4" />
+	<COLOR RGB="#7fffd4" NAME="aquamarine" />
+	<COLOR RGB="#7fffd4" NAME="aquamarine1" />
+	<COLOR RGB="#76eec6" NAME="aquamarine2" />
+	<COLOR RGB="#66cdaa" NAME="aquamarine3" />
+	<COLOR RGB="#458b74" NAME="aquamarine4" />
+	<COLOR RGB="#f0ffff" NAME="azure" />
+	<COLOR RGB="#f0ffff" NAME="azure1" />
+	<COLOR RGB="#e0eeee" NAME="azure2" />
+	<COLOR RGB="#c1cdcd" NAME="azure3" />
+	<COLOR RGB="#838b8b" NAME="azure4" />
+	<COLOR RGB="#f5f5dc" NAME="beige" />
+	<COLOR RGB="#ffe4c4" NAME="bisque" />
+	<COLOR RGB="#ffe4c4" NAME="bisque1" />
+	<COLOR RGB="#eed5b7" NAME="bisque2" />
+	<COLOR RGB="#cdb79e" NAME="bisque3" />
+	<COLOR RGB="#8b7d6b" NAME="bisque4" />
+	<COLOR RGB="#000000" NAME="black" />
+	<COLOR RGB="#ffebcd" NAME="blanched almond" />
+	<COLOR RGB="#ffebcd" NAME="BlanchedAlmond" />
+	<COLOR RGB="#0000ff" NAME="blue" />
+	<COLOR RGB="#8a2be2" NAME="blue violet" />
+	<COLOR RGB="#0000ff" NAME="blue1" />
+	<COLOR RGB="#0000ee" NAME="blue2" />
+	<COLOR RGB="#0000cd" NAME="blue3" />
+	<COLOR RGB="#00008b" NAME="blue4" />
+	<COLOR RGB="#8a2be2" NAME="BlueViolet" />
+	<COLOR RGB="#a52a2a" NAME="brown" />
+	<COLOR RGB="#ff4040" NAME="brown1" />
+	<COLOR RGB="#ee3b3b" NAME="brown2" />
+	<COLOR RGB="#cd3333" NAME="brown3" />
+	<COLOR RGB="#8b2323" NAME="brown4" />
+	<COLOR RGB="#deb887" NAME="burlywood" />
+	<COLOR RGB="#ffd39b" NAME="burlywood1" />
+	<COLOR RGB="#eec591" NAME="burlywood2" />
+	<COLOR RGB="#cdaa7d" NAME="burlywood3" />
+	<COLOR RGB="#8b7355" NAME="burlywood4" />
+	<COLOR RGB="#5f9ea0" NAME="cadet blue" />
+	<COLOR RGB="#5f9ea0" NAME="CadetBlue" />
+	<COLOR RGB="#98f5ff" NAME="CadetBlue1" />
+	<COLOR RGB="#8ee5ee" NAME="CadetBlue2" />
+	<COLOR RGB="#7ac5cd" NAME="CadetBlue3" />
+	<COLOR RGB="#53868b" NAME="CadetBlue4" />
+	<COLOR RGB="#7fff00" NAME="chartreuse" />
+	<COLOR RGB="#7fff00" NAME="chartreuse1" />
+	<COLOR RGB="#76ee00" NAME="chartreuse2" />
+	<COLOR RGB="#66cd00" NAME="chartreuse3" />
+	<COLOR RGB="#458b00" NAME="chartreuse4" />
+	<COLOR RGB="#d2691e" NAME="chocolate" />
+	<COLOR RGB="#ff7f24" NAME="chocolate1" />
+	<COLOR RGB="#ee7621" NAME="chocolate2" />
+	<COLOR RGB="#cd661d" NAME="chocolate3" />
+	<COLOR RGB="#8b4513" NAME="chocolate4" />
+	<COLOR RGB="#ff7f50" NAME="coral" />
+	<COLOR RGB="#ff7256" NAME="coral1" />
+	<COLOR RGB="#ee6a50" NAME="coral2" />
+	<COLOR RGB="#cd5b45" NAME="coral3" />
+	<COLOR RGB="#8b3e2f" NAME="coral4" />
+	<COLOR RGB="#6495ed" NAME="cornflower blue" />
+	<COLOR RGB="#6495ed" NAME="CornflowerBlue" />
+	<COLOR RGB="#fff8dc" NAME="cornsilk" />
+	<COLOR RGB="#fff8dc" NAME="cornsilk1" />
+	<COLOR RGB="#eee8cd" NAME="cornsilk2" />
+	<COLOR RGB="#cdc8b1" NAME="cornsilk3" />
+	<COLOR RGB="#8b8878" NAME="cornsilk4" />
+	<COLOR RGB="#00ffff" NAME="cyan" />
+	<COLOR RGB="#00ffff" NAME="cyan1" />
+	<COLOR RGB="#00eeee" NAME="cyan2" />
+	<COLOR RGB="#00cdcd" NAME="cyan3" />
+	<COLOR RGB="#008b8b" NAME="cyan4" />
+	<COLOR RGB="#00008b" NAME="dark blue" />
+	<COLOR RGB="#008b8b" NAME="dark cyan" />
+	<COLOR RGB="#b8860b" NAME="dark goldenrod" />
+	<COLOR RGB="#a9a9a9" NAME="dark gray" />
+	<COLOR RGB="#006400" NAME="dark green" />
+	<COLOR RGB="#a9a9a9" NAME="dark grey" />
+	<COLOR RGB="#bdb76b" NAME="dark khaki" />
+	<COLOR RGB="#8b008b" NAME="dark magenta" />
+	<COLOR RGB="#556b2f" NAME="dark olive green" />
+	<COLOR RGB="#ff8c00" NAME="dark orange" />
+	<COLOR RGB="#9932cc" NAME="dark orchid" />
+	<COLOR RGB="#8b0000" NAME="dark red" />
+	<COLOR RGB="#e9967a" NAME="dark salmon" />
+	<COLOR RGB="#8fbc8f" NAME="dark sea green" />
+	<COLOR RGB="#483d8b" NAME="dark slate blue" />
+	<COLOR RGB="#2f4f4f" NAME="dark slate gray" />
+	<COLOR RGB="#2f4f4f" NAME="dark slate grey" />
+	<COLOR RGB="#00ced1" NAME="dark turquoise" />
+	<COLOR RGB="#9400d3" NAME="dark violet" />
+	<COLOR RGB="#00008b" NAME="DarkBlue" />
+	<COLOR RGB="#008b8b" NAME="DarkCyan" />
+	<COLOR RGB="#b8860b" NAME="DarkGoldenrod" />
+	<COLOR RGB="#ffb90f" NAME="DarkGoldenrod1" />
+	<COLOR RGB="#eead0e" NAME="DarkGoldenrod2" />
+	<COLOR RGB="#cd950c" NAME="DarkGoldenrod3" />
+	<COLOR RGB="#8b6508" NAME="DarkGoldenrod4" />
+	<COLOR RGB="#a9a9a9" NAME="DarkGray" />
+	<COLOR RGB="#006400" NAME="DarkGreen" />
+	<COLOR RGB="#a9a9a9" NAME="DarkGrey" />
+	<COLOR RGB="#bdb76b" NAME="DarkKhaki" />
+	<COLOR RGB="#8b008b" NAME="DarkMagenta" />
+	<COLOR RGB="#556b2f" NAME="DarkOliveGreen" />
+	<COLOR RGB="#caff70" NAME="DarkOliveGreen1" />
+	<COLOR RGB="#bcee68" NAME="DarkOliveGreen2" />
+	<COLOR RGB="#a2cd5a" NAME="DarkOliveGreen3" />
+	<COLOR RGB="#6e8b3d" NAME="DarkOliveGreen4" />
+	<COLOR RGB="#ff8c00" NAME="DarkOrange" />
+	<COLOR RGB="#ff7f00" NAME="DarkOrange1" />
+	<COLOR RGB="#ee7600" NAME="DarkOrange2" />
+	<COLOR RGB="#cd6600" NAME="DarkOrange3" />
+	<COLOR RGB="#8b4500" NAME="DarkOrange4" />
+	<COLOR RGB="#9932cc" NAME="DarkOrchid" />
+	<COLOR RGB="#bf3eff" NAME="DarkOrchid1" />
+	<COLOR RGB="#b23aee" NAME="DarkOrchid2" />
+	<COLOR RGB="#9a32cd" NAME="DarkOrchid3" />
+	<COLOR RGB="#68228b" NAME="DarkOrchid4" />
+	<COLOR RGB="#8b0000" NAME="DarkRed" />
+	<COLOR RGB="#e9967a" NAME="DarkSalmon" />
+	<COLOR RGB="#8fbc8f" NAME="DarkSeaGreen" />
+	<COLOR RGB="#c1ffc1" NAME="DarkSeaGreen1" />
+	<COLOR RGB="#b4eeb4" NAME="DarkSeaGreen2" />
+	<COLOR RGB="#9bcd9b" NAME="DarkSeaGreen3" />
+	<COLOR RGB="#698b69" NAME="DarkSeaGreen4" />
+	<COLOR RGB="#483d8b" NAME="DarkSlateBlue" />
+	<COLOR RGB="#2f4f4f" NAME="DarkSlateGray" />
+	<COLOR RGB="#97ffff" NAME="DarkSlateGray1" />
+	<COLOR RGB="#8deeee" NAME="DarkSlateGray2" />
+	<COLOR RGB="#79cdcd" NAME="DarkSlateGray3" />
+	<COLOR RGB="#528b8b" NAME="DarkSlateGray4" />
+	<COLOR RGB="#2f4f4f" NAME="DarkSlateGrey" />
+	<COLOR RGB="#00ced1" NAME="DarkTurquoise" />
+	<COLOR RGB="#9400d3" NAME="DarkViolet" />
+	<COLOR RGB="#ff1493" NAME="deep pink" />
+	<COLOR RGB="#00bfff" NAME="deep sky blue" />
+	<COLOR RGB="#ff1493" NAME="DeepPink" />
+	<COLOR RGB="#ff1493" NAME="DeepPink1" />
+	<COLOR RGB="#ee1289" NAME="DeepPink2" />
+	<COLOR RGB="#cd1076" NAME="DeepPink3" />
+	<COLOR RGB="#8b0a50" NAME="DeepPink4" />
+	<COLOR RGB="#00bfff" NAME="DeepSkyBlue" />
+	<COLOR RGB="#00bfff" NAME="DeepSkyBlue1" />
+	<COLOR RGB="#00b2ee" NAME="DeepSkyBlue2" />
+	<COLOR RGB="#009acd" NAME="DeepSkyBlue3" />
+	<COLOR RGB="#00688b" NAME="DeepSkyBlue4" />
+	<COLOR RGB="#696969" NAME="dim gray" />
+	<COLOR RGB="#696969" NAME="dim grey" />
+	<COLOR RGB="#696969" NAME="DimGray" />
+	<COLOR RGB="#696969" NAME="DimGrey" />
+	<COLOR RGB="#1e90ff" NAME="dodger blue" />
+	<COLOR RGB="#1e90ff" NAME="DodgerBlue" />
+	<COLOR RGB="#1e90ff" NAME="DodgerBlue1" />
+	<COLOR RGB="#1c86ee" NAME="DodgerBlue2" />
+	<COLOR RGB="#1874cd" NAME="DodgerBlue3" />
+	<COLOR RGB="#104e8b" NAME="DodgerBlue4" />
+	<COLOR RGB="#b22222" NAME="firebrick" />
+	<COLOR RGB="#ff3030" NAME="firebrick1" />
+	<COLOR RGB="#ee2c2c" NAME="firebrick2" />
+	<COLOR RGB="#cd2626" NAME="firebrick3" />
+	<COLOR RGB="#8b1a1a" NAME="firebrick4" />
+	<COLOR RGB="#fffaf0" NAME="floral white" />
+	<COLOR RGB="#fffaf0" NAME="FloralWhite" />
+	<COLOR RGB="#228b22" NAME="forest green" />
+	<COLOR RGB="#228b22" NAME="ForestGreen" />
+	<COLOR RGB="#dcdcdc" NAME="gainsboro" />
+	<COLOR RGB="#f8f8ff" NAME="ghost white" />
+	<COLOR RGB="#f8f8ff" NAME="GhostWhite" />
+	<COLOR RGB="#ffd700" NAME="gold" />
+	<COLOR RGB="#ffd700" NAME="gold1" />
+	<COLOR RGB="#eec900" NAME="gold2" />
+	<COLOR RGB="#cdad00" NAME="gold3" />
+	<COLOR RGB="#8b7500" NAME="gold4" />
+	<COLOR RGB="#daa520" NAME="goldenrod" />
+	<COLOR RGB="#ffc125" NAME="goldenrod1" />
+	<COLOR RGB="#eeb422" NAME="goldenrod2" />
+	<COLOR RGB="#cd9b1d" NAME="goldenrod3" />
+	<COLOR RGB="#8b6914" NAME="goldenrod4" />
+	<COLOR RGB="#bebebe" NAME="gray" />
+	<COLOR RGB="#000000" NAME="gray0" />
+	<COLOR RGB="#030303" NAME="gray1" />
+	<COLOR RGB="#050505" NAME="gray2" />
+	<COLOR RGB="#080808" NAME="gray3" />
+	<COLOR RGB="#0a0a0a" NAME="gray4" />
+	<COLOR RGB="#0d0d0d" NAME="gray5" />
+	<COLOR RGB="#0f0f0f" NAME="gray6" />
+	<COLOR RGB="#121212" NAME="gray7" />
+	<COLOR RGB="#141414" NAME="gray8" />
+	<COLOR RGB="#171717" NAME="gray9" />
+	<COLOR RGB="#1a1a1a" NAME="gray10" />
+	<COLOR RGB="#1c1c1c" NAME="gray11" />
+	<COLOR RGB="#1f1f1f" NAME="gray12" />
+	<COLOR RGB="#212121" NAME="gray13" />
+	<COLOR RGB="#242424" NAME="gray14" />
+	<COLOR RGB="#262626" NAME="gray15" />
+	<COLOR RGB="#292929" NAME="gray16" />
+	<COLOR RGB="#2b2b2b" NAME="gray17" />
+	<COLOR RGB="#2e2e2e" NAME="gray18" />
+	<COLOR RGB="#303030" NAME="gray19" />
+	<COLOR RGB="#333333" NAME="gray20" />
+	<COLOR RGB="#363636" NAME="gray21" />
+	<COLOR RGB="#383838" NAME="gray22" />
+	<COLOR RGB="#3b3b3b" NAME="gray23" />
+	<COLOR RGB="#3d3d3d" NAME="gray24" />
+	<COLOR RGB="#404040" NAME="gray25" />
+	<COLOR RGB="#424242" NAME="gray26" />
+	<COLOR RGB="#454545" NAME="gray27" />
+	<COLOR RGB="#474747" NAME="gray28" />
+	<COLOR RGB="#4a4a4a" NAME="gray29" />
+	<COLOR RGB="#4d4d4d" NAME="gray30" />
+	<COLOR RGB="#4f4f4f" NAME="gray31" />
+	<COLOR RGB="#525252" NAME="gray32" />
+	<COLOR RGB="#545454" NAME="gray33" />
+	<COLOR RGB="#575757" NAME="gray34" />
+	<COLOR RGB="#595959" NAME="gray35" />
+	<COLOR RGB="#5c5c5c" NAME="gray36" />
+	<COLOR RGB="#5e5e5e" NAME="gray37" />
+	<COLOR RGB="#616161" NAME="gray38" />
+	<COLOR RGB="#636363" NAME="gray39" />
+	<COLOR RGB="#666666" NAME="gray40" />
+	<COLOR RGB="#696969" NAME="gray41" />
+	<COLOR RGB="#6b6b6b" NAME="gray42" />
+	<COLOR RGB="#6e6e6e" NAME="gray43" />
+	<COLOR RGB="#707070" NAME="gray44" />
+	<COLOR RGB="#737373" NAME="gray45" />
+	<COLOR RGB="#757575" NAME="gray46" />
+	<COLOR RGB="#787878" NAME="gray47" />
+	<COLOR RGB="#7a7a7a" NAME="gray48" />
+	<COLOR RGB="#7d7d7d" NAME="gray49" />
+	<COLOR RGB="#7f7f7f" NAME="gray50" />
+	<COLOR RGB="#828282" NAME="gray51" />
+	<COLOR RGB="#858585" NAME="gray52" />
+	<COLOR RGB="#878787" NAME="gray53" />
+	<COLOR RGB="#8a8a8a" NAME="gray54" />
+	<COLOR RGB="#8c8c8c" NAME="gray55" />
+	<COLOR RGB="#8f8f8f" NAME="gray56" />
+	<COLOR RGB="#919191" NAME="gray57" />
+	<COLOR RGB="#949494" NAME="gray58" />
+	<COLOR RGB="#969696" NAME="gray59" />
+	<COLOR RGB="#999999" NAME="gray60" />
+	<COLOR RGB="#9c9c9c" NAME="gray61" />
+	<COLOR RGB="#9e9e9e" NAME="gray62" />
+	<COLOR RGB="#a1a1a1" NAME="gray63" />
+	<COLOR RGB="#a3a3a3" NAME="gray64" />
+	<COLOR RGB="#a6a6a6" NAME="gray65" />
+	<COLOR RGB="#a8a8a8" NAME="gray66" />
+	<COLOR RGB="#ababab" NAME="gray67" />
+	<COLOR RGB="#adadad" NAME="gray68" />
+	<COLOR RGB="#b0b0b0" NAME="gray69" />
+	<COLOR RGB="#b3b3b3" NAME="gray70" />
+	<COLOR RGB="#b5b5b5" NAME="gray71" />
+	<COLOR RGB="#b8b8b8" NAME="gray72" />
+	<COLOR RGB="#bababa" NAME="gray73" />
+	<COLOR RGB="#bdbdbd" NAME="gray74" />
+	<COLOR RGB="#bfbfbf" NAME="gray75" />
+	<COLOR RGB="#c2c2c2" NAME="gray76" />
+	<COLOR RGB="#c4c4c4" NAME="gray77" />
+	<COLOR RGB="#c7c7c7" NAME="gray78" />
+	<COLOR RGB="#c9c9c9" NAME="gray79" />
+	<COLOR RGB="#cccccc" NAME="gray80" />
+	<COLOR RGB="#cfcfcf" NAME="gray81" />
+	<COLOR RGB="#d1d1d1" NAME="gray82" />
+	<COLOR RGB="#d4d4d4" NAME="gray83" />
+	<COLOR RGB="#d6d6d6" NAME="gray84" />
+	<COLOR RGB="#d9d9d9" NAME="gray85" />
+	<COLOR RGB="#dbdbdb" NAME="gray86" />
+	<COLOR RGB="#dedede" NAME="gray87" />
+	<COLOR RGB="#e0e0e0" NAME="gray88" />
+	<COLOR RGB="#e3e3e3" NAME="gray89" />
+	<COLOR RGB="#e5e5e5" NAME="gray90" />
+	<COLOR RGB="#e8e8e8" NAME="gray91" />
+	<COLOR RGB="#ebebeb" NAME="gray92" />
+	<COLOR RGB="#ededed" NAME="gray93" />
+	<COLOR RGB="#f0f0f0" NAME="gray94" />
+	<COLOR RGB="#f2f2f2" NAME="gray95" />
+	<COLOR RGB="#f5f5f5" NAME="gray96" />
+	<COLOR RGB="#f7f7f7" NAME="gray97" />
+	<COLOR RGB="#fafafa" NAME="gray98" />
+	<COLOR RGB="#fcfcfc" NAME="gray99" />
+	<COLOR RGB="#ffffff" NAME="gray100" />
+	<COLOR RGB="#00ff00" NAME="green" />
+	<COLOR RGB="#adff2f" NAME="green yellow" />
+	<COLOR RGB="#00ff00" NAME="green1" />
+	<COLOR RGB="#00ee00" NAME="green2" />
+	<COLOR RGB="#00cd00" NAME="green3" />
+	<COLOR RGB="#008b00" NAME="green4" />
+	<COLOR RGB="#adff2f" NAME="GreenYellow" />
+	<COLOR RGB="#bebebe" NAME="grey" />
+	<COLOR RGB="#000000" NAME="grey0" />
+	<COLOR RGB="#030303" NAME="grey1" />
+	<COLOR RGB="#050505" NAME="grey2" />
+	<COLOR RGB="#080808" NAME="grey3" />
+	<COLOR RGB="#0a0a0a" NAME="grey4" />
+	<COLOR RGB="#0d0d0d" NAME="grey5" />
+	<COLOR RGB="#0f0f0f" NAME="grey6" />
+	<COLOR RGB="#121212" NAME="grey7" />
+	<COLOR RGB="#141414" NAME="grey8" />
+	<COLOR RGB="#171717" NAME="grey9" />
+	<COLOR RGB="#1a1a1a" NAME="grey10" />
+	<COLOR RGB="#1c1c1c" NAME="grey11" />
+	<COLOR RGB="#1f1f1f" NAME="grey12" />
+	<COLOR RGB="#212121" NAME="grey13" />
+	<COLOR RGB="#242424" NAME="grey14" />
+	<COLOR RGB="#262626" NAME="grey15" />
+	<COLOR RGB="#292929" NAME="grey16" />
+	<COLOR RGB="#2b2b2b" NAME="grey17" />
+	<COLOR RGB="#2e2e2e" NAME="grey18" />
+	<COLOR RGB="#303030" NAME="grey19" />
+	<COLOR RGB="#333333" NAME="grey20" />
+	<COLOR RGB="#363636" NAME="grey21" />
+	<COLOR RGB="#383838" NAME="grey22" />
+	<COLOR RGB="#3b3b3b" NAME="grey23" />
+	<COLOR RGB="#3d3d3d" NAME="grey24" />
+	<COLOR RGB="#404040" NAME="grey25" />
+	<COLOR RGB="#424242" NAME="grey26" />
+	<COLOR RGB="#454545" NAME="grey27" />
+	<COLOR RGB="#474747" NAME="grey28" />
+	<COLOR RGB="#4a4a4a" NAME="grey29" />
+	<COLOR RGB="#4d4d4d" NAME="grey30" />
+	<COLOR RGB="#4f4f4f" NAME="grey31" />
+	<COLOR RGB="#525252" NAME="grey32" />
+	<COLOR RGB="#545454" NAME="grey33" />
+	<COLOR RGB="#575757" NAME="grey34" />
+	<COLOR RGB="#595959" NAME="grey35" />
+	<COLOR RGB="#5c5c5c" NAME="grey36" />
+	<COLOR RGB="#5e5e5e" NAME="grey37" />
+	<COLOR RGB="#616161" NAME="grey38" />
+	<COLOR RGB="#636363" NAME="grey39" />
+	<COLOR RGB="#666666" NAME="grey40" />
+	<COLOR RGB="#696969" NAME="grey41" />
+	<COLOR RGB="#6b6b6b" NAME="grey42" />
+	<COLOR RGB="#6e6e6e" NAME="grey43" />
+	<COLOR RGB="#707070" NAME="grey44" />
+	<COLOR RGB="#737373" NAME="grey45" />
+	<COLOR RGB="#757575" NAME="grey46" />
+	<COLOR RGB="#787878" NAME="grey47" />
+	<COLOR RGB="#7a7a7a" NAME="grey48" />
+	<COLOR RGB="#7d7d7d" NAME="grey49" />
+	<COLOR RGB="#7f7f7f" NAME="grey50" />
+	<COLOR RGB="#828282" NAME="grey51" />
+	<COLOR RGB="#858585" NAME="grey52" />
+	<COLOR RGB="#878787" NAME="grey53" />
+	<COLOR RGB="#8a8a8a" NAME="grey54" />
+	<COLOR RGB="#8c8c8c" NAME="grey55" />
+	<COLOR RGB="#8f8f8f" NAME="grey56" />
+	<COLOR RGB="#919191" NAME="grey57" />
+	<COLOR RGB="#949494" NAME="grey58" />
+	<COLOR RGB="#969696" NAME="grey59" />
+	<COLOR RGB="#999999" NAME="grey60" />
+	<COLOR RGB="#9c9c9c" NAME="grey61" />
+	<COLOR RGB="#9e9e9e" NAME="grey62" />
+	<COLOR RGB="#a1a1a1" NAME="grey63" />
+	<COLOR RGB="#a3a3a3" NAME="grey64" />
+	<COLOR RGB="#a6a6a6" NAME="grey65" />
+	<COLOR RGB="#a8a8a8" NAME="grey66" />
+	<COLOR RGB="#ababab" NAME="grey67" />
+	<COLOR RGB="#adadad" NAME="grey68" />
+	<COLOR RGB="#b0b0b0" NAME="grey69" />
+	<COLOR RGB="#b3b3b3" NAME="grey70" />
+	<COLOR RGB="#b5b5b5" NAME="grey71" />
+	<COLOR RGB="#b8b8b8" NAME="grey72" />
+	<COLOR RGB="#bababa" NAME="grey73" />
+	<COLOR RGB="#bdbdbd" NAME="grey74" />
+	<COLOR RGB="#bfbfbf" NAME="grey75" />
+	<COLOR RGB="#c2c2c2" NAME="grey76" />
+	<COLOR RGB="#c4c4c4" NAME="grey77" />
+	<COLOR RGB="#c7c7c7" NAME="grey78" />
+	<COLOR RGB="#c9c9c9" NAME="grey79" />
+	<COLOR RGB="#cccccc" NAME="grey80" />
+	<COLOR RGB="#cfcfcf" NAME="grey81" />
+	<COLOR RGB="#d1d1d1" NAME="grey82" />
+	<COLOR RGB="#d4d4d4" NAME="grey83" />
+	<COLOR RGB="#d6d6d6" NAME="grey84" />
+	<COLOR RGB="#d9d9d9" NAME="grey85" />
+	<COLOR RGB="#dbdbdb" NAME="grey86" />
+	<COLOR RGB="#dedede" NAME="grey87" />
+	<COLOR RGB="#e0e0e0" NAME="grey88" />
+	<COLOR RGB="#e3e3e3" NAME="grey89" />
+	<COLOR RGB="#e5e5e5" NAME="grey90" />
+	<COLOR RGB="#e8e8e8" NAME="grey91" />
+	<COLOR RGB="#ebebeb" NAME="grey92" />
+	<COLOR RGB="#ededed" NAME="grey93" />
+	<COLOR RGB="#f0f0f0" NAME="grey94" />
+	<COLOR RGB="#f2f2f2" NAME="grey95" />
+	<COLOR RGB="#f5f5f5" NAME="grey96" />
+	<COLOR RGB="#f7f7f7" NAME="grey97" />
+	<COLOR RGB="#fafafa" NAME="grey98" />
+	<COLOR RGB="#fcfcfc" NAME="grey99" />
+	<COLOR RGB="#ffffff" NAME="grey100" />
+	<COLOR RGB="#f0fff0" NAME="honeydew" />
+	<COLOR RGB="#f0fff0" NAME="honeydew1" />
+	<COLOR RGB="#e0eee0" NAME="honeydew2" />
+	<COLOR RGB="#c1cdc1" NAME="honeydew3" />
+	<COLOR RGB="#838b83" NAME="honeydew4" />
+	<COLOR RGB="#ff69b4" NAME="hot pink" />
+	<COLOR RGB="#ff69b4" NAME="HotPink" />
+	<COLOR RGB="#ff6eb4" NAME="HotPink1" />
+	<COLOR RGB="#ee6aa7" NAME="HotPink2" />
+	<COLOR RGB="#cd6090" NAME="HotPink3" />
+	<COLOR RGB="#8b3a62" NAME="HotPink4" />
+	<COLOR RGB="#cd5c5c" NAME="indian red" />
+	<COLOR RGB="#cd5c5c" NAME="IndianRed" />
+	<COLOR RGB="#ff6a6a" NAME="IndianRed1" />
+	<COLOR RGB="#ee6363" NAME="IndianRed2" />
+	<COLOR RGB="#cd5555" NAME="IndianRed3" />
+	<COLOR RGB="#8b3a3a" NAME="IndianRed4" />
+	<COLOR RGB="#fffff0" NAME="ivory" />
+	<COLOR RGB="#fffff0" NAME="ivory1" />
+	<COLOR RGB="#eeeee0" NAME="ivory2" />
+	<COLOR RGB="#cdcdc1" NAME="ivory3" />
+	<COLOR RGB="#8b8b83" NAME="ivory4" />
+	<COLOR RGB="#f0e68c" NAME="khaki" />
+	<COLOR RGB="#fff68f" NAME="khaki1" />
+	<COLOR RGB="#eee685" NAME="khaki2" />
+	<COLOR RGB="#cdc673" NAME="khaki3" />
+	<COLOR RGB="#8b864e" NAME="khaki4" />
+	<COLOR RGB="#e6e6fa" NAME="lavender" />
+	<COLOR RGB="#fff0f5" NAME="lavender blush" />
+	<COLOR RGB="#fff0f5" NAME="LavenderBlush" />
+	<COLOR RGB="#fff0f5" NAME="LavenderBlush1" />
+	<COLOR RGB="#eee0e5" NAME="LavenderBlush2" />
+	<COLOR RGB="#cdc1c5" NAME="LavenderBlush3" />
+	<COLOR RGB="#8b8386" NAME="LavenderBlush4" />
+	<COLOR RGB="#7cfc00" NAME="lawn green" />
+	<COLOR RGB="#7cfc00" NAME="LawnGreen" />
+	<COLOR RGB="#fffacd" NAME="lemon chiffon" />
+	<COLOR RGB="#fffacd" NAME="LemonChiffon" />
+	<COLOR RGB="#fffacd" NAME="LemonChiffon1" />
+	<COLOR RGB="#eee9bf" NAME="LemonChiffon2" />
+	<COLOR RGB="#cdc9a5" NAME="LemonChiffon3" />
+	<COLOR RGB="#8b8970" NAME="LemonChiffon4" />
+	<COLOR RGB="#add8e6" NAME="light blue" />
+	<COLOR RGB="#f08080" NAME="light coral" />
+	<COLOR RGB="#e0ffff" NAME="light cyan" />
+	<COLOR RGB="#eedd82" NAME="light goldenrod" />
+	<COLOR RGB="#fafad2" NAME="light goldenrod yellow" />
+	<COLOR RGB="#d3d3d3" NAME="light gray" />
+	<COLOR RGB="#90ee90" NAME="light green" />
+	<COLOR RGB="#d3d3d3" NAME="light grey" />
+	<COLOR RGB="#ffb6c1" NAME="light pink" />
+	<COLOR RGB="#ffa07a" NAME="light salmon" />
+	<COLOR RGB="#20b2aa" NAME="light sea green" />
+	<COLOR RGB="#87cefa" NAME="light sky blue" />
+	<COLOR RGB="#8470ff" NAME="light slate blue" />
+	<COLOR RGB="#778899" NAME="light slate gray" />
+	<COLOR RGB="#778899" NAME="light slate grey" />
+	<COLOR RGB="#b0c4de" NAME="light steel blue" />
+	<COLOR RGB="#ffffe0" NAME="light yellow" />
+	<COLOR RGB="#add8e6" NAME="LightBlue" />
+	<COLOR RGB="#bfefff" NAME="LightBlue1" />
+	<COLOR RGB="#b2dfee" NAME="LightBlue2" />
+	<COLOR RGB="#9ac0cd" NAME="LightBlue3" />
+	<COLOR RGB="#68838b" NAME="LightBlue4" />
+	<COLOR RGB="#f08080" NAME="LightCoral" />
+	<COLOR RGB="#e0ffff" NAME="LightCyan" />
+	<COLOR RGB="#e0ffff" NAME="LightCyan1" />
+	<COLOR RGB="#d1eeee" NAME="LightCyan2" />
+	<COLOR RGB="#b4cdcd" NAME="LightCyan3" />
+	<COLOR RGB="#7a8b8b" NAME="LightCyan4" />
+	<COLOR RGB="#eedd82" NAME="LightGoldenrod" />
+	<COLOR RGB="#ffec8b" NAME="LightGoldenrod1" />
+	<COLOR RGB="#eedc82" NAME="LightGoldenrod2" />
+	<COLOR RGB="#cdbe70" NAME="LightGoldenrod3" />
+	<COLOR RGB="#8b814c" NAME="LightGoldenrod4" />
+	<COLOR RGB="#fafad2" NAME="LightGoldenrodYellow" />
+	<COLOR RGB="#d3d3d3" NAME="LightGray" />
+	<COLOR RGB="#90ee90" NAME="LightGreen" />
+	<COLOR RGB="#d3d3d3" NAME="LightGrey" />
+	<COLOR RGB="#ffb6c1" NAME="LightPink" />
+	<COLOR RGB="#ffaeb9" NAME="LightPink1" />
+	<COLOR RGB="#eea2ad" NAME="LightPink2" />
+	<COLOR RGB="#cd8c95" NAME="LightPink3" />
+	<COLOR RGB="#8b5f65" NAME="LightPink4" />
+	<COLOR RGB="#ffa07a" NAME="LightSalmon" />
+	<COLOR RGB="#ffa07a" NAME="LightSalmon1" />
+	<COLOR RGB="#ee9572" NAME="LightSalmon2" />
+	<COLOR RGB="#cd8162" NAME="LightSalmon3" />
+	<COLOR RGB="#8b5742" NAME="LightSalmon4" />
+	<COLOR RGB="#20b2aa" NAME="LightSeaGreen" />
+	<COLOR RGB="#87cefa" NAME="LightSkyBlue" />
+	<COLOR RGB="#b0e2ff" NAME="LightSkyBlue1" />
+	<COLOR RGB="#a4d3ee" NAME="LightSkyBlue2" />
+	<COLOR RGB="#8db6cd" NAME="LightSkyBlue3" />
+	<COLOR RGB="#607b8b" NAME="LightSkyBlue4" />
+	<COLOR RGB="#8470ff" NAME="LightSlateBlue" />
+	<COLOR RGB="#778899" NAME="LightSlateGray" />
+	<COLOR RGB="#778899" NAME="LightSlateGrey" />
+	<COLOR RGB="#b0c4de" NAME="LightSteelBlue" />
+	<COLOR RGB="#cae1ff" NAME="LightSteelBlue1" />
+	<COLOR RGB="#bcd2ee" NAME="LightSteelBlue2" />
+	<COLOR RGB="#a2b5cd" NAME="LightSteelBlue3" />
+	<COLOR RGB="#6e7b8b" NAME="LightSteelBlue4" />
+	<COLOR RGB="#ffffe0" NAME="LightYellow" />
+	<COLOR RGB="#ffffe0" NAME="LightYellow1" />
+	<COLOR RGB="#eeeed1" NAME="LightYellow2" />
+	<COLOR RGB="#cdcdb4" NAME="LightYellow3" />
+	<COLOR RGB="#8b8b7a" NAME="LightYellow4" />
+	<COLOR RGB="#32cd32" NAME="lime green" />
+	<COLOR RGB="#32cd32" NAME="LimeGreen" />
+	<COLOR RGB="#faf0e6" NAME="linen" />
+	<COLOR RGB="#ff00ff" NAME="magenta" />
+	<COLOR RGB="#ff00ff" NAME="magenta1" />
+	<COLOR RGB="#ee00ee" NAME="magenta2" />
+	<COLOR RGB="#cd00cd" NAME="magenta3" />
+	<COLOR RGB="#8b008b" NAME="magenta4" />
+	<COLOR RGB="#b03060" NAME="maroon" />
+	<COLOR RGB="#ff34b3" NAME="maroon1" />
+	<COLOR RGB="#ee30a7" NAME="maroon2" />
+	<COLOR RGB="#cd2990" NAME="maroon3" />
+	<COLOR RGB="#8b1c62" NAME="maroon4" />
+	<COLOR RGB="#66cdaa" NAME="medium aquamarine" />
+	<COLOR RGB="#0000cd" NAME="medium blue" />
+	<COLOR RGB="#ba55d3" NAME="medium orchid" />
+	<COLOR RGB="#9370db" NAME="medium purple" />
+	<COLOR RGB="#3cb371" NAME="medium sea green" />
+	<COLOR RGB="#7b68ee" NAME="medium slate blue" />
+	<COLOR RGB="#00fa9a" NAME="medium spring green" />
+	<COLOR RGB="#48d1cc" NAME="medium turquoise" />
+	<COLOR RGB="#c71585" NAME="medium violet red" />
+	<COLOR RGB="#66cdaa" NAME="MediumAquamarine" />
+	<COLOR RGB="#0000cd" NAME="MediumBlue" />
+	<COLOR RGB="#ba55d3" NAME="MediumOrchid" />
+	<COLOR RGB="#e066ff" NAME="MediumOrchid1" />
+	<COLOR RGB="#d15fee" NAME="MediumOrchid2" />
+	<COLOR RGB="#b452cd" NAME="MediumOrchid3" />
+	<COLOR RGB="#7a378b" NAME="MediumOrchid4" />
+	<COLOR RGB="#9370db" NAME="MediumPurple" />
+	<COLOR RGB="#ab82ff" NAME="MediumPurple1" />
+	<COLOR RGB="#9f79ee" NAME="MediumPurple2" />
+	<COLOR RGB="#8968cd" NAME="MediumPurple3" />
+	<COLOR RGB="#5d478b" NAME="MediumPurple4" />
+	<COLOR RGB="#3cb371" NAME="MediumSeaGreen" />
+	<COLOR RGB="#7b68ee" NAME="MediumSlateBlue" />
+	<COLOR RGB="#00fa9a" NAME="MediumSpringGreen" />
+	<COLOR RGB="#48d1cc" NAME="MediumTurquoise" />
+	<COLOR RGB="#c71585" NAME="MediumVioletRed" />
+	<COLOR RGB="#191970" NAME="midnight blue" />
+	<COLOR RGB="#191970" NAME="MidnightBlue" />
+	<COLOR RGB="#f5fffa" NAME="mint cream" />
+	<COLOR RGB="#f5fffa" NAME="MintCream" />
+	<COLOR RGB="#ffe4e1" NAME="misty rose" />
+	<COLOR RGB="#ffe4e1" NAME="MistyRose" />
+	<COLOR RGB="#ffe4e1" NAME="MistyRose1" />
+	<COLOR RGB="#eed5d2" NAME="MistyRose2" />
+	<COLOR RGB="#cdb7b5" NAME="MistyRose3" />
+	<COLOR RGB="#8b7d7b" NAME="MistyRose4" />
+	<COLOR RGB="#ffe4b5" NAME="moccasin" />
+	<COLOR RGB="#ffdead" NAME="navajo white" />
+	<COLOR RGB="#ffdead" NAME="NavajoWhite" />
+	<COLOR RGB="#ffdead" NAME="NavajoWhite1" />
+	<COLOR RGB="#eecfa1" NAME="NavajoWhite2" />
+	<COLOR RGB="#cdb38b" NAME="NavajoWhite3" />
+	<COLOR RGB="#8b795e" NAME="NavajoWhite4" />
+	<COLOR RGB="#000080" NAME="navy" />
+	<COLOR RGB="#000080" NAME="navy blue" />
+	<COLOR RGB="#000080" NAME="NavyBlue" />
+	<COLOR RGB="#fdf5e6" NAME="old lace" />
+	<COLOR RGB="#fdf5e6" NAME="OldLace" />
+	<COLOR RGB="#6b8e23" NAME="olive drab" />
+	<COLOR RGB="#6b8e23" NAME="OliveDrab" />
+	<COLOR RGB="#c0ff3e" NAME="OliveDrab1" />
+	<COLOR RGB="#b3ee3a" NAME="OliveDrab2" />
+	<COLOR RGB="#9acd32" NAME="OliveDrab3" />
+	<COLOR RGB="#698b22" NAME="OliveDrab4" />
+	<COLOR RGB="#ffa500" NAME="orange" />
+	<COLOR RGB="#ff4500" NAME="orange red" />
+	<COLOR RGB="#ffa500" NAME="orange1" />
+	<COLOR RGB="#ee9a00" NAME="orange2" />
+	<COLOR RGB="#cd8500" NAME="orange3" />
+	<COLOR RGB="#8b5a00" NAME="orange4" />
+	<COLOR RGB="#ff4500" NAME="OrangeRed" />
+	<COLOR RGB="#ff4500" NAME="OrangeRed1" />
+	<COLOR RGB="#ee4000" NAME="OrangeRed2" />
+	<COLOR RGB="#cd3700" NAME="OrangeRed3" />
+	<COLOR RGB="#8b2500" NAME="OrangeRed4" />
+	<COLOR RGB="#da70d6" NAME="orchid" />
+	<COLOR RGB="#ff83fa" NAME="orchid1" />
+	<COLOR RGB="#ee7ae9" NAME="orchid2" />
+	<COLOR RGB="#cd69c9" NAME="orchid3" />
+	<COLOR RGB="#8b4789" NAME="orchid4" />
+	<COLOR RGB="#eee8aa" NAME="pale goldenrod" />
+	<COLOR RGB="#98fb98" NAME="pale green" />
+	<COLOR RGB="#afeeee" NAME="pale turquoise" />
+	<COLOR RGB="#db7093" NAME="pale violet red" />
+	<COLOR RGB="#eee8aa" NAME="PaleGoldenrod" />
+	<COLOR RGB="#98fb98" NAME="PaleGreen" />
+	<COLOR RGB="#9aff9a" NAME="PaleGreen1" />
+	<COLOR RGB="#90ee90" NAME="PaleGreen2" />
+	<COLOR RGB="#7ccd7c" NAME="PaleGreen3" />
+	<COLOR RGB="#548b54" NAME="PaleGreen4" />
+	<COLOR RGB="#afeeee" NAME="PaleTurquoise" />
+	<COLOR RGB="#bbffff" NAME="PaleTurquoise1" />
+	<COLOR RGB="#aeeeee" NAME="PaleTurquoise2" />
+	<COLOR RGB="#96cdcd" NAME="PaleTurquoise3" />
+	<COLOR RGB="#668b8b" NAME="PaleTurquoise4" />
+	<COLOR RGB="#db7093" NAME="PaleVioletRed" />
+	<COLOR RGB="#ff82ab" NAME="PaleVioletRed1" />
+	<COLOR RGB="#ee799f" NAME="PaleVioletRed2" />
+	<COLOR RGB="#cd687f" NAME="PaleVioletRed3" />
+	<COLOR RGB="#8b475d" NAME="PaleVioletRed4" />
+	<COLOR RGB="#ffefd5" NAME="papaya whip" />
+	<COLOR RGB="#ffefd5" NAME="PapayaWhip" />
+	<COLOR RGB="#ffdab9" NAME="peach puff" />
+	<COLOR RGB="#ffdab9" NAME="PeachPuff" />
+	<COLOR RGB="#ffdab9" NAME="PeachPuff1" />
+	<COLOR RGB="#eecbad" NAME="PeachPuff2" />
+	<COLOR RGB="#cdaf95" NAME="PeachPuff3" />
+	<COLOR RGB="#8b7765" NAME="PeachPuff4" />
+	<COLOR RGB="#cd853f" NAME="peru" />
+	<COLOR RGB="#ffc0cb" NAME="pink" />
+	<COLOR RGB="#ffb5c5" NAME="pink1" />
+	<COLOR RGB="#eea9b8" NAME="pink2" />
+	<COLOR RGB="#cd919e" NAME="pink3" />
+	<COLOR RGB="#8b636c" NAME="pink4" />
+	<COLOR RGB="#dda0dd" NAME="plum" />
+	<COLOR RGB="#ffbbff" NAME="plum1" />
+	<COLOR RGB="#eeaeee" NAME="plum2" />
+	<COLOR RGB="#cd96cd" NAME="plum3" />
+	<COLOR RGB="#8b668b" NAME="plum4" />
+	<COLOR RGB="#b0e0e6" NAME="powder blue" />
+	<COLOR RGB="#b0e0e6" NAME="PowderBlue" />
+	<COLOR RGB="#a020f0" NAME="purple" />
+	<COLOR RGB="#9b30ff" NAME="purple1" />
+	<COLOR RGB="#912cee" NAME="purple2" />
+	<COLOR RGB="#7d26cd" NAME="purple3" />
+	<COLOR RGB="#551a8b" NAME="purple4" />
+	<COLOR RGB="#ff0000" NAME="red" />
+	<COLOR RGB="#ff0000" NAME="red1" />
+	<COLOR RGB="#ee0000" NAME="red2" />
+	<COLOR RGB="#cd0000" NAME="red3" />
+	<COLOR RGB="#8b0000" NAME="red4" />
+	<COLOR RGB="#bc8f8f" NAME="rosy brown" />
+	<COLOR RGB="#bc8f8f" NAME="RosyBrown" />
+	<COLOR RGB="#ffc1c1" NAME="RosyBrown1" />
+	<COLOR RGB="#eeb4b4" NAME="RosyBrown2" />
+	<COLOR RGB="#cd9b9b" NAME="RosyBrown3" />
+	<COLOR RGB="#8b6969" NAME="RosyBrown4" />
+	<COLOR RGB="#4169e1" NAME="royal blue" />
+	<COLOR RGB="#4169e1" NAME="RoyalBlue" />
+	<COLOR RGB="#4876ff" NAME="RoyalBlue1" />
+	<COLOR RGB="#436eee" NAME="RoyalBlue2" />
+	<COLOR RGB="#3a5fcd" NAME="RoyalBlue3" />
+	<COLOR RGB="#27408b" NAME="RoyalBlue4" />
+	<COLOR RGB="#8b4513" NAME="saddle brown" />
+	<COLOR RGB="#8b4513" NAME="SaddleBrown" />
+	<COLOR RGB="#fa8072" NAME="salmon" />
+	<COLOR RGB="#ff8c69" NAME="salmon1" />
+	<COLOR RGB="#ee8262" NAME="salmon2" />
+	<COLOR RGB="#cd7054" NAME="salmon3" />
+	<COLOR RGB="#8b4c39" NAME="salmon4" />
+	<COLOR RGB="#f4a460" NAME="sandy brown" />
+	<COLOR RGB="#f4a460" NAME="SandyBrown" />
+	<COLOR RGB="#2e8b57" NAME="sea green" />
+	<COLOR RGB="#2e8b57" NAME="SeaGreen" />
+	<COLOR RGB="#54ff9f" NAME="SeaGreen1" />
+	<COLOR RGB="#4eee94" NAME="SeaGreen2" />
+	<COLOR RGB="#43cd80" NAME="SeaGreen3" />
+	<COLOR RGB="#2e8b57" NAME="SeaGreen4" />
+	<COLOR RGB="#fff5ee" NAME="seashell" />
+	<COLOR RGB="#fff5ee" NAME="seashell1" />
+	<COLOR RGB="#eee5de" NAME="seashell2" />
+	<COLOR RGB="#cdc5bf" NAME="seashell3" />
+	<COLOR RGB="#8b8682" NAME="seashell4" />
+	<COLOR RGB="#a0522d" NAME="sienna" />
+	<COLOR RGB="#ff8247" NAME="sienna1" />
+	<COLOR RGB="#ee7942" NAME="sienna2" />
+	<COLOR RGB="#cd6839" NAME="sienna3" />
+	<COLOR RGB="#8b4726" NAME="sienna4" />
+	<COLOR RGB="#87ceeb" NAME="sky blue" />
+	<COLOR RGB="#87ceeb" NAME="SkyBlue" />
+	<COLOR RGB="#87ceff" NAME="SkyBlue1" />
+	<COLOR RGB="#7ec0ee" NAME="SkyBlue2" />
+	<COLOR RGB="#6ca6cd" NAME="SkyBlue3" />
+	<COLOR RGB="#4a708b" NAME="SkyBlue4" />
+	<COLOR RGB="#6a5acd" NAME="slate blue" />
+	<COLOR RGB="#708090" NAME="slate gray" />
+	<COLOR RGB="#708090" NAME="slate grey" />
+	<COLOR RGB="#6a5acd" NAME="SlateBlue" />
+	<COLOR RGB="#836fff" NAME="SlateBlue1" />
+	<COLOR RGB="#7a67ee" NAME="SlateBlue2" />
+	<COLOR RGB="#6959cd" NAME="SlateBlue3" />
+	<COLOR RGB="#473c8b" NAME="SlateBlue4" />
+	<COLOR RGB="#708090" NAME="SlateGray" />
+	<COLOR RGB="#c6e2ff" NAME="SlateGray1" />
+	<COLOR RGB="#b9d3ee" NAME="SlateGray2" />
+	<COLOR RGB="#9fb6cd" NAME="SlateGray3" />
+	<COLOR RGB="#6c7b8b" NAME="SlateGray4" />
+	<COLOR RGB="#708090" NAME="SlateGrey" />
+	<COLOR RGB="#fffafa" NAME="snow" />
+	<COLOR RGB="#fffafa" NAME="snow1" />
+	<COLOR RGB="#eee9e9" NAME="snow2" />
+	<COLOR RGB="#cdc9c9" NAME="snow3" />
+	<COLOR RGB="#8b8989" NAME="snow4" />
+	<COLOR RGB="#00ff7f" NAME="spring green" />
+	<COLOR RGB="#00ff7f" NAME="SpringGreen" />
+	<COLOR RGB="#00ff7f" NAME="SpringGreen1" />
+	<COLOR RGB="#00ee76" NAME="SpringGreen2" />
+	<COLOR RGB="#00cd66" NAME="SpringGreen3" />
+	<COLOR RGB="#008b45" NAME="SpringGreen4" />
+	<COLOR RGB="#4682b4" NAME="steel blue" />
+	<COLOR RGB="#4682b4" NAME="SteelBlue" />
+	<COLOR RGB="#63b8ff" NAME="SteelBlue1" />
+	<COLOR RGB="#5cacee" NAME="SteelBlue2" />
+	<COLOR RGB="#4f94cd" NAME="SteelBlue3" />
+	<COLOR RGB="#36648b" NAME="SteelBlue4" />
+	<COLOR RGB="#d2b48c" NAME="tan" />
+	<COLOR RGB="#ffa54f" NAME="tan1" />
+	<COLOR RGB="#ee9a49" NAME="tan2" />
+	<COLOR RGB="#cd853f" NAME="tan3" />
+	<COLOR RGB="#8b5a2b" NAME="tan4" />
+	<COLOR RGB="#d8bfd8" NAME="thistle" />
+	<COLOR RGB="#ffe1ff" NAME="thistle1" />
+	<COLOR RGB="#eed2ee" NAME="thistle2" />
+	<COLOR RGB="#cdb5cd" NAME="thistle3" />
+	<COLOR RGB="#8b7b8b" NAME="thistle4" />
+	<COLOR RGB="#ff6347" NAME="tomato" />
+	<COLOR RGB="#ff6347" NAME="tomato1" />
+	<COLOR RGB="#ee5c42" NAME="tomato2" />
+	<COLOR RGB="#cd4f39" NAME="tomato3" />
+	<COLOR RGB="#8b3626" NAME="tomato4" />
+	<COLOR RGB="#40e0d0" NAME="turquoise" />
+	<COLOR RGB="#00f5ff" NAME="turquoise1" />
+	<COLOR RGB="#00e5ee" NAME="turquoise2" />
+	<COLOR RGB="#00c5cd" NAME="turquoise3" />
+	<COLOR RGB="#00868b" NAME="turquoise4" />
+	<COLOR RGB="#ee82ee" NAME="violet" />
+	<COLOR RGB="#d02090" NAME="violet red" />
+	<COLOR RGB="#d02090" NAME="VioletRed" />
+	<COLOR RGB="#ff3e96" NAME="VioletRed1" />
+	<COLOR RGB="#ee3a8c" NAME="VioletRed2" />
+	<COLOR RGB="#cd3278" NAME="VioletRed3" />
+	<COLOR RGB="#8b2252" NAME="VioletRed4" />
+	<COLOR RGB="#f5deb3" NAME="wheat" />
+	<COLOR RGB="#ffe7ba" NAME="wheat1" />
+	<COLOR RGB="#eed8ae" NAME="wheat2" />
+	<COLOR RGB="#cdba96" NAME="wheat3" />
+	<COLOR RGB="#8b7e66" NAME="wheat4" />
+	<COLOR RGB="#ffffff" NAME="white" />
+	<COLOR RGB="#f5f5f5" NAME="white smoke" />
+	<COLOR RGB="#f5f5f5" NAME="WhiteSmoke" />
+	<COLOR RGB="#ffff00" NAME="yellow" />
+	<COLOR RGB="#9acd32" NAME="yellow green" />
+	<COLOR RGB="#ffff00" NAME="yellow1" />
+	<COLOR RGB="#eeee00" NAME="yellow2" />
+	<COLOR RGB="#cdcd00" NAME="yellow3" />
+	<COLOR RGB="#8b8b00" NAME="yellow4" />
+	<COLOR RGB="#9acd32" NAME="YellowGreen" />
+</SCRIBUSCOLORS>

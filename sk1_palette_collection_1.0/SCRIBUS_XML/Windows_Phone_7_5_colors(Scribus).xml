@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Palette source: Microsoft
+The palette is published here:
+https://msdn.microsoft.com/library/windows/apps/ff402557(v=vs.105).aspx
+-->
+<SCRIBUSCOLORS Name="Windows Phone 7.5 colors" >
+	<COLOR RGB="#a2c139" NAME="Lime" />
+	<COLOR RGB="#339933" NAME="Green" />
+	<COLOR RGB="#00aba9" NAME="Viridian" />
+	<COLOR RGB="#1ba1e2" NAME="Blue" />
+	<COLOR RGB="#aa00ff" NAME="Purple" />
+	<COLOR RGB="#e671b8" NAME="Pink" />
+	<COLOR RGB="#d80073" NAME="Magenta" />
+	<COLOR RGB="#e51400" NAME="Red" />
+	<COLOR RGB="#f09609" NAME="Mango" />
+	<COLOR RGB="#a05000" NAME="Brown" />
+</SCRIBUSCOLORS>

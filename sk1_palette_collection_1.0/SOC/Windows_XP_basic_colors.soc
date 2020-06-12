@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Palette source: Microsoft
+The palette colors are from color choose dialog.
+
+-->
+<office:color-table xmlns:form="http://openoffice.org/2000/form" xmlns:number="http://openoffice.org/2000/datastyle" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:office="http://openoffice.org/2000/office" xmlns:meta="http://openoffice.org/2000/meta" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:svg="http://www.w3.org/2000/svg" xmlns:dr3d="http://openoffice.org/2000/dr3d" xmlns:text="http://openoffice.org/2000/text" xmlns:style="http://openoffice.org/2000/style" xmlns:script="http://openoffice.org/2000/script" xmlns:chart="http://openoffice.org/2000/chart" xmlns:draw="http://openoffice.org/2000/drawing" xmlns:table="http://openoffice.org/2000/table" xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:config="http://openoffice.org/2001/config" xmlns:dc="http://purl.org/dc/elements/1.1/">
+ <draw:color draw:name="#FF8080" draw:color="#ff8080"/>
+ <draw:color draw:name="#FFFF80" draw:color="#ffff80"/>
+ <draw:color draw:name="#80FF80" draw:color="#80ff80"/>
+ <draw:color draw:name="#00FF80" draw:color="#00ff80"/>
+ <draw:color draw:name="#80FFFF" draw:color="#80ffff"/>
+ <draw:color draw:name="#0080FF" draw:color="#0080ff"/>
+ <draw:color draw:name="#FF80C0" draw:color="#ff80c0"/>
+ <draw:color draw:name="#FF80FF" draw:color="#ff80ff"/>
+ <draw:color draw:name="#FF0000" draw:color="#ff0000"/>
+ <draw:color draw:name="#FFFF00" draw:color="#ffff00"/>
+ <draw:color draw:name="#80FF00" draw:color="#80ff00"/>
+ <draw:color draw:name="#00FF40" draw:color="#00ff40"/>
+ <draw:color draw:name="#00FFFF" draw:color="#00ffff"/>
+ <draw:color draw:name="#0080C0" draw:color="#0080c0"/>
+ <draw:color draw:name="#8080C0" draw:color="#8080c0"/>
+ <draw:color draw:name="#FF00FF" draw:color="#ff00ff"/>
+ <draw:color draw:name="#804040" draw:color="#804040"/>
+ <draw:color draw:name="#FF8040" draw:color="#ff8040"/>
+ <draw:color draw:name="#00FF00" draw:color="#00ff00"/>
+ <draw:color draw:name="#008080" draw:color="#008080"/>
+ <draw:color draw:name="#004080" draw:color="#004080"/>
+ <draw:color draw:name="#8080FF" draw:color="#8080ff"/>
+ <draw:color draw:name="#800040" draw:color="#800040"/>
+ <draw:color draw:name="#FF0080" draw:color="#ff0080"/>
+ <draw:color draw:name="#800000" draw:color="#800000"/>
+ <draw:color draw:name="#FF8000" draw:color="#ff8000"/>
+ <draw:color draw:name="#008000" draw:color="#008000"/>
+ <draw:color draw:name="#008040" draw:color="#008040"/>
+ <draw:color draw:name="#0000FF" draw:color="#0000ff"/>
+ <draw:color draw:name="#0000A0" draw:color="#0000a0"/>
+ <draw:color draw:name="#800080" draw:color="#800080"/>
+ <draw:color draw:name="#8000FF" draw:color="#8000ff"/>
+ <draw:color draw:name="#400000" draw:color="#400000"/>
+ <draw:color draw:name="#804000" draw:color="#804000"/>
+ <draw:color draw:name="#004000" draw:color="#004000"/>
+ <draw:color draw:name="#004040" draw:color="#004040"/>
+ <draw:color draw:name="#000080" draw:color="#000080"/>
+ <draw:color draw:name="#000040" draw:color="#000040"/>
+ <draw:color draw:name="#400040" draw:color="#400040"/>
+ <draw:color draw:name="#400080" draw:color="#400080"/>
+ <draw:color draw:name="#000000" draw:color="#000000"/>
+ <draw:color draw:name="#808000" draw:color="#808000"/>
+ <draw:color draw:name="#808040" draw:color="#808040"/>
+ <draw:color draw:name="#808080" draw:color="#808080"/>
+ <draw:color draw:name="#408080" draw:color="#408080"/>
+ <draw:color draw:name="#C0C0C0" draw:color="#c0c0c0"/>
+ <draw:color draw:name="#400040" draw:color="#400040"/>
+ <draw:color draw:name="#FFFFFF" draw:color="#ffffff"/>
+</office:color-table>

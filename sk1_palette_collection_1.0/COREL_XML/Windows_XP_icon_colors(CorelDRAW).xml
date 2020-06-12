@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+Palette source: Microsoft
+https://msdn.microsoft.com/en-us/library/ms997636.aspx
+
+-->
+<palette guid="c693c064-15a2-11e5-a91f-e03f4985805d" name="Windows XP icon colors">
+	<colorspaces />
+	<colors>
+		<page>
+			<color cs="RGB" tints="0.6,0.4,0.0" name="#996600" />
+			<color cs="RGB" tints="0.8,0.6,0.0" name="#CC9900" />
+			<color cs="RGB" tints="1.0,0.8,0.0" name="#FFCC00" />
+			<color cs="RGB" tints="1.0,1.0,0.0" name="#FFFF00" />
+			<color cs="RGB" tints="1.0,1.0,0.6" name="#FFFF99" />
+			<color cs="RGB" tints="1.0,0.858824,0.615686" name="#FFDB9D" />
+			<color cs="RGB" tints="1.0,0.8,0.4" name="#FFCC66" />
+			<color cs="RGB" tints="1.0,0.6,0.2" name="#FF9933" />
+			<color cs="RGB" tints="1.0,0.47451,0.294118" name="#FF794B" />
+			<color cs="RGB" tints="1.0,0.2,0.0" name="#FF3300" />
+			<color cs="RGB" tints="0.6,0.0,0.0" name="#990000" />
+			<color cs="RGB" tints="0.2,0.2,0.4" name="#333366" />
+			<color cs="RGB" tints="0.0,0.2,0.6" name="#003399" />
+			<color cs="RGB" tints="0.0,0.4,0.8" name="#0066CC" />
+			<color cs="RGB" tints="0.0,0.513725,0.843137" name="#0083D7" />
+			<color cs="RGB" tints="0.0,0.6,1.0" name="#0099FF" />
+			<color cs="RGB" tints="0.243137,0.603922,0.870588" name="#3E9ADE" />
+			<color cs="RGB" tints="0.6,0.8,1.0" name="#99CCFF" />
+			<color cs="RGB" tints="0.705882,0.886275,1.0" name="#B4E2FF" />
+			<color cs="RGB" tints="0.870588,1.0,1.0" name="#DEFFFF" />
+			<color cs="RGB" tints="1.0,0.8,1.0" name="#FFCCFF" />
+			<color cs="RGB" tints="0.8,0.8,1.0" name="#CCCCFF" />
+			<color cs="RGB" tints="0.6,0.6,1.0" name="#9999FF" />
+			<color cs="RGB" tints="0.4,0.4,0.8" name="#6666CC" />
+			<color cs="RGB" tints="0.6,0.6,0.8" name="#9999CC" />
+			<color cs="RGB" tints="0.4,0.4,0.6" name="#666699" />
+			<color cs="RGB" tints="0.0,0.4,0.0" name="#006600" />
+			<color cs="RGB" tints="0.0,0.6,0.0" name="#009900" />
+			<color cs="RGB" tints="0.4,0.8,0.2" name="#66CC33" />
+			<color cs="RGB" tints="0.6,1.0,0.4" name="#99FF66" />
+			<color cs="RGB" tints="0.8,1.0,0.8" name="#CDFFCC" />
+		</page>
+	</colors>
+	<localization />
+</palette>

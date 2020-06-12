@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Palette source: Canonical
+The palette is published here:
+http://design.ubuntu.com/brand/colour-palette
+-->
+<SCRIBUSCOLORS Name="Ubuntu colors" >
+	<COLOR RGB="#dd4814" NAME="Ubuntu orange" />
+	<COLOR RGB="#772953" NAME="Canonical aubergine" />
+	<COLOR RGB="#ffffff" NAME="White" />
+	<COLOR RGB="#000000" NAME="Black" />
+	<COLOR RGB="#77216f" NAME="Light aubergine" />
+	<COLOR RGB="#5e2750" NAME="Mid aubergine" />
+	<COLOR RGB="#2c001e" NAME="Dark aubergine" />
+	<COLOR RGB="#aea79f" NAME="Warm grey" />
+	<COLOR RGB="#333333" NAME="Cool grey" />
+</SCRIBUSCOLORS>

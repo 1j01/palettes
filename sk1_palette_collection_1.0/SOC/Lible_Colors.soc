@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Palette source: Document Foundation
+The palette is published here:
+http://luxate.blogspot.com/2010/10/united-colors-of-liberty.html
+
+-->
+<office:color-table xmlns:form="http://openoffice.org/2000/form" xmlns:number="http://openoffice.org/2000/datastyle" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:office="http://openoffice.org/2000/office" xmlns:meta="http://openoffice.org/2000/meta" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:svg="http://www.w3.org/2000/svg" xmlns:dr3d="http://openoffice.org/2000/dr3d" xmlns:text="http://openoffice.org/2000/text" xmlns:style="http://openoffice.org/2000/style" xmlns:script="http://openoffice.org/2000/script" xmlns:chart="http://openoffice.org/2000/chart" xmlns:draw="http://openoffice.org/2000/drawing" xmlns:table="http://openoffice.org/2000/table" xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:config="http://openoffice.org/2001/config" xmlns:dc="http://purl.org/dc/elements/1.1/">
+ <draw:color draw:name="LibreGreen" draw:color="#18a303"/>
+ <draw:color draw:name="#2CEE0E" draw:color="#2cee0e"/>
+ <draw:color draw:name="#84F671" draw:color="#84f671"/>
+ <draw:color draw:name="#C2F6BA" draw:color="#c2f6ba"/>
+ <draw:color draw:name="LibreBlue" draw:color="#0369a3"/>
+ <draw:color draw:name="#0E9CEE" draw:color="#0e9cee"/>
+ <draw:color draw:name="#49BAFB" draw:color="#49bafb"/>
+ <draw:color draw:name="#9FD7F6" draw:color="#9fd7f6"/>
+ <draw:color draw:name="LibreMaroon" draw:color="#a33e03"/>
+ <draw:color draw:name="#F25F0A" draw:color="#f25f0a"/>
+ <draw:color draw:name="#FC9B63" draw:color="#fc9b63"/>
+ <draw:color draw:name="#F8C9AC" draw:color="#f8c9ac"/>
+ <draw:color draw:name="LibrePurple" draw:color="#8c03a1"/>
+ <draw:color draw:name="#CF42E4" draw:color="#cf42e4"/>
+ <draw:color draw:name="#DB76EA" draw:color="#db76ea"/>
+ <draw:color draw:name="#F2C4FA" draw:color="#f2c4fa"/>
+</office:color-table>

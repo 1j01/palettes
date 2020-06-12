@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Palette source: Microsoft
+The palette is published here:
+https://msdn.microsoft.com/en-us/library/office/dn684229.aspx
+
+-->
+<office:color-table xmlns:form="http://openoffice.org/2000/form" xmlns:number="http://openoffice.org/2000/datastyle" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:office="http://openoffice.org/2000/office" xmlns:meta="http://openoffice.org/2000/meta" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:svg="http://www.w3.org/2000/svg" xmlns:dr3d="http://openoffice.org/2000/dr3d" xmlns:text="http://openoffice.org/2000/text" xmlns:style="http://openoffice.org/2000/style" xmlns:script="http://openoffice.org/2000/script" xmlns:chart="http://openoffice.org/2000/chart" xmlns:draw="http://openoffice.org/2000/drawing" xmlns:table="http://openoffice.org/2000/table" xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:config="http://openoffice.org/2001/config" xmlns:dc="http://purl.org/dc/elements/1.1/">
+ <draw:color draw:name="Outlook Dark" draw:color="#005a9e"/>
+ <draw:color draw:name="Outlook Primary" draw:color="#0072c6"/>
+ <draw:color draw:name="Outlook Secondary" draw:color="#2a8dd4"/>
+ <draw:color draw:name="Outlook Light" draw:color="#cde6f7"/>
+ <draw:color draw:name="Excel Dark" draw:color="#0a6332"/>
+ <draw:color draw:name="Excel Primary" draw:color="#217346"/>
+ <draw:color draw:name="Excel Secondary" draw:color="#439467"/>
+ <draw:color draw:name="Excel Light" draw:color="#d3f0e0"/>
+ <draw:color draw:name="PowerPoint Dark" draw:color="#b83b1d"/>
+ <draw:color draw:name="PowerPoint Primary" draw:color="#d24726"/>
+ <draw:color draw:name="PowerPoint Secondary" draw:color="#f0623e"/>
+ <draw:color draw:name="PowerPoint Light" draw:color="#fce4dc"/>
+ <draw:color draw:name="Word Dark" draw:color="#19478a"/>
+ <draw:color draw:name="Word Primary" draw:color="#2b579a"/>
+ <draw:color draw:name="Word Secondary" draw:color="#3e6db5"/>
+ <draw:color draw:name="Word Light" draw:color="#d5eaf2"/>
+</office:color-table>

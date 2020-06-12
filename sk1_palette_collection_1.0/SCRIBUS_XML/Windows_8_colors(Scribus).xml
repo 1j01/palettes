@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Palette source: Microsoft
+The palette colors are from tiles found on the Start Screen.
+-->
+<SCRIBUSCOLORS Name="Windows 8 colors" >
+	<COLOR RGB="#008299" NAME="#008299" />
+	<COLOR RGB="#00a0b1" NAME="#00A0B1" />
+	<COLOR RGB="#2672ec" NAME="#2672EC" />
+	<COLOR RGB="#2e8def" NAME="#2E8DEF" />
+	<COLOR RGB="#8c0095" NAME="#8C0095" />
+	<COLOR RGB="#a700ae" NAME="#A700AE" />
+	<COLOR RGB="#5133ab" NAME="#5133AB" />
+	<COLOR RGB="#643ebf" NAME="#643EBF" />
+	<COLOR RGB="#ac193d" NAME="#AC193D" />
+	<COLOR RGB="#bf1e4b" NAME="#BF1E4B" />
+	<COLOR RGB="#d24726" NAME="#D24726" />
+	<COLOR RGB="#dc572e" NAME="#DC572E" />
+	<COLOR RGB="#008a00" NAME="#008A00" />
+	<COLOR RGB="#00a600" NAME="#00A600" />
+	<COLOR RGB="#094ab2" NAME="#094AB2" />
+	<COLOR RGB="#0a5bc4" NAME="#0A5BC4" />
+</SCRIBUSCOLORS>

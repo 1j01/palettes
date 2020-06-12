@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Palette source: sK1 Project
+Grayscale colors for tests
+-->
+<SCRIBUSCOLORS Name="Grayscale palette" >
+	<COLOR RGB="#000000" NAME="0%" />
+	<COLOR RGB="#5a5a5a" NAME="10%" />
+	<COLOR RGB="#7c7c7c" NAME="20%" />
+	<COLOR RGB="#959595" NAME="30%" />
+	<COLOR RGB="#aaaaaa" NAME="40%" />
+	<COLOR RGB="#bcbcbc" NAME="50%" />
+	<COLOR RGB="#cbcbcb" NAME="60%" />
+	<COLOR RGB="#dadada" NAME="70%" />
+	<COLOR RGB="#e7e7e7" NAME="80%" />
+	<COLOR RGB="#f4f4f4" NAME="90%" />
+	<COLOR RGB="#ffffff" NAME="100%" />
+</SCRIBUSCOLORS>

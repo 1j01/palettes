@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Palette source: sK1 Project
+Grayscale colors for tests
+
+-->
+<office:color-table xmlns:form="http://openoffice.org/2000/form" xmlns:number="http://openoffice.org/2000/datastyle" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:office="http://openoffice.org/2000/office" xmlns:meta="http://openoffice.org/2000/meta" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:svg="http://www.w3.org/2000/svg" xmlns:dr3d="http://openoffice.org/2000/dr3d" xmlns:text="http://openoffice.org/2000/text" xmlns:style="http://openoffice.org/2000/style" xmlns:script="http://openoffice.org/2000/script" xmlns:chart="http://openoffice.org/2000/chart" xmlns:draw="http://openoffice.org/2000/drawing" xmlns:table="http://openoffice.org/2000/table" xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:config="http://openoffice.org/2001/config" xmlns:dc="http://purl.org/dc/elements/1.1/">
+ <draw:color draw:name="0%" draw:color="#000000"/>
+ <draw:color draw:name="10%" draw:color="#5a5a5a"/>
+ <draw:color draw:name="20%" draw:color="#7c7c7c"/>
+ <draw:color draw:name="30%" draw:color="#959595"/>
+ <draw:color draw:name="40%" draw:color="#aaaaaa"/>
+ <draw:color draw:name="50%" draw:color="#bcbcbc"/>
+ <draw:color draw:name="60%" draw:color="#cbcbcb"/>
+ <draw:color draw:name="70%" draw:color="#dadada"/>
+ <draw:color draw:name="80%" draw:color="#e7e7e7"/>
+ <draw:color draw:name="90%" draw:color="#f4f4f4"/>
+ <draw:color draw:name="100%" draw:color="#ffffff"/>
+</office:color-table>

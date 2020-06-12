@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+Palette source: Microsoft
+
+-->
+<palette guid="c6891ca4-15a2-11e5-a91f-e03f4985805d" name="Windows 10 personalizing colors">
+	<colorspaces />
+	<colors>
+		<page>
+			<color cs="RGB" tints="0.670588,0.670588,0.670588" name="#ABABAB" />
+			<color cs="RGB" tints="0.541176,0.811765,1.0" name="#8ACFFF" />
+			<color cs="RGB" tints="0.960784,0.596078,0.839216" name="#F598D6" />
+			<color cs="RGB" tints="0.952941,0.823529,0.25098" name="#F3D240" />
+			<color cs="RGB" tints="0.678431,0.847059,0.372549" name="#ADD85F" />
+			<color cs="RGB" tints="0.470588,0.85098,0.85098" name="#78D9D9" />
+			<color cs="RGB" tints="1.0,0.686275,0.317647" name="#FFAF51" />
+			<color cs="RGB" tints="1.0,0.435294,0.435294" name="#FF6F6F" />
+			<color cs="RGB" tints="0.952941,0.34902,0.658824" name="#F359A8" />
+			<color cs="RGB" tints="0.278431,0.811765,0.454902" name="#47CF74" />
+			<color cs="RGB" tints="0.768627,0.541176,1.0" name="#C48AFF" />
+			<color cs="RGB" tints="0.345098,0.694118,0.988235" name="#58B1FC" />
+			<color cs="RGB" tints="0.596078,0.596078,1.0" name="#9898FF" />
+			<color cs="RGB" tints="0.764706,0.709804,0.658824" name="#C3B5A8" />
+			<color cs="RGB" tints="0.988235,0.988235,0.988235" name="#FCFCFC" />
+		</page>
+	</colors>
+	<localization />
+</palette>

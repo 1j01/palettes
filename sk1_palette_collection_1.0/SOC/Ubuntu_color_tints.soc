@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Palette source: Canonical
+The palette is published here:
+http://design.ubuntu.com/brand/colour-palette
+
+-->
+<office:color-table xmlns:form="http://openoffice.org/2000/form" xmlns:number="http://openoffice.org/2000/datastyle" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:office="http://openoffice.org/2000/office" xmlns:meta="http://openoffice.org/2000/meta" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:svg="http://www.w3.org/2000/svg" xmlns:dr3d="http://openoffice.org/2000/dr3d" xmlns:text="http://openoffice.org/2000/text" xmlns:style="http://openoffice.org/2000/style" xmlns:script="http://openoffice.org/2000/script" xmlns:chart="http://openoffice.org/2000/chart" xmlns:draw="http://openoffice.org/2000/drawing" xmlns:table="http://openoffice.org/2000/table" xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:config="http://openoffice.org/2001/config" xmlns:dc="http://purl.org/dc/elements/1.1/">
+ <draw:color draw:name="Ubuntu Orange 100%" draw:color="#dd4814"/>
+ <draw:color draw:name="Ubuntu Orange 90%" draw:color="#e05a2b"/>
+ <draw:color draw:name="Ubuntu Orange 80%" draw:color="#e36c43"/>
+ <draw:color draw:name="Ubuntu Orange 70%" draw:color="#e77e5a"/>
+ <draw:color draw:name="Ubuntu Orange 60%" draw:color="#ea9172"/>
+ <draw:color draw:name="Ubuntu Orange 50%" draw:color="#eea389"/>
+ <draw:color draw:name="Ubuntu Orange 45%" draw:color="#efac95"/>
+ <draw:color draw:name="Ubuntu Orange 40%" draw:color="#f1b5a1"/>
+ <draw:color draw:name="Ubuntu Orange 35%" draw:color="#f3beac"/>
+ <draw:color draw:name="Ubuntu Orange 30%" draw:color="#f4c8b8"/>
+ <draw:color draw:name="Ubuntu Orange 25%" draw:color="#f6d1c4"/>
+ <draw:color draw:name="Ubuntu Orange 20%" draw:color="#f8dad0"/>
+ <draw:color draw:name="Ubuntu Orange 15%" draw:color="#f9e3db"/>
+ <draw:color draw:name="Ubuntu Orange 10%" draw:color="#fbece7"/>
+ <draw:color draw:name="Canonical Aubergine 100%" draw:color="#772953"/>
+ <draw:color draw:name="Canonical Aubergine 90%" draw:color="#843e64"/>
+ <draw:color draw:name="Canonical Aubergine 80%" draw:color="#925375"/>
+ <draw:color draw:name="Canonical Aubergine 70%" draw:color="#9f6986"/>
+ <draw:color draw:name="Canonical Aubergine 60%" draw:color="#ad7e97"/>
+ <draw:color draw:name="Canonical Aubergine 50%" draw:color="#bb94a9"/>
+ <draw:color draw:name="Canonical Aubergine 45%" draw:color="#c19eb1"/>
+ <draw:color draw:name="Canonical Aubergine 40%" draw:color="#c8a9ba"/>
+ <draw:color draw:name="Canonical Aubergine 35%" draw:color="#cfb4c2"/>
+ <draw:color draw:name="Canonical Aubergine 30%" draw:color="#d6becb"/>
+ <draw:color draw:name="Canonical Aubergine 25%" draw:color="#ddc9d4"/>
+ <draw:color draw:name="Canonical Aubergine 20%" draw:color="#e3d4dc"/>
+ <draw:color draw:name="Canonical Aubergine 15%" draw:color="#eadee5"/>
+ <draw:color draw:name="Canonical Aubergine 10%" draw:color="#f1e9ed"/>
+ <draw:color draw:name="Light Aubergine 100%" draw:color="#77216f"/>
+ <draw:color draw:name="Light Aubergine 90%" draw:color="#84377d"/>
+ <draw:color draw:name="Light Aubergine 80%" draw:color="#924d8b"/>
+ <draw:color draw:name="Light Aubergine 70%" draw:color="#9f639a"/>
+ <draw:color draw:name="Light Aubergine 60%" draw:color="#ad79a8"/>
+ <draw:color draw:name="Light Aubergine 50%" draw:color="#bb90b7"/>
+ <draw:color draw:name="Light Aubergine 45%" draw:color="#c19bbe"/>
+ <draw:color draw:name="Light Aubergine 40%" draw:color="#c8a6c5"/>
+ <draw:color draw:name="Light Aubergine 35%" draw:color="#cfb1cc"/>
+ <draw:color draw:name="Light Aubergine 30%" draw:color="#d6bcd3"/>
+ <draw:color draw:name="Light Aubergine 25%" draw:color="#ddc7db"/>
+ <draw:color draw:name="Light Aubergine 20%" draw:color="#e3d2e2"/>
+ <draw:color draw:name="Light Aubergine 15%" draw:color="#eadde9"/>
+ <draw:color draw:name="Light Aubergine 10%" draw:color="#f1e8f0"/>
+ <draw:color draw:name="Mid Aubergine 100%" draw:color="#5e2750"/>
+ <draw:color draw:name="Mid Aubergine 90%" draw:color="#6e3c61"/>
+ <draw:color draw:name="Mid Aubergine 80%" draw:color="#7e5273"/>
+ <draw:color draw:name="Mid Aubergine 70%" draw:color="#8e6784"/>
+ <draw:color draw:name="Mid Aubergine 60%" draw:color="#9e7d96"/>
+ <draw:color draw:name="Mid Aubergine 50%" draw:color="#ae93a7"/>
+ <draw:color draw:name="Mid Aubergine 45%" draw:color="#b69db0"/>
+ <draw:color draw:name="Mid Aubergine 40%" draw:color="#bea8b9"/>
+ <draw:color draw:name="Mid Aubergine 35%" draw:color="#c6b3c1"/>
+ <draw:color draw:name="Mid Aubergine 30%" draw:color="#cebeca"/>
+ <draw:color draw:name="Mid Aubergine 25%" draw:color="#d6c9d3"/>
+ <draw:color draw:name="Mid Aubergine 20%" draw:color="#ded3dc"/>
+ <draw:color draw:name="Mid Aubergine 15%" draw:color="#e6dee4"/>
+ <draw:color draw:name="Mid Aubergine 10%" draw:color="#eee9ed"/>
+ <draw:color draw:name="Dark Aubergine 100%" draw:color="#2c001e"/>
+ <draw:color draw:name="Dark Aubergine 90%" draw:color="#411934"/>
+ <draw:color draw:name="Dark Aubergine 80%" draw:color="#56334b"/>
+ <draw:color draw:name="Dark Aubergine 70%" draw:color="#6b4c61"/>
+ <draw:color draw:name="Dark Aubergine 60%" draw:color="#806678"/>
+ <draw:color draw:name="Dark Aubergine 50%" draw:color="#957f8e"/>
+ <draw:color draw:name="Dark Aubergine 45%" draw:color="#a08c99"/>
+ <draw:color draw:name="Dark Aubergine 40%" draw:color="#aa99a5"/>
+ <draw:color draw:name="Dark Aubergine 35%" draw:color="#b5a5b0"/>
+ <draw:color draw:name="Dark Aubergine 30%" draw:color="#bfb2bb"/>
+ <draw:color draw:name="Dark Aubergine 25%" draw:color="#cabfc6"/>
+ <draw:color draw:name="Dark Aubergine 20%" draw:color="#d4ccd2"/>
+ <draw:color draw:name="Dark Aubergine 15%" draw:color="#dfd8dd"/>
+ <draw:color draw:name="Dark Aubergine 10%" draw:color="#e9e5e8"/>
+ <draw:color draw:name="Warm Grey 100%" draw:color="#aea79f"/>
+ <draw:color draw:name="Warm Grey 90%" draw:color="#b6afa8"/>
+ <draw:color draw:name="Warm Grey 80%" draw:color="#beb8b2"/>
+ <draw:color draw:name="Warm Grey 70%" draw:color="#c6c1bb"/>
+ <draw:color draw:name="Warm Grey 60%" draw:color="#cecac5"/>
+ <draw:color draw:name="Warm Grey 50%" draw:color="#d6d3cf"/>
+ <draw:color draw:name="Warm Grey 45%" draw:color="#dad7d3"/>
+ <draw:color draw:name="Warm Grey 40%" draw:color="#dedbd8"/>
+ <draw:color draw:name="Warm Grey 35%" draw:color="#e2e0dd"/>
+ <draw:color draw:name="Warm Grey 30%" draw:color="#e6e4e2"/>
+ <draw:color draw:name="Warm Grey 25%" draw:color="#eae9e7"/>
+ <draw:color draw:name="Warm Grey 20%" draw:color="#eeedeb"/>
+ <draw:color draw:name="Warm Grey 15%" draw:color="#f2f1f0"/>
+ <draw:color draw:name="Warm Grey 10%" draw:color="#f6f6f5"/>
+</office:color-table>

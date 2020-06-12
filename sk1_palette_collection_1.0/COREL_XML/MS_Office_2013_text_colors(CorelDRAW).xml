@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+Palette source: Microsoft
+The palette is published here:
+https://msdn.microsoft.com/en-us/library/office/dn684229.aspx
+
+-->
+<palette guid="c6210c86-15a2-11e5-a91f-e03f4985805d" name="MS Office 2013 text colors">
+	<colorspaces />
+	<colors>
+		<page>
+			<color cs="RGB" tints="0.0,0.0,0.0" name="Black" />
+			<color cs="RGB" tints="0.2,0.2,0.2" name="Primary" />
+			<color cs="RGB" tints="0.4,0.4,0.4" name="Secondary" />
+			<color cs="RGB" tints="0.2,0.4,0.6" name="Hyperlink" />
+			<color cs="RGB" tints="0.784314,0.784314,0.784314" name="Tertiary" />
+			<color cs="RGB" tints="0.658824,0.058824,0.133333" name="Warnings" />
+			<color cs="RGB" tints="0.2,0.2,0.2" name="Selected text" />
+		</page>
+	</colors>
+	<localization />
+</palette>

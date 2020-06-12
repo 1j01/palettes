@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Palette source: W3C
+The palette is published here:
+http://www.w3.org/TR/css3-color/
+-->
+<SCRIBUSCOLORS Name="CSS3 named colors" >
+	<COLOR RGB="#000000" NAME="black" />
+	<COLOR RGB="#c0c0c0" NAME="silver" />
+	<COLOR RGB="#808080" NAME="gray" />
+	<COLOR RGB="#ffffff" NAME="white" />
+	<COLOR RGB="#800000" NAME="maroon" />
+	<COLOR RGB="#ff0000" NAME="red" />
+	<COLOR RGB="#800080" NAME="purple" />
+	<COLOR RGB="#ff00ff" NAME="fuchsia" />
+	<COLOR RGB="#008000" NAME="green" />
+	<COLOR RGB="#00ff00" NAME="lime" />
+	<COLOR RGB="#808000" NAME="olive" />
+	<COLOR RGB="#ffff00" NAME="yellow" />
+	<COLOR RGB="#000080" NAME="navy" />
+	<COLOR RGB="#0000ff" NAME="blue" />
+	<COLOR RGB="#008080" NAME="teal" />
+	<COLOR RGB="#00ffff" NAME="aqua" />
+</SCRIBUSCOLORS>

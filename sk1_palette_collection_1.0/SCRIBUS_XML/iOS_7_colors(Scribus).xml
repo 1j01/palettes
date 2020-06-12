@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Palette source: Apple
+The palette is published here:
+https://developer.apple.com/library/ios/documentation/UserExperience/Conceptual/MobileHIG/ColorImagesText.html
+-->
+<SCRIBUSCOLORS Name="iOS 7 colors" >
+	<COLOR RGB="#5ac8fa" NAME="#5AC8FA" />
+	<COLOR RGB="#ffcc00" NAME="#FFCC00" />
+	<COLOR RGB="#ff9500" NAME="#FF9500" />
+	<COLOR RGB="#ff2d55" NAME="#FF2D55" />
+	<COLOR RGB="#007aff" NAME="#007AFF" />
+	<COLOR RGB="#4cd964" NAME="#4CD964" />
+	<COLOR RGB="#ff3b30" NAME="#FF3B30" />
+	<COLOR RGB="#8e8e93" NAME="#8E8E93" />
+</SCRIBUSCOLORS>

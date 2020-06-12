@@ -1,0 +1,24 @@
+GIMP Palette
+Name: MS Office 2013 primary colors
+Columns: 4
+#
+# Palette source: Microsoft
+# The palette is published here:
+# https://msdn.microsoft.com/en-us/library/office/dn684229.aspx
+#
+  0  90 158	Outlook Dark
+  0 114 198	Outlook Primary
+ 42 141 212	Outlook Secondary
+205 230 247	Outlook Light
+ 10  99  50	Excel Dark
+ 33 115  70	Excel Primary
+ 67 148 103	Excel Secondary
+211 240 224	Excel Light
+184  59  29	PowerPoint Dark
+210  71  38	PowerPoint Primary
+240  98  62	PowerPoint Secondary
+252 228 220	PowerPoint Light
+ 25  71 138	Word Dark
+ 43  87 154	Word Primary
+ 62 109 181	Word Secondary
+213 234 242	Word Light

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+Palette source: Fedora Project
+The palette is published here:
+https://fedoraproject.org/wiki/Logo/UsageGuidelines#Never_Stray_from_the_Color_Palette
+
+-->
+<palette guid="c60a7430-15a2-11e5-a91f-e03f4985805d" name="Fedora color palette">
+	<colorspaces />
+	<colors>
+		<page>
+			<color cs="RGB" tints="0.235294,0.431373,0.705882" name="Fedora Blue" />
+			<color cs="RGB" tints="0.160784,0.254902,0.447059" name="Fedora Dark Blue" />
+			<color cs="RGB" tints="0.858824,0.196078,0.47451" name="Friends Magenta" />
+			<color cs="RGB" tints="0.898039,0.592157,0.156863" name="Features Orange" />
+			<color cs="RGB" tints="0.47451,0.858824,0.196078" name="First Green" />
+			<color cs="RGB" tints="0.627451,0.486275,0.737255" name="Freedom Purple" />
+			<color cs="RGB" tints="0.0,0.0,0.0" name="Black" />
+			<color cs="RGB" tints="0.298039,0.298039,0.298039" name="Dark Grey" />
+			<color cs="RGB" tints="0.54902,0.54902,0.54902" name="Grey" />
+			<color cs="RGB" tints="0.870588,0.870588,0.870588" name="Light Grey" />
+		</page>
+	</colors>
+	<localization />
+</palette>

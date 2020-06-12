@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Palette source: Fedora Project
+The palette is published here:
+http://fedoraproject.org/wiki/Artwork/BluecurveIconGuidelines
+
+-->
+<office:color-table xmlns:form="http://openoffice.org/2000/form" xmlns:number="http://openoffice.org/2000/datastyle" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:office="http://openoffice.org/2000/office" xmlns:meta="http://openoffice.org/2000/meta" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:svg="http://www.w3.org/2000/svg" xmlns:dr3d="http://openoffice.org/2000/dr3d" xmlns:text="http://openoffice.org/2000/text" xmlns:style="http://openoffice.org/2000/style" xmlns:script="http://openoffice.org/2000/script" xmlns:chart="http://openoffice.org/2000/chart" xmlns:draw="http://openoffice.org/2000/drawing" xmlns:table="http://openoffice.org/2000/table" xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:config="http://openoffice.org/2001/config" xmlns:dc="http://purl.org/dc/elements/1.1/">
+ <draw:color draw:name="DDBEDD" draw:color="#ddbedd"/>
+ <draw:color draw:name="BC80BD" draw:color="#bc80bd"/>
+ <draw:color draw:name="9E49A1" draw:color="#9e49a1"/>
+ <draw:color draw:name="811788" draw:color="#811788"/>
+ <draw:color draw:name="7A0082" draw:color="#7a0082"/>
+ <draw:color draw:name="BFCAE2" draw:color="#bfcae2"/>
+ <draw:color draw:name="809CC9" draw:color="#809cc9"/>
+ <draw:color draw:name="457383" draw:color="#4573b3"/>
+ <draw:color draw:name="0A50A1" draw:color="#0a50a1"/>
+ <draw:color draw:name="032C87" draw:color="#032c87"/>
+ <draw:color draw:name="E5F1F4" draw:color="#e5f1f4"/>
+ <draw:color draw:name="CCECF4" draw:color="#ccecf4"/>
+ <draw:color draw:name="99D9E8" draw:color="#99d9e8"/>
+ <draw:color draw:name="65C6DD" draw:color="#67c6dd"/>
+ <draw:color draw:name="34B3D1" draw:color="#34b3d1"/>
+ <draw:color draw:name="CCEBB9" draw:color="#ccebb9"/>
+ <draw:color draw:name="99D47F" draw:color="#99d47f"/>
+ <draw:color draw:name="66BB50" draw:color="#66bb50"/>
+ <draw:color draw:name="33A02C" draw:color="#33a02c"/>
+ <draw:color draw:name="009900" draw:color="#009900"/>
+ <draw:color draw:name="FFFFBF" draw:color="#ffffbf"/>
+ <draw:color draw:name="FFFF99" draw:color="#ffff99"/>
+ <draw:color draw:name="FFFF66" draw:color="#ffff66"/>
+ <draw:color draw:name="FFFF00" draw:color="#ffff00"/>
+ <draw:color draw:name="FFE900" draw:color="#ffe900"/>
+ <draw:color draw:name="E2BE89" draw:color="#e2be89"/>
+ <draw:color draw:name="FF9766" draw:color="#ff9766"/>
+ <draw:color draw:name="CC6635" draw:color="#cc6635"/>
+ <draw:color draw:name="993300" draw:color="#993300"/>
+ <draw:color draw:name="6B3200" draw:color="#6b3200"/>
+ <draw:color draw:name="FEEFD0" draw:color="#feefd0"/>
+ <draw:color draw:name="FEDFB3" draw:color="#fedfb3"/>
+ <draw:color draw:name="FDBF6F" draw:color="#fdbf6f"/>
+ <draw:color draw:name="FF9F34" draw:color="#ff9f34"/>
+ <draw:color draw:name="FF7F00" draw:color="#ff7f00"/>
+ <draw:color draw:name="FCC0A7" draw:color="#fcc0a7"/>
+ <draw:color draw:name="FB805F" draw:color="#fb805f"/>
+ <draw:color draw:name="FC4128" draw:color="#fc4128"/>
+ <draw:color draw:name="FF0000" draw:color="#ff0000"/>
+ <draw:color draw:name="A70000" draw:color="#a70000"/>
+ <draw:color draw:name="FFFFFF" draw:color="#ffffff"/>
+ <draw:color draw:name="CCCCCC" draw:color="#cccccc"/>
+ <draw:color draw:name="999999" draw:color="#999999"/>
+ <draw:color draw:name="666666" draw:color="#666666"/>
+ <draw:color draw:name="333333" draw:color="#333333"/>
+ <draw:color draw:name="000000" draw:color="#000000"/>
+</office:color-table>

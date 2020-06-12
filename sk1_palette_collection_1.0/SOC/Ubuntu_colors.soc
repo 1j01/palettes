@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Palette source: Canonical
+The palette is published here:
+http://design.ubuntu.com/brand/colour-palette
+
+-->
+<office:color-table xmlns:form="http://openoffice.org/2000/form" xmlns:number="http://openoffice.org/2000/datastyle" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:office="http://openoffice.org/2000/office" xmlns:meta="http://openoffice.org/2000/meta" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:svg="http://www.w3.org/2000/svg" xmlns:dr3d="http://openoffice.org/2000/dr3d" xmlns:text="http://openoffice.org/2000/text" xmlns:style="http://openoffice.org/2000/style" xmlns:script="http://openoffice.org/2000/script" xmlns:chart="http://openoffice.org/2000/chart" xmlns:draw="http://openoffice.org/2000/drawing" xmlns:table="http://openoffice.org/2000/table" xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:config="http://openoffice.org/2001/config" xmlns:dc="http://purl.org/dc/elements/1.1/">
+ <draw:color draw:name="Ubuntu orange" draw:color="#dd4814"/>
+ <draw:color draw:name="Canonical aubergine" draw:color="#772953"/>
+ <draw:color draw:name="White" draw:color="#ffffff"/>
+ <draw:color draw:name="Black" draw:color="#000000"/>
+ <draw:color draw:name="Light aubergine" draw:color="#77216f"/>
+ <draw:color draw:name="Mid aubergine" draw:color="#5e2750"/>
+ <draw:color draw:name="Dark aubergine" draw:color="#2c001e"/>
+ <draw:color draw:name="Warm grey" draw:color="#aea79f"/>
+ <draw:color draw:name="Cool grey" draw:color="#333333"/>
+</office:color-table>

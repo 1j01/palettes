@@ -1,0 +1,516 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+Palette source: University of Oregon
+The palette is published here:
+http://wiki.tcl.tk/3538
+
+-->
+<palette guid="c6678544-15a2-11e5-a91f-e03f4985805d" name="Tk unique named colors">
+	<colorspaces />
+	<colors>
+		<page>
+			<color cs="RGB" tints="1.0,0.980392,0.980392" name="snow" />
+			<color cs="RGB" tints="0.972549,0.972549,1.0" name="ghost white" />
+			<color cs="RGB" tints="0.960784,0.960784,0.960784" name="white smoke" />
+			<color cs="RGB" tints="0.862745,0.862745,0.862745" name="gainsboro" />
+			<color cs="RGB" tints="1.0,0.980392,0.941176" name="floral white" />
+			<color cs="RGB" tints="0.992157,0.960784,0.901961" name="old lace" />
+			<color cs="RGB" tints="0.980392,0.941176,0.901961" name="linen" />
+			<color cs="RGB" tints="0.980392,0.921569,0.843137" name="antique white" />
+			<color cs="RGB" tints="1.0,0.937255,0.835294" name="papaya whip" />
+			<color cs="RGB" tints="1.0,0.921569,0.803922" name="blanched almond" />
+			<color cs="RGB" tints="1.0,0.894118,0.768627" name="bisque" />
+			<color cs="RGB" tints="1.0,0.854902,0.72549" name="peach puff" />
+			<color cs="RGB" tints="1.0,0.870588,0.678431" name="navajo white" />
+			<color cs="RGB" tints="1.0,0.894118,0.709804" name="moccasin" />
+			<color cs="RGB" tints="1.0,0.972549,0.862745" name="cornsilk" />
+			<color cs="RGB" tints="1.0,1.0,0.941176" name="ivory" />
+			<color cs="RGB" tints="1.0,0.980392,0.803922" name="lemon chiffon" />
+			<color cs="RGB" tints="1.0,0.960784,0.933333" name="seashell" />
+			<color cs="RGB" tints="0.941176,1.0,0.941176" name="honeydew" />
+			<color cs="RGB" tints="0.960784,1.0,0.980392" name="mint cream" />
+			<color cs="RGB" tints="0.941176,1.0,1.0" name="azure" />
+			<color cs="RGB" tints="0.941176,0.972549,1.0" name="alice blue" />
+			<color cs="RGB" tints="0.901961,0.901961,0.980392" name="lavender" />
+			<color cs="RGB" tints="1.0,0.941176,0.960784" name="lavender blush" />
+			<color cs="RGB" tints="1.0,0.894118,0.882353" name="misty rose" />
+			<color cs="RGB" tints="1.0,1.0,1.0" name="white" />
+			<color cs="RGB" tints="0.0,0.0,0.0" name="black" />
+			<color cs="RGB" tints="0.184314,0.309804,0.309804" name="dark slate gray" />
+			<color cs="RGB" tints="0.411765,0.411765,0.411765" name="dim gray" />
+			<color cs="RGB" tints="0.439216,0.501961,0.564706" name="slate gray" />
+			<color cs="RGB" tints="0.466667,0.533333,0.6" name="light slate gray" />
+			<color cs="RGB" tints="0.745098,0.745098,0.745098" name="gray" />
+			<color cs="RGB" tints="0.827451,0.827451,0.827451" name="light grey" />
+			<color cs="RGB" tints="0.098039,0.098039,0.439216" name="midnight blue" />
+			<color cs="RGB" tints="0.0,0.0,0.501961" name="navy" />
+			<color cs="RGB" tints="0.392157,0.584314,0.929412" name="cornflower blue" />
+			<color cs="RGB" tints="0.282353,0.239216,0.545098" name="dark slate blue" />
+			<color cs="RGB" tints="0.415686,0.352941,0.803922" name="slate blue" />
+			<color cs="RGB" tints="0.482353,0.407843,0.933333" name="medium slate blue" />
+			<color cs="RGB" tints="0.517647,0.439216,1.0" name="light slate blue" />
+			<color cs="RGB" tints="0.0,0.0,0.803922" name="medium blue" />
+			<color cs="RGB" tints="0.254902,0.411765,0.882353" name="royal blue" />
+			<color cs="RGB" tints="0.0,0.0,1.0" name="blue" />
+			<color cs="RGB" tints="0.117647,0.564706,1.0" name="dodger blue" />
+			<color cs="RGB" tints="0.0,0.74902,1.0" name="deep sky blue" />
+			<color cs="RGB" tints="0.529412,0.807843,0.921569" name="sky blue" />
+			<color cs="RGB" tints="0.529412,0.807843,0.980392" name="light sky blue" />
+			<color cs="RGB" tints="0.27451,0.509804,0.705882" name="steel blue" />
+			<color cs="RGB" tints="0.690196,0.768627,0.870588" name="light steel blue" />
+			<color cs="RGB" tints="0.678431,0.847059,0.901961" name="light blue" />
+			<color cs="RGB" tints="0.690196,0.878431,0.901961" name="powder blue" />
+			<color cs="RGB" tints="0.686275,0.933333,0.933333" name="pale turquoise" />
+			<color cs="RGB" tints="0.0,0.807843,0.819608" name="dark turquoise" />
+			<color cs="RGB" tints="0.282353,0.819608,0.8" name="medium turquoise" />
+			<color cs="RGB" tints="0.25098,0.878431,0.815686" name="turquoise" />
+			<color cs="RGB" tints="0.0,1.0,1.0" name="cyan" />
+			<color cs="RGB" tints="0.878431,1.0,1.0" name="light cyan" />
+			<color cs="RGB" tints="0.372549,0.619608,0.627451" name="cadet blue" />
+			<color cs="RGB" tints="0.4,0.803922,0.666667" name="medium aquamarine" />
+			<color cs="RGB" tints="0.498039,1.0,0.831373" name="aquamarine" />
+			<color cs="RGB" tints="0.0,0.392157,0.0" name="dark green" />
+			<color cs="RGB" tints="0.333333,0.419608,0.184314" name="dark olive green" />
+			<color cs="RGB" tints="0.560784,0.737255,0.560784" name="dark sea green" />
+			<color cs="RGB" tints="0.180392,0.545098,0.341176" name="sea green" />
+			<color cs="RGB" tints="0.235294,0.701961,0.443137" name="medium sea green" />
+			<color cs="RGB" tints="0.12549,0.698039,0.666667" name="light sea green" />
+			<color cs="RGB" tints="0.596078,0.984314,0.596078" name="pale green" />
+			<color cs="RGB" tints="0.0,1.0,0.498039" name="spring green" />
+			<color cs="RGB" tints="0.486275,0.988235,0.0" name="lawn green" />
+			<color cs="RGB" tints="0.0,1.0,0.0" name="green" />
+			<color cs="RGB" tints="0.498039,1.0,0.0" name="chartreuse" />
+			<color cs="RGB" tints="0.0,0.980392,0.603922" name="medium spring green" />
+			<color cs="RGB" tints="0.678431,1.0,0.184314" name="green yellow" />
+			<color cs="RGB" tints="0.196078,0.803922,0.196078" name="lime green" />
+			<color cs="RGB" tints="0.603922,0.803922,0.196078" name="yellow green" />
+			<color cs="RGB" tints="0.133333,0.545098,0.133333" name="forest green" />
+			<color cs="RGB" tints="0.419608,0.556863,0.137255" name="olive drab" />
+			<color cs="RGB" tints="0.741176,0.717647,0.419608" name="dark khaki" />
+			<color cs="RGB" tints="0.941176,0.901961,0.54902" name="khaki" />
+			<color cs="RGB" tints="0.933333,0.909804,0.666667" name="pale goldenrod" />
+			<color cs="RGB" tints="0.980392,0.980392,0.823529" name="light goldenrod yellow" />
+			<color cs="RGB" tints="1.0,1.0,0.878431" name="light yellow" />
+			<color cs="RGB" tints="1.0,1.0,0.0" name="yellow" />
+			<color cs="RGB" tints="1.0,0.843137,0.0" name="gold" />
+			<color cs="RGB" tints="0.933333,0.866667,0.509804" name="light goldenrod" />
+			<color cs="RGB" tints="0.854902,0.647059,0.12549" name="goldenrod" />
+			<color cs="RGB" tints="0.721569,0.52549,0.043137" name="dark goldenrod" />
+			<color cs="RGB" tints="0.737255,0.560784,0.560784" name="rosy brown" />
+			<color cs="RGB" tints="0.803922,0.360784,0.360784" name="indian red" />
+			<color cs="RGB" tints="0.545098,0.270588,0.07451" name="saddle brown" />
+			<color cs="RGB" tints="0.627451,0.321569,0.176471" name="sienna" />
+			<color cs="RGB" tints="0.803922,0.521569,0.247059" name="peru" />
+			<color cs="RGB" tints="0.870588,0.721569,0.529412" name="burlywood" />
+			<color cs="RGB" tints="0.960784,0.960784,0.862745" name="beige" />
+			<color cs="RGB" tints="0.960784,0.870588,0.701961" name="wheat" />
+			<color cs="RGB" tints="0.956863,0.643137,0.376471" name="sandy brown" />
+			<color cs="RGB" tints="0.823529,0.705882,0.54902" name="tan" />
+			<color cs="RGB" tints="0.823529,0.411765,0.117647" name="chocolate" />
+			<color cs="RGB" tints="0.698039,0.133333,0.133333" name="firebrick" />
+			<color cs="RGB" tints="0.647059,0.164706,0.164706" name="brown" />
+			<color cs="RGB" tints="0.913725,0.588235,0.478431" name="dark salmon" />
+			<color cs="RGB" tints="0.980392,0.501961,0.447059" name="salmon" />
+			<color cs="RGB" tints="1.0,0.627451,0.478431" name="light salmon" />
+			<color cs="RGB" tints="1.0,0.647059,0.0" name="orange" />
+			<color cs="RGB" tints="1.0,0.54902,0.0" name="dark orange" />
+			<color cs="RGB" tints="1.0,0.498039,0.313725" name="coral" />
+			<color cs="RGB" tints="0.941176,0.501961,0.501961" name="light coral" />
+			<color cs="RGB" tints="1.0,0.388235,0.278431" name="tomato" />
+			<color cs="RGB" tints="1.0,0.270588,0.0" name="orange red" />
+			<color cs="RGB" tints="1.0,0.0,0.0" name="red" />
+			<color cs="RGB" tints="1.0,0.411765,0.705882" name="hot pink" />
+			<color cs="RGB" tints="1.0,0.078431,0.576471" name="deep pink" />
+			<color cs="RGB" tints="1.0,0.752941,0.796078" name="pink" />
+			<color cs="RGB" tints="1.0,0.713725,0.756863" name="light pink" />
+			<color cs="RGB" tints="0.858824,0.439216,0.576471" name="pale violet red" />
+			<color cs="RGB" tints="0.690196,0.188235,0.376471" name="maroon" />
+			<color cs="RGB" tints="0.780392,0.082353,0.521569" name="medium violet red" />
+			<color cs="RGB" tints="0.815686,0.12549,0.564706" name="violet red" />
+			<color cs="RGB" tints="1.0,0.0,1.0" name="magenta" />
+			<color cs="RGB" tints="0.933333,0.509804,0.933333" name="violet" />
+			<color cs="RGB" tints="0.866667,0.627451,0.866667" name="plum" />
+			<color cs="RGB" tints="0.854902,0.439216,0.839216" name="orchid" />
+			<color cs="RGB" tints="0.729412,0.333333,0.827451" name="medium orchid" />
+			<color cs="RGB" tints="0.6,0.196078,0.8" name="dark orchid" />
+			<color cs="RGB" tints="0.580392,0.0,0.827451" name="dark violet" />
+			<color cs="RGB" tints="0.541176,0.168627,0.886275" name="blue violet" />
+			<color cs="RGB" tints="0.627451,0.12549,0.941176" name="purple" />
+			<color cs="RGB" tints="0.576471,0.439216,0.858824" name="medium purple" />
+			<color cs="RGB" tints="0.847059,0.74902,0.847059" name="thistle" />
+			<color cs="RGB" tints="0.933333,0.913725,0.913725" name="snow2" />
+			<color cs="RGB" tints="0.803922,0.788235,0.788235" name="snow3" />
+			<color cs="RGB" tints="0.545098,0.537255,0.537255" name="snow4" />
+			<color cs="RGB" tints="0.933333,0.898039,0.870588" name="seashell2" />
+			<color cs="RGB" tints="0.803922,0.772549,0.74902" name="seashell3" />
+			<color cs="RGB" tints="0.545098,0.52549,0.509804" name="seashell4" />
+			<color cs="RGB" tints="1.0,0.937255,0.858824" name="AntiqueWhite1" />
+			<color cs="RGB" tints="0.933333,0.87451,0.8" name="AntiqueWhite2" />
+			<color cs="RGB" tints="0.803922,0.752941,0.690196" name="AntiqueWhite3" />
+			<color cs="RGB" tints="0.545098,0.513725,0.470588" name="AntiqueWhite4" />
+			<color cs="RGB" tints="0.933333,0.835294,0.717647" name="bisque2" />
+			<color cs="RGB" tints="0.803922,0.717647,0.619608" name="bisque3" />
+			<color cs="RGB" tints="0.545098,0.490196,0.419608" name="bisque4" />
+			<color cs="RGB" tints="0.933333,0.796078,0.678431" name="PeachPuff2" />
+			<color cs="RGB" tints="0.803922,0.686275,0.584314" name="PeachPuff3" />
+			<color cs="RGB" tints="0.545098,0.466667,0.396078" name="PeachPuff4" />
+			<color cs="RGB" tints="0.933333,0.811765,0.631373" name="NavajoWhite2" />
+			<color cs="RGB" tints="0.803922,0.701961,0.545098" name="NavajoWhite3" />
+			<color cs="RGB" tints="0.545098,0.47451,0.368627" name="NavajoWhite4" />
+			<color cs="RGB" tints="0.933333,0.913725,0.74902" name="LemonChiffon2" />
+			<color cs="RGB" tints="0.803922,0.788235,0.647059" name="LemonChiffon3" />
+			<color cs="RGB" tints="0.545098,0.537255,0.439216" name="LemonChiffon4" />
+			<color cs="RGB" tints="0.933333,0.909804,0.803922" name="cornsilk2" />
+			<color cs="RGB" tints="0.803922,0.784314,0.694118" name="cornsilk3" />
+			<color cs="RGB" tints="0.545098,0.533333,0.470588" name="cornsilk4" />
+			<color cs="RGB" tints="0.933333,0.933333,0.878431" name="ivory2" />
+			<color cs="RGB" tints="0.803922,0.803922,0.756863" name="ivory3" />
+			<color cs="RGB" tints="0.545098,0.545098,0.513725" name="ivory4" />
+			<color cs="RGB" tints="0.878431,0.933333,0.878431" name="honeydew2" />
+			<color cs="RGB" tints="0.756863,0.803922,0.756863" name="honeydew3" />
+			<color cs="RGB" tints="0.513725,0.545098,0.513725" name="honeydew4" />
+			<color cs="RGB" tints="0.933333,0.878431,0.898039" name="LavenderBlush2" />
+			<color cs="RGB" tints="0.803922,0.756863,0.772549" name="LavenderBlush3" />
+			<color cs="RGB" tints="0.545098,0.513725,0.52549" name="LavenderBlush4" />
+			<color cs="RGB" tints="0.933333,0.835294,0.823529" name="MistyRose2" />
+			<color cs="RGB" tints="0.803922,0.717647,0.709804" name="MistyRose3" />
+			<color cs="RGB" tints="0.545098,0.490196,0.482353" name="MistyRose4" />
+			<color cs="RGB" tints="0.878431,0.933333,0.933333" name="azure2" />
+			<color cs="RGB" tints="0.756863,0.803922,0.803922" name="azure3" />
+			<color cs="RGB" tints="0.513725,0.545098,0.545098" name="azure4" />
+			<color cs="RGB" tints="0.513725,0.435294,1.0" name="SlateBlue1" />
+			<color cs="RGB" tints="0.478431,0.403922,0.933333" name="SlateBlue2" />
+			<color cs="RGB" tints="0.411765,0.34902,0.803922" name="SlateBlue3" />
+			<color cs="RGB" tints="0.278431,0.235294,0.545098" name="SlateBlue4" />
+			<color cs="RGB" tints="0.282353,0.462745,1.0" name="RoyalBlue1" />
+			<color cs="RGB" tints="0.262745,0.431373,0.933333" name="RoyalBlue2" />
+			<color cs="RGB" tints="0.227451,0.372549,0.803922" name="RoyalBlue3" />
+			<color cs="RGB" tints="0.152941,0.25098,0.545098" name="RoyalBlue4" />
+			<color cs="RGB" tints="0.0,0.0,0.933333" name="blue2" />
+			<color cs="RGB" tints="0.0,0.0,0.545098" name="blue4" />
+			<color cs="RGB" tints="0.109804,0.52549,0.933333" name="DodgerBlue2" />
+			<color cs="RGB" tints="0.094118,0.454902,0.803922" name="DodgerBlue3" />
+			<color cs="RGB" tints="0.062745,0.305882,0.545098" name="DodgerBlue4" />
+			<color cs="RGB" tints="0.388235,0.721569,1.0" name="SteelBlue1" />
+			<color cs="RGB" tints="0.360784,0.67451,0.933333" name="SteelBlue2" />
+			<color cs="RGB" tints="0.309804,0.580392,0.803922" name="SteelBlue3" />
+			<color cs="RGB" tints="0.211765,0.392157,0.545098" name="SteelBlue4" />
+			<color cs="RGB" tints="0.0,0.698039,0.933333" name="DeepSkyBlue2" />
+			<color cs="RGB" tints="0.0,0.603922,0.803922" name="DeepSkyBlue3" />
+			<color cs="RGB" tints="0.0,0.407843,0.545098" name="DeepSkyBlue4" />
+			<color cs="RGB" tints="0.529412,0.807843,1.0" name="SkyBlue1" />
+			<color cs="RGB" tints="0.494118,0.752941,0.933333" name="SkyBlue2" />
+			<color cs="RGB" tints="0.423529,0.65098,0.803922" name="SkyBlue3" />
+			<color cs="RGB" tints="0.290196,0.439216,0.545098" name="SkyBlue4" />
+			<color cs="RGB" tints="0.690196,0.886275,1.0" name="LightSkyBlue1" />
+			<color cs="RGB" tints="0.643137,0.827451,0.933333" name="LightSkyBlue2" />
+			<color cs="RGB" tints="0.552941,0.713725,0.803922" name="LightSkyBlue3" />
+			<color cs="RGB" tints="0.376471,0.482353,0.545098" name="LightSkyBlue4" />
+			<color cs="RGB" tints="0.776471,0.886275,1.0" name="SlateGray1" />
+			<color cs="RGB" tints="0.72549,0.827451,0.933333" name="SlateGray2" />
+			<color cs="RGB" tints="0.623529,0.713725,0.803922" name="SlateGray3" />
+			<color cs="RGB" tints="0.423529,0.482353,0.545098" name="SlateGray4" />
+			<color cs="RGB" tints="0.792157,0.882353,1.0" name="LightSteelBlue1" />
+			<color cs="RGB" tints="0.737255,0.823529,0.933333" name="LightSteelBlue2" />
+			<color cs="RGB" tints="0.635294,0.709804,0.803922" name="LightSteelBlue3" />
+			<color cs="RGB" tints="0.431373,0.482353,0.545098" name="LightSteelBlue4" />
+			<color cs="RGB" tints="0.74902,0.937255,1.0" name="LightBlue1" />
+			<color cs="RGB" tints="0.698039,0.87451,0.933333" name="LightBlue2" />
+			<color cs="RGB" tints="0.603922,0.752941,0.803922" name="LightBlue3" />
+			<color cs="RGB" tints="0.407843,0.513725,0.545098" name="LightBlue4" />
+			<color cs="RGB" tints="0.819608,0.933333,0.933333" name="LightCyan2" />
+			<color cs="RGB" tints="0.705882,0.803922,0.803922" name="LightCyan3" />
+			<color cs="RGB" tints="0.478431,0.545098,0.545098" name="LightCyan4" />
+			<color cs="RGB" tints="0.733333,1.0,1.0" name="PaleTurquoise1" />
+			<color cs="RGB" tints="0.682353,0.933333,0.933333" name="PaleTurquoise2" />
+			<color cs="RGB" tints="0.588235,0.803922,0.803922" name="PaleTurquoise3" />
+			<color cs="RGB" tints="0.4,0.545098,0.545098" name="PaleTurquoise4" />
+			<color cs="RGB" tints="0.596078,0.960784,1.0" name="CadetBlue1" />
+			<color cs="RGB" tints="0.556863,0.898039,0.933333" name="CadetBlue2" />
+			<color cs="RGB" tints="0.478431,0.772549,0.803922" name="CadetBlue3" />
+			<color cs="RGB" tints="0.32549,0.52549,0.545098" name="CadetBlue4" />
+			<color cs="RGB" tints="0.0,0.960784,1.0" name="turquoise1" />
+			<color cs="RGB" tints="0.0,0.898039,0.933333" name="turquoise2" />
+			<color cs="RGB" tints="0.0,0.772549,0.803922" name="turquoise3" />
+			<color cs="RGB" tints="0.0,0.52549,0.545098" name="turquoise4" />
+			<color cs="RGB" tints="0.0,0.933333,0.933333" name="cyan2" />
+			<color cs="RGB" tints="0.0,0.803922,0.803922" name="cyan3" />
+			<color cs="RGB" tints="0.0,0.545098,0.545098" name="cyan4" />
+			<color cs="RGB" tints="0.592157,1.0,1.0" name="DarkSlateGray1" />
+			<color cs="RGB" tints="0.552941,0.933333,0.933333" name="DarkSlateGray2" />
+			<color cs="RGB" tints="0.47451,0.803922,0.803922" name="DarkSlateGray3" />
+			<color cs="RGB" tints="0.321569,0.545098,0.545098" name="DarkSlateGray4" />
+			<color cs="RGB" tints="0.462745,0.933333,0.776471" name="aquamarine2" />
+			<color cs="RGB" tints="0.270588,0.545098,0.454902" name="aquamarine4" />
+			<color cs="RGB" tints="0.756863,1.0,0.756863" name="DarkSeaGreen1" />
+			<color cs="RGB" tints="0.705882,0.933333,0.705882" name="DarkSeaGreen2" />
+			<color cs="RGB" tints="0.607843,0.803922,0.607843" name="DarkSeaGreen3" />
+			<color cs="RGB" tints="0.411765,0.545098,0.411765" name="DarkSeaGreen4" />
+			<color cs="RGB" tints="0.329412,1.0,0.623529" name="SeaGreen1" />
+			<color cs="RGB" tints="0.305882,0.933333,0.580392" name="SeaGreen2" />
+			<color cs="RGB" tints="0.262745,0.803922,0.501961" name="SeaGreen3" />
+			<color cs="RGB" tints="0.603922,1.0,0.603922" name="PaleGreen1" />
+			<color cs="RGB" tints="0.564706,0.933333,0.564706" name="PaleGreen2" />
+			<color cs="RGB" tints="0.486275,0.803922,0.486275" name="PaleGreen3" />
+			<color cs="RGB" tints="0.329412,0.545098,0.329412" name="PaleGreen4" />
+			<color cs="RGB" tints="0.0,0.933333,0.462745" name="SpringGreen2" />
+			<color cs="RGB" tints="0.0,0.803922,0.4" name="SpringGreen3" />
+			<color cs="RGB" tints="0.0,0.545098,0.270588" name="SpringGreen4" />
+			<color cs="RGB" tints="0.0,0.933333,0.0" name="green2" />
+			<color cs="RGB" tints="0.0,0.803922,0.0" name="green3" />
+			<color cs="RGB" tints="0.0,0.545098,0.0" name="green4" />
+			<color cs="RGB" tints="0.462745,0.933333,0.0" name="chartreuse2" />
+			<color cs="RGB" tints="0.4,0.803922,0.0" name="chartreuse3" />
+			<color cs="RGB" tints="0.270588,0.545098,0.0" name="chartreuse4" />
+			<color cs="RGB" tints="0.752941,1.0,0.243137" name="OliveDrab1" />
+			<color cs="RGB" tints="0.701961,0.933333,0.227451" name="OliveDrab2" />
+			<color cs="RGB" tints="0.411765,0.545098,0.133333" name="OliveDrab4" />
+			<color cs="RGB" tints="0.792157,1.0,0.439216" name="DarkOliveGreen1" />
+			<color cs="RGB" tints="0.737255,0.933333,0.407843" name="DarkOliveGreen2" />
+			<color cs="RGB" tints="0.635294,0.803922,0.352941" name="DarkOliveGreen3" />
+			<color cs="RGB" tints="0.431373,0.545098,0.239216" name="DarkOliveGreen4" />
+			<color cs="RGB" tints="1.0,0.964706,0.560784" name="khaki1" />
+			<color cs="RGB" tints="0.933333,0.901961,0.521569" name="khaki2" />
+			<color cs="RGB" tints="0.803922,0.776471,0.45098" name="khaki3" />
+			<color cs="RGB" tints="0.545098,0.52549,0.305882" name="khaki4" />
+			<color cs="RGB" tints="1.0,0.92549,0.545098" name="LightGoldenrod1" />
+			<color cs="RGB" tints="0.933333,0.862745,0.509804" name="LightGoldenrod2" />
+			<color cs="RGB" tints="0.803922,0.745098,0.439216" name="LightGoldenrod3" />
+			<color cs="RGB" tints="0.545098,0.505882,0.298039" name="LightGoldenrod4" />
+			<color cs="RGB" tints="0.933333,0.933333,0.819608" name="LightYellow2" />
+			<color cs="RGB" tints="0.803922,0.803922,0.705882" name="LightYellow3" />
+			<color cs="RGB" tints="0.545098,0.545098,0.478431" name="LightYellow4" />
+			<color cs="RGB" tints="0.933333,0.933333,0.0" name="yellow2" />
+			<color cs="RGB" tints="0.803922,0.803922,0.0" name="yellow3" />
+			<color cs="RGB" tints="0.545098,0.545098,0.0" name="yellow4" />
+			<color cs="RGB" tints="0.933333,0.788235,0.0" name="gold2" />
+			<color cs="RGB" tints="0.803922,0.678431,0.0" name="gold3" />
+			<color cs="RGB" tints="0.545098,0.458824,0.0" name="gold4" />
+			<color cs="RGB" tints="1.0,0.756863,0.145098" name="goldenrod1" />
+			<color cs="RGB" tints="0.933333,0.705882,0.133333" name="goldenrod2" />
+			<color cs="RGB" tints="0.803922,0.607843,0.113725" name="goldenrod3" />
+			<color cs="RGB" tints="0.545098,0.411765,0.078431" name="goldenrod4" />
+			<color cs="RGB" tints="1.0,0.72549,0.058824" name="DarkGoldenrod1" />
+			<color cs="RGB" tints="0.933333,0.678431,0.054902" name="DarkGoldenrod2" />
+			<color cs="RGB" tints="0.803922,0.584314,0.047059" name="DarkGoldenrod3" />
+			<color cs="RGB" tints="0.545098,0.396078,0.031373" name="DarkGoldenrod4" />
+			<color cs="RGB" tints="1.0,0.756863,0.756863" name="RosyBrown1" />
+			<color cs="RGB" tints="0.933333,0.705882,0.705882" name="RosyBrown2" />
+			<color cs="RGB" tints="0.803922,0.607843,0.607843" name="RosyBrown3" />
+			<color cs="RGB" tints="0.545098,0.411765,0.411765" name="RosyBrown4" />
+			<color cs="RGB" tints="1.0,0.415686,0.415686" name="IndianRed1" />
+			<color cs="RGB" tints="0.933333,0.388235,0.388235" name="IndianRed2" />
+			<color cs="RGB" tints="0.803922,0.333333,0.333333" name="IndianRed3" />
+			<color cs="RGB" tints="0.545098,0.227451,0.227451" name="IndianRed4" />
+			<color cs="RGB" tints="1.0,0.509804,0.278431" name="sienna1" />
+			<color cs="RGB" tints="0.933333,0.47451,0.258824" name="sienna2" />
+			<color cs="RGB" tints="0.803922,0.407843,0.223529" name="sienna3" />
+			<color cs="RGB" tints="0.545098,0.278431,0.14902" name="sienna4" />
+			<color cs="RGB" tints="1.0,0.827451,0.607843" name="burlywood1" />
+			<color cs="RGB" tints="0.933333,0.772549,0.568627" name="burlywood2" />
+			<color cs="RGB" tints="0.803922,0.666667,0.490196" name="burlywood3" />
+			<color cs="RGB" tints="0.545098,0.45098,0.333333" name="burlywood4" />
+			<color cs="RGB" tints="1.0,0.905882,0.729412" name="wheat1" />
+			<color cs="RGB" tints="0.933333,0.847059,0.682353" name="wheat2" />
+			<color cs="RGB" tints="0.803922,0.729412,0.588235" name="wheat3" />
+			<color cs="RGB" tints="0.545098,0.494118,0.4" name="wheat4" />
+			<color cs="RGB" tints="1.0,0.647059,0.309804" name="tan1" />
+			<color cs="RGB" tints="0.933333,0.603922,0.286275" name="tan2" />
+			<color cs="RGB" tints="0.545098,0.352941,0.168627" name="tan4" />
+			<color cs="RGB" tints="1.0,0.498039,0.141176" name="chocolate1" />
+			<color cs="RGB" tints="0.933333,0.462745,0.129412" name="chocolate2" />
+			<color cs="RGB" tints="0.803922,0.4,0.113725" name="chocolate3" />
+			<color cs="RGB" tints="1.0,0.188235,0.188235" name="firebrick1" />
+			<color cs="RGB" tints="0.933333,0.172549,0.172549" name="firebrick2" />
+			<color cs="RGB" tints="0.803922,0.14902,0.14902" name="firebrick3" />
+			<color cs="RGB" tints="0.545098,0.101961,0.101961" name="firebrick4" />
+			<color cs="RGB" tints="1.0,0.25098,0.25098" name="brown1" />
+			<color cs="RGB" tints="0.933333,0.231373,0.231373" name="brown2" />
+			<color cs="RGB" tints="0.803922,0.2,0.2" name="brown3" />
+			<color cs="RGB" tints="0.545098,0.137255,0.137255" name="brown4" />
+			<color cs="RGB" tints="1.0,0.54902,0.411765" name="salmon1" />
+			<color cs="RGB" tints="0.933333,0.509804,0.384314" name="salmon2" />
+			<color cs="RGB" tints="0.803922,0.439216,0.329412" name="salmon3" />
+			<color cs="RGB" tints="0.545098,0.298039,0.223529" name="salmon4" />
+			<color cs="RGB" tints="0.933333,0.584314,0.447059" name="LightSalmon2" />
+			<color cs="RGB" tints="0.803922,0.505882,0.384314" name="LightSalmon3" />
+			<color cs="RGB" tints="0.545098,0.341176,0.258824" name="LightSalmon4" />
+			<color cs="RGB" tints="0.933333,0.603922,0.0" name="orange2" />
+			<color cs="RGB" tints="0.803922,0.521569,0.0" name="orange3" />
+			<color cs="RGB" tints="0.545098,0.352941,0.0" name="orange4" />
+			<color cs="RGB" tints="1.0,0.498039,0.0" name="DarkOrange1" />
+			<color cs="RGB" tints="0.933333,0.462745,0.0" name="DarkOrange2" />
+			<color cs="RGB" tints="0.803922,0.4,0.0" name="DarkOrange3" />
+			<color cs="RGB" tints="0.545098,0.270588,0.0" name="DarkOrange4" />
+			<color cs="RGB" tints="1.0,0.447059,0.337255" name="coral1" />
+			<color cs="RGB" tints="0.933333,0.415686,0.313725" name="coral2" />
+			<color cs="RGB" tints="0.803922,0.356863,0.270588" name="coral3" />
+			<color cs="RGB" tints="0.545098,0.243137,0.184314" name="coral4" />
+			<color cs="RGB" tints="0.933333,0.360784,0.258824" name="tomato2" />
+			<color cs="RGB" tints="0.803922,0.309804,0.223529" name="tomato3" />
+			<color cs="RGB" tints="0.545098,0.211765,0.14902" name="tomato4" />
+			<color cs="RGB" tints="0.933333,0.25098,0.0" name="OrangeRed2" />
+			<color cs="RGB" tints="0.803922,0.215686,0.0" name="OrangeRed3" />
+			<color cs="RGB" tints="0.545098,0.145098,0.0" name="OrangeRed4" />
+			<color cs="RGB" tints="0.933333,0.0,0.0" name="red2" />
+			<color cs="RGB" tints="0.803922,0.0,0.0" name="red3" />
+			<color cs="RGB" tints="0.545098,0.0,0.0" name="red4" />
+			<color cs="RGB" tints="0.933333,0.070588,0.537255" name="DeepPink2" />
+			<color cs="RGB" tints="0.803922,0.062745,0.462745" name="DeepPink3" />
+			<color cs="RGB" tints="0.545098,0.039216,0.313725" name="DeepPink4" />
+			<color cs="RGB" tints="1.0,0.431373,0.705882" name="HotPink1" />
+			<color cs="RGB" tints="0.933333,0.415686,0.654902" name="HotPink2" />
+			<color cs="RGB" tints="0.803922,0.376471,0.564706" name="HotPink3" />
+			<color cs="RGB" tints="0.545098,0.227451,0.384314" name="HotPink4" />
+			<color cs="RGB" tints="1.0,0.709804,0.772549" name="pink1" />
+			<color cs="RGB" tints="0.933333,0.662745,0.721569" name="pink2" />
+			<color cs="RGB" tints="0.803922,0.568627,0.619608" name="pink3" />
+			<color cs="RGB" tints="0.545098,0.388235,0.423529" name="pink4" />
+			<color cs="RGB" tints="1.0,0.682353,0.72549" name="LightPink1" />
+			<color cs="RGB" tints="0.933333,0.635294,0.678431" name="LightPink2" />
+			<color cs="RGB" tints="0.803922,0.54902,0.584314" name="LightPink3" />
+			<color cs="RGB" tints="0.545098,0.372549,0.396078" name="LightPink4" />
+			<color cs="RGB" tints="1.0,0.509804,0.670588" name="PaleVioletRed1" />
+			<color cs="RGB" tints="0.933333,0.47451,0.623529" name="PaleVioletRed2" />
+			<color cs="RGB" tints="0.803922,0.407843,0.537255" name="PaleVioletRed3" />
+			<color cs="RGB" tints="0.545098,0.278431,0.364706" name="PaleVioletRed4" />
+			<color cs="RGB" tints="1.0,0.203922,0.701961" name="maroon1" />
+			<color cs="RGB" tints="0.933333,0.188235,0.654902" name="maroon2" />
+			<color cs="RGB" tints="0.803922,0.160784,0.564706" name="maroon3" />
+			<color cs="RGB" tints="0.545098,0.109804,0.384314" name="maroon4" />
+			<color cs="RGB" tints="1.0,0.243137,0.588235" name="VioletRed1" />
+			<color cs="RGB" tints="0.933333,0.227451,0.54902" name="VioletRed2" />
+			<color cs="RGB" tints="0.803922,0.196078,0.470588" name="VioletRed3" />
+			<color cs="RGB" tints="0.545098,0.133333,0.321569" name="VioletRed4" />
+			<color cs="RGB" tints="0.933333,0.0,0.933333" name="magenta2" />
+			<color cs="RGB" tints="0.803922,0.0,0.803922" name="magenta3" />
+			<color cs="RGB" tints="0.545098,0.0,0.545098" name="magenta4" />
+			<color cs="RGB" tints="1.0,0.513725,0.980392" name="orchid1" />
+			<color cs="RGB" tints="0.933333,0.478431,0.913725" name="orchid2" />
+			<color cs="RGB" tints="0.803922,0.411765,0.788235" name="orchid3" />
+			<color cs="RGB" tints="0.545098,0.278431,0.537255" name="orchid4" />
+			<color cs="RGB" tints="1.0,0.733333,1.0" name="plum1" />
+			<color cs="RGB" tints="0.933333,0.682353,0.933333" name="plum2" />
+			<color cs="RGB" tints="0.803922,0.588235,0.803922" name="plum3" />
+			<color cs="RGB" tints="0.545098,0.4,0.545098" name="plum4" />
+			<color cs="RGB" tints="0.878431,0.4,1.0" name="MediumOrchid1" />
+			<color cs="RGB" tints="0.819608,0.372549,0.933333" name="MediumOrchid2" />
+			<color cs="RGB" tints="0.705882,0.321569,0.803922" name="MediumOrchid3" />
+			<color cs="RGB" tints="0.478431,0.215686,0.545098" name="MediumOrchid4" />
+			<color cs="RGB" tints="0.74902,0.243137,1.0" name="DarkOrchid1" />
+			<color cs="RGB" tints="0.698039,0.227451,0.933333" name="DarkOrchid2" />
+			<color cs="RGB" tints="0.603922,0.196078,0.803922" name="DarkOrchid3" />
+			<color cs="RGB" tints="0.407843,0.133333,0.545098" name="DarkOrchid4" />
+			<color cs="RGB" tints="0.607843,0.188235,1.0" name="purple1" />
+			<color cs="RGB" tints="0.568627,0.172549,0.933333" name="purple2" />
+			<color cs="RGB" tints="0.490196,0.14902,0.803922" name="purple3" />
+			<color cs="RGB" tints="0.333333,0.101961,0.545098" name="purple4" />
+			<color cs="RGB" tints="0.670588,0.509804,1.0" name="MediumPurple1" />
+			<color cs="RGB" tints="0.623529,0.47451,0.933333" name="MediumPurple2" />
+			<color cs="RGB" tints="0.537255,0.407843,0.803922" name="MediumPurple3" />
+			<color cs="RGB" tints="0.364706,0.278431,0.545098" name="MediumPurple4" />
+			<color cs="RGB" tints="1.0,0.882353,1.0" name="thistle1" />
+			<color cs="RGB" tints="0.933333,0.823529,0.933333" name="thistle2" />
+			<color cs="RGB" tints="0.803922,0.709804,0.803922" name="thistle3" />
+			<color cs="RGB" tints="0.545098,0.482353,0.545098" name="thistle4" />
+			<color cs="RGB" tints="0.011765,0.011765,0.011765" name="gray1" />
+			<color cs="RGB" tints="0.019608,0.019608,0.019608" name="gray2" />
+			<color cs="RGB" tints="0.031373,0.031373,0.031373" name="gray3" />
+			<color cs="RGB" tints="0.039216,0.039216,0.039216" name="gray4" />
+			<color cs="RGB" tints="0.05098,0.05098,0.05098" name="gray5" />
+			<color cs="RGB" tints="0.058824,0.058824,0.058824" name="gray6" />
+			<color cs="RGB" tints="0.070588,0.070588,0.070588" name="gray7" />
+			<color cs="RGB" tints="0.078431,0.078431,0.078431" name="gray8" />
+			<color cs="RGB" tints="0.090196,0.090196,0.090196" name="gray9" />
+			<color cs="RGB" tints="0.101961,0.101961,0.101961" name="gray10" />
+			<color cs="RGB" tints="0.109804,0.109804,0.109804" name="gray11" />
+			<color cs="RGB" tints="0.121569,0.121569,0.121569" name="gray12" />
+			<color cs="RGB" tints="0.129412,0.129412,0.129412" name="gray13" />
+			<color cs="RGB" tints="0.141176,0.141176,0.141176" name="gray14" />
+			<color cs="RGB" tints="0.14902,0.14902,0.14902" name="gray15" />
+			<color cs="RGB" tints="0.160784,0.160784,0.160784" name="gray16" />
+			<color cs="RGB" tints="0.168627,0.168627,0.168627" name="gray17" />
+			<color cs="RGB" tints="0.180392,0.180392,0.180392" name="gray18" />
+			<color cs="RGB" tints="0.188235,0.188235,0.188235" name="gray19" />
+			<color cs="RGB" tints="0.2,0.2,0.2" name="gray20" />
+			<color cs="RGB" tints="0.211765,0.211765,0.211765" name="gray21" />
+			<color cs="RGB" tints="0.219608,0.219608,0.219608" name="gray22" />
+			<color cs="RGB" tints="0.231373,0.231373,0.231373" name="gray23" />
+			<color cs="RGB" tints="0.239216,0.239216,0.239216" name="gray24" />
+			<color cs="RGB" tints="0.25098,0.25098,0.25098" name="gray25" />
+			<color cs="RGB" tints="0.258824,0.258824,0.258824" name="gray26" />
+			<color cs="RGB" tints="0.270588,0.270588,0.270588" name="gray27" />
+			<color cs="RGB" tints="0.278431,0.278431,0.278431" name="gray28" />
+			<color cs="RGB" tints="0.290196,0.290196,0.290196" name="gray29" />
+			<color cs="RGB" tints="0.301961,0.301961,0.301961" name="gray30" />
+			<color cs="RGB" tints="0.309804,0.309804,0.309804" name="gray31" />
+			<color cs="RGB" tints="0.321569,0.321569,0.321569" name="gray32" />
+			<color cs="RGB" tints="0.329412,0.329412,0.329412" name="gray33" />
+			<color cs="RGB" tints="0.341176,0.341176,0.341176" name="gray34" />
+			<color cs="RGB" tints="0.34902,0.34902,0.34902" name="gray35" />
+			<color cs="RGB" tints="0.360784,0.360784,0.360784" name="gray36" />
+			<color cs="RGB" tints="0.368627,0.368627,0.368627" name="gray37" />
+			<color cs="RGB" tints="0.380392,0.380392,0.380392" name="gray38" />
+			<color cs="RGB" tints="0.388235,0.388235,0.388235" name="gray39" />
+			<color cs="RGB" tints="0.4,0.4,0.4" name="gray40" />
+			<color cs="RGB" tints="0.419608,0.419608,0.419608" name="gray42" />
+			<color cs="RGB" tints="0.431373,0.431373,0.431373" name="gray43" />
+			<color cs="RGB" tints="0.439216,0.439216,0.439216" name="gray44" />
+			<color cs="RGB" tints="0.45098,0.45098,0.45098" name="gray45" />
+			<color cs="RGB" tints="0.458824,0.458824,0.458824" name="gray46" />
+			<color cs="RGB" tints="0.470588,0.470588,0.470588" name="gray47" />
+			<color cs="RGB" tints="0.478431,0.478431,0.478431" name="gray48" />
+			<color cs="RGB" tints="0.490196,0.490196,0.490196" name="gray49" />
+			<color cs="RGB" tints="0.498039,0.498039,0.498039" name="gray50" />
+			<color cs="RGB" tints="0.509804,0.509804,0.509804" name="gray51" />
+			<color cs="RGB" tints="0.521569,0.521569,0.521569" name="gray52" />
+			<color cs="RGB" tints="0.529412,0.529412,0.529412" name="gray53" />
+			<color cs="RGB" tints="0.541176,0.541176,0.541176" name="gray54" />
+			<color cs="RGB" tints="0.54902,0.54902,0.54902" name="gray55" />
+			<color cs="RGB" tints="0.560784,0.560784,0.560784" name="gray56" />
+			<color cs="RGB" tints="0.568627,0.568627,0.568627" name="gray57" />
+			<color cs="RGB" tints="0.580392,0.580392,0.580392" name="gray58" />
+			<color cs="RGB" tints="0.588235,0.588235,0.588235" name="gray59" />
+			<color cs="RGB" tints="0.6,0.6,0.6" name="gray60" />
+			<color cs="RGB" tints="0.611765,0.611765,0.611765" name="gray61" />
+			<color cs="RGB" tints="0.619608,0.619608,0.619608" name="gray62" />
+			<color cs="RGB" tints="0.631373,0.631373,0.631373" name="gray63" />
+			<color cs="RGB" tints="0.639216,0.639216,0.639216" name="gray64" />
+			<color cs="RGB" tints="0.65098,0.65098,0.65098" name="gray65" />
+			<color cs="RGB" tints="0.658824,0.658824,0.658824" name="gray66" />
+			<color cs="RGB" tints="0.670588,0.670588,0.670588" name="gray67" />
+			<color cs="RGB" tints="0.678431,0.678431,0.678431" name="gray68" />
+			<color cs="RGB" tints="0.690196,0.690196,0.690196" name="gray69" />
+			<color cs="RGB" tints="0.701961,0.701961,0.701961" name="gray70" />
+			<color cs="RGB" tints="0.709804,0.709804,0.709804" name="gray71" />
+			<color cs="RGB" tints="0.721569,0.721569,0.721569" name="gray72" />
+			<color cs="RGB" tints="0.729412,0.729412,0.729412" name="gray73" />
+			<color cs="RGB" tints="0.741176,0.741176,0.741176" name="gray74" />
+			<color cs="RGB" tints="0.74902,0.74902,0.74902" name="gray75" />
+			<color cs="RGB" tints="0.760784,0.760784,0.760784" name="gray76" />
+			<color cs="RGB" tints="0.768627,0.768627,0.768627" name="gray77" />
+			<color cs="RGB" tints="0.780392,0.780392,0.780392" name="gray78" />
+			<color cs="RGB" tints="0.788235,0.788235,0.788235" name="gray79" />
+			<color cs="RGB" tints="0.8,0.8,0.8" name="gray80" />
+			<color cs="RGB" tints="0.811765,0.811765,0.811765" name="gray81" />
+			<color cs="RGB" tints="0.819608,0.819608,0.819608" name="gray82" />
+			<color cs="RGB" tints="0.831373,0.831373,0.831373" name="gray83" />
+			<color cs="RGB" tints="0.839216,0.839216,0.839216" name="gray84" />
+			<color cs="RGB" tints="0.85098,0.85098,0.85098" name="gray85" />
+			<color cs="RGB" tints="0.858824,0.858824,0.858824" name="gray86" />
+			<color cs="RGB" tints="0.870588,0.870588,0.870588" name="gray87" />
+			<color cs="RGB" tints="0.878431,0.878431,0.878431" name="gray88" />
+			<color cs="RGB" tints="0.890196,0.890196,0.890196" name="gray89" />
+			<color cs="RGB" tints="0.898039,0.898039,0.898039" name="gray90" />
+			<color cs="RGB" tints="0.909804,0.909804,0.909804" name="gray91" />
+			<color cs="RGB" tints="0.921569,0.921569,0.921569" name="gray92" />
+			<color cs="RGB" tints="0.929412,0.929412,0.929412" name="gray93" />
+			<color cs="RGB" tints="0.941176,0.941176,0.941176" name="gray94" />
+			<color cs="RGB" tints="0.94902,0.94902,0.94902" name="gray95" />
+			<color cs="RGB" tints="0.968627,0.968627,0.968627" name="gray97" />
+			<color cs="RGB" tints="0.980392,0.980392,0.980392" name="gray98" />
+			<color cs="RGB" tints="0.988235,0.988235,0.988235" name="gray99" />
+		</page>
+	</colors>
+	<localization />
+</palette>

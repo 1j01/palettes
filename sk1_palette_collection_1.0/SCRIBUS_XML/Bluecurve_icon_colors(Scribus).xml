@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Palette source: Fedora Project
+The palette is published here:
+http://fedoraproject.org/wiki/Artwork/BluecurveIconGuidelines
+-->
+<SCRIBUSCOLORS Name="Bluecurve icon colors" >
+	<COLOR RGB="#ddbedd" NAME="DDBEDD" />
+	<COLOR RGB="#bc80bd" NAME="BC80BD" />
+	<COLOR RGB="#9e49a1" NAME="9E49A1" />
+	<COLOR RGB="#811788" NAME="811788" />
+	<COLOR RGB="#7a0082" NAME="7A0082" />
+	<COLOR RGB="#bfcae2" NAME="BFCAE2" />
+	<COLOR RGB="#809cc9" NAME="809CC9" />
+	<COLOR RGB="#4573b3" NAME="457383" />
+	<COLOR RGB="#0a50a1" NAME="0A50A1" />
+	<COLOR RGB="#032c87" NAME="032C87" />
+	<COLOR RGB="#e5f1f4" NAME="E5F1F4" />
+	<COLOR RGB="#ccecf4" NAME="CCECF4" />
+	<COLOR RGB="#99d9e8" NAME="99D9E8" />
+	<COLOR RGB="#67c6dd" NAME="65C6DD" />
+	<COLOR RGB="#34b3d1" NAME="34B3D1" />
+	<COLOR RGB="#ccebb9" NAME="CCEBB9" />
+	<COLOR RGB="#99d47f" NAME="99D47F" />
+	<COLOR RGB="#66bb50" NAME="66BB50" />
+	<COLOR RGB="#33a02c" NAME="33A02C" />
+	<COLOR RGB="#009900" NAME="009900" />
+	<COLOR RGB="#ffffbf" NAME="FFFFBF" />
+	<COLOR RGB="#ffff99" NAME="FFFF99" />
+	<COLOR RGB="#ffff66" NAME="FFFF66" />
+	<COLOR RGB="#ffff00" NAME="FFFF00" />
+	<COLOR RGB="#ffe900" NAME="FFE900" />
+	<COLOR RGB="#e2be89" NAME="E2BE89" />
+	<COLOR RGB="#ff9766" NAME="FF9766" />
+	<COLOR RGB="#cc6635" NAME="CC6635" />
+	<COLOR RGB="#993300" NAME="993300" />
+	<COLOR RGB="#6b3200" NAME="6B3200" />
+	<COLOR RGB="#feefd0" NAME="FEEFD0" />
+	<COLOR RGB="#fedfb3" NAME="FEDFB3" />
+	<COLOR RGB="#fdbf6f" NAME="FDBF6F" />
+	<COLOR RGB="#ff9f34" NAME="FF9F34" />
+	<COLOR RGB="#ff7f00" NAME="FF7F00" />
+	<COLOR RGB="#fcc0a7" NAME="FCC0A7" />
+	<COLOR RGB="#fb805f" NAME="FB805F" />
+	<COLOR RGB="#fc4128" NAME="FC4128" />
+	<COLOR RGB="#ff0000" NAME="FF0000" />
+	<COLOR RGB="#a70000" NAME="A70000" />
+	<COLOR RGB="#ffffff" NAME="FFFFFF" />
+	<COLOR RGB="#cccccc" NAME="CCCCCC" />
+	<COLOR RGB="#999999" NAME="999999" />
+	<COLOR RGB="#666666" NAME="666666" />
+	<COLOR RGB="#333333" NAME="333333" />
+	<COLOR RGB="#000000" NAME="000000" />
+</SCRIBUSCOLORS>

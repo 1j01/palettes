@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+Palette source: Microsoft
+The palette is published here:
+https://msdn.microsoft.com/library/windows/apps/ff402557(v=vs.105).aspx
+
+-->
+<palette guid="c68f0b00-15a2-11e5-a91f-e03f4985805d" name="Windows Phone 8 colors">
+	<colorspaces />
+	<colors>
+		<page>
+			<color cs="RGB" tints="0.643137,0.768627,0.0" name="Lime" />
+			<color cs="RGB" tints="0.376471,0.662745,0.090196" name="Green" />
+			<color cs="RGB" tints="0.0,0.541176,0.0" name="Emerald" />
+			<color cs="RGB" tints="0.0,0.670588,0.662745" name="Teal" />
+			<color cs="RGB" tints="0.105882,0.631373,0.886275" name="Cyan" />
+			<color cs="RGB" tints="0.0,0.313725,0.937255" name="Cobalt" />
+			<color cs="RGB" tints="0.415686,0.0,1.0" name="Indigo" />
+			<color cs="RGB" tints="0.666667,0.0,1.0" name="Violet" />
+			<color cs="RGB" tints="0.956863,0.447059,0.815686" name="Pink" />
+			<color cs="RGB" tints="0.847059,0.0,0.45098" name="Magenta" />
+			<color cs="RGB" tints="0.635294,0.0,0.145098" name="Crimson" />
+			<color cs="RGB" tints="0.898039,0.078431,0.0" name="Red" />
+			<color cs="RGB" tints="0.980392,0.407843,0.0" name="Orange" />
+			<color cs="RGB" tints="0.941176,0.639216,0.039216" name="Amber" />
+			<color cs="RGB" tints="0.890196,0.784314,0.0" name="Yellow" />
+			<color cs="RGB" tints="0.509804,0.352941,0.172549" name="Brown" />
+			<color cs="RGB" tints="0.427451,0.529412,0.392157" name="Olive" />
+			<color cs="RGB" tints="0.392157,0.462745,0.529412" name="Steel" />
+			<color cs="RGB" tints="0.462745,0.376471,0.541176" name="Mauve" />
+			<color cs="RGB" tints="0.627451,0.321569,0.176471" name="Sienna" />
+		</page>
+	</colors>
+	<localization />
+</palette>

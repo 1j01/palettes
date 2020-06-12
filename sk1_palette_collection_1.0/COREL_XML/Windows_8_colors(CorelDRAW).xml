@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+Palette source: Microsoft
+The palette colors are from tiles found on the Start Screen.
+
+-->
+<palette guid="c68ab7da-15a2-11e5-a91f-e03f4985805d" name="Windows 8 colors">
+	<colorspaces />
+	<colors>
+		<page>
+			<color cs="RGB" tints="0.0,0.509804,0.6" name="#008299" />
+			<color cs="RGB" tints="0.0,0.627451,0.694118" name="#00A0B1" />
+			<color cs="RGB" tints="0.14902,0.447059,0.92549" name="#2672EC" />
+			<color cs="RGB" tints="0.180392,0.552941,0.937255" name="#2E8DEF" />
+			<color cs="RGB" tints="0.54902,0.0,0.584314" name="#8C0095" />
+			<color cs="RGB" tints="0.654902,0.0,0.682353" name="#A700AE" />
+			<color cs="RGB" tints="0.317647,0.2,0.670588" name="#5133AB" />
+			<color cs="RGB" tints="0.392157,0.243137,0.74902" name="#643EBF" />
+			<color cs="RGB" tints="0.67451,0.098039,0.239216" name="#AC193D" />
+			<color cs="RGB" tints="0.74902,0.117647,0.294118" name="#BF1E4B" />
+			<color cs="RGB" tints="0.823529,0.278431,0.14902" name="#D24726" />
+			<color cs="RGB" tints="0.862745,0.341176,0.180392" name="#DC572E" />
+			<color cs="RGB" tints="0.0,0.541176,0.0" name="#008A00" />
+			<color cs="RGB" tints="0.0,0.65098,0.0" name="#00A600" />
+			<color cs="RGB" tints="0.035294,0.290196,0.698039" name="#094AB2" />
+			<color cs="RGB" tints="0.039216,0.356863,0.768627" name="#0A5BC4" />
+		</page>
+	</colors>
+	<localization />
+</palette>

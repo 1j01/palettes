@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Palette source: Microsoft
+The palette is published here:
+https://msdn.microsoft.com/library/windows/apps/ff402557(v=vs.105).aspx
+
+-->
+<office:color-table xmlns:form="http://openoffice.org/2000/form" xmlns:number="http://openoffice.org/2000/datastyle" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:office="http://openoffice.org/2000/office" xmlns:meta="http://openoffice.org/2000/meta" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:svg="http://www.w3.org/2000/svg" xmlns:dr3d="http://openoffice.org/2000/dr3d" xmlns:text="http://openoffice.org/2000/text" xmlns:style="http://openoffice.org/2000/style" xmlns:script="http://openoffice.org/2000/script" xmlns:chart="http://openoffice.org/2000/chart" xmlns:draw="http://openoffice.org/2000/drawing" xmlns:table="http://openoffice.org/2000/table" xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:config="http://openoffice.org/2001/config" xmlns:dc="http://purl.org/dc/elements/1.1/">
+ <draw:color draw:name="Lime" draw:color="#a4c400"/>
+ <draw:color draw:name="Green" draw:color="#60a917"/>
+ <draw:color draw:name="Emerald" draw:color="#008a00"/>
+ <draw:color draw:name="Teal" draw:color="#00aba9"/>
+ <draw:color draw:name="Cyan" draw:color="#1ba1e2"/>
+ <draw:color draw:name="Cobalt" draw:color="#0050ef"/>
+ <draw:color draw:name="Indigo" draw:color="#6a00ff"/>
+ <draw:color draw:name="Violet" draw:color="#aa00ff"/>
+ <draw:color draw:name="Pink" draw:color="#f472d0"/>
+ <draw:color draw:name="Magenta" draw:color="#d80073"/>
+ <draw:color draw:name="Crimson" draw:color="#a20025"/>
+ <draw:color draw:name="Red" draw:color="#e51400"/>
+ <draw:color draw:name="Orange" draw:color="#fa6800"/>
+ <draw:color draw:name="Amber" draw:color="#f0a30a"/>
+ <draw:color draw:name="Yellow" draw:color="#e3c800"/>
+ <draw:color draw:name="Brown" draw:color="#825a2c"/>
+ <draw:color draw:name="Olive" draw:color="#6d8764"/>
+ <draw:color draw:name="Steel" draw:color="#647687"/>
+ <draw:color draw:name="Mauve" draw:color="#76608a"/>
+ <draw:color draw:name="Sienna" draw:color="#a0522d"/>
+</office:color-table>

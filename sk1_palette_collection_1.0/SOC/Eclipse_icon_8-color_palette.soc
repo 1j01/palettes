@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Palette source: IBM Corp.
+Use the Eclipse 8 color palette for creating the enabled state of perspective, view, toolbar, toolbar wizard, and local toolbar icons.
+The palette is published here: 
+https://eclipse.org/articles/Article-UI-Guidelines/Contents.html
+
+-->
+<office:color-table xmlns:form="http://openoffice.org/2000/form" xmlns:number="http://openoffice.org/2000/datastyle" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:office="http://openoffice.org/2000/office" xmlns:meta="http://openoffice.org/2000/meta" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:svg="http://www.w3.org/2000/svg" xmlns:dr3d="http://openoffice.org/2000/dr3d" xmlns:text="http://openoffice.org/2000/text" xmlns:style="http://openoffice.org/2000/style" xmlns:script="http://openoffice.org/2000/script" xmlns:chart="http://openoffice.org/2000/chart" xmlns:draw="http://openoffice.org/2000/drawing" xmlns:table="http://openoffice.org/2000/table" xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:config="http://openoffice.org/2001/config" xmlns:dc="http://purl.org/dc/elements/1.1/">
+ <draw:color draw:name="#3F3F5F" draw:color="#3f3f5f"/>
+ <draw:color draw:name="#5C5C5C" draw:color="#5c5c5c"/>
+ <draw:color draw:name="#828282" draw:color="#828282"/>
+ <draw:color draw:name="#9F9F9F" draw:color="#9f9f9f"/>
+ <draw:color draw:name="#BFBFBF" draw:color="#bfbfbf"/>
+ <draw:color draw:name="#DFDFBF" draw:color="#dfdfbf"/>
+ <draw:color draw:name="#000000" draw:color="#000000"/>
+ <draw:color draw:name="#FFFFFF" draw:color="#ffffff"/>
+</office:color-table>

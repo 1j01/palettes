@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Palette source: Mageia
+The palette is published here:
+https://wiki.mageia.org/en/Artwork_team
+-->
+<SCRIBUSCOLORS Name="Mageia colors" >
+	<COLOR RGB="#000000" NAME="Black" />
+	<COLOR RGB="#b7b7b7" NAME="Bombay ~" />
+	<COLOR RGB="#ffffff" NAME="White" />
+	<COLOR RGB="#36005e" NAME="Midnight blue ~" />
+	<COLOR RGB="#4c006f" NAME="Midnight blue ~" />
+	<COLOR RGB="#610c81" NAME="Indigo ~" />
+	<COLOR RGB="#772493" NAME="Dark magenta ~" />
+	<COLOR RGB="#8c38a5" NAME="Fuchsia ~" />
+	<COLOR RGB="#a34cb8" NAME="Medium violet red ~" />
+	<COLOR RGB="#b95fca" NAME="Medium purple ~" />
+	<COLOR RGB="#d073de" NAME="Orchid ~" />
+	<COLOR RGB="#e787f1" NAME="Violet ~" />
+	<COLOR RGB="#001260" NAME="Midnight blue ~" />
+	<COLOR RGB="#1c2172" NAME="Midnight blue" />
+	<COLOR RGB="#363183" NAME="Indigo ~" />
+	<COLOR RGB="#4d4195" NAME="Daisy bush ~" />
+	<COLOR RGB="#6453a8" NAME="Studio ~" />
+	<COLOR RGB="#7a64ba" NAME="Fuchsia ~" />
+	<COLOR RGB="#9077cd" NAME="True v ~" />
+	<COLOR RGB="#a68ae0" NAME="Cornflower ~" />
+	<COLOR RGB="#bd9ef4" NAME="Deep sky blue ~" />
+	<COLOR RGB="#002a5f" NAME="Paris m ~" />
+	<COLOR RGB="#003970" NAME="Resolution blue ~" />
+	<COLOR RGB="#004a81" NAME="Jacksons purple ~" />
+	<COLOR RGB="#095b93" NAME="Endeavour ~" />
+	<COLOR RGB="#326da5" NAME="Scampi ~" />
+	<COLOR RGB="#4c80b8" NAME="Curious blue" />
+	<COLOR RGB="#6593ca" NAME="Picton blue ~" />
+	<COLOR RGB="#7ca6dd" NAME="Jordy blue ~" />
+	<COLOR RGB="#93bbf1" NAME="Dark turquoise ~" />
+	<COLOR RGB="#105e7d" NAME="Bahama blue ~" />
+	<COLOR RGB="#31708f" NAME="Waikawa grey ~" />
+	<COLOR RGB="#4983a1" NAME="Dark cyan ~" />
+	<COLOR RGB="#6096b3" NAME="Shakespeare ~" />
+	<COLOR RGB="#77aac5" NAME="Polo blue ~" />
+	<COLOR RGB="#8dbed8" NAME="Moon raker ~" />
+	<COLOR RGB="#a4d3eb" NAME="Sail ~" />
+	<COLOR RGB="#bbe8ff" NAME="Pale turquoise ~" />
+	<COLOR RGB="#d2fdff" NAME="Light cyan ~" />
+	<COLOR RGB="#000127" NAME="Stratos ~" />
+	<COLOR RGB="#000127" NAME="Stratos ~" />
+	<COLOR RGB="#001735" NAME="Outer space ~" />
+	<COLOR RGB="#052645" NAME="Violent violet ~" />
+	<COLOR RGB="#1f3555" NAME="Cobalt" />
+	<COLOR RGB="#344666" NAME="Bay of many ~" />
+	<COLOR RGB="#485777" NAME="Chambray" />
+	<COLOR RGB="#5c6988" NAME="Wedgewood ~" />
+	<COLOR RGB="#717c9a" NAME="Hippie blue ~" />
+	<COLOR RGB="#7e0001" NAME="Dark red ~" />
+	<COLOR RGB="#950011" NAME="Bright red ~" />
+	<COLOR RGB="#ae001d" NAME="Firebrick ~" />
+	<COLOR RGB="#c6002b" NAME="Mandy ~" />
+	<COLOR RGB="#df013a" NAME="Crimson ~" />
+	<COLOR RGB="#f72f49" NAME="Orange red ~" />
+	<COLOR RGB="#ff4958" NAME="Orange red ~" />
+	<COLOR RGB="#ff6169" NAME="Tomato" />
+	<COLOR RGB="#ff777a" NAME="Coral ~" />
+</SCRIBUSCOLORS>

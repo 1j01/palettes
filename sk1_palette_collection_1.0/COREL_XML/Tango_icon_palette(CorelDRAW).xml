@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+Palette source: Tango Desktop Project
+Color guidelines are published on Tango home page 
+(http://tango.freedesktop.org/Tango_Icon_Theme_Guidelines)
+
+-->
+<palette guid="c63e869e-15a2-11e5-a91f-e03f4985805d" name="Tango icon palette">
+	<colorspaces />
+	<colors>
+		<page>
+			<color cs="RGB" tints="0.988235,0.913725,0.309804" name="Butter 1" />
+			<color cs="RGB" tints="0.929412,0.831373,0.0" name="Butter 2" />
+			<color cs="RGB" tints="0.768627,0.627451,0.0" name="Butter 3" />
+			<color cs="RGB" tints="0.988235,0.686275,0.243137" name="Orange 1" />
+			<color cs="RGB" tints="0.960784,0.47451,0.0" name="Orange 2" />
+			<color cs="RGB" tints="0.807843,0.360784,0.0" name="Orange 3" />
+			<color cs="RGB" tints="0.913725,0.72549,0.431373" name="Chocolate 1" />
+			<color cs="RGB" tints="0.756863,0.490196,0.066667" name="Chocolate 2" />
+			<color cs="RGB" tints="0.560784,0.34902,0.007843" name="Chocolate 3" />
+			<color cs="RGB" tints="0.541176,0.886275,0.203922" name="Chameleon 1" />
+			<color cs="RGB" tints="0.45098,0.823529,0.086275" name="Chameleon 2" />
+			<color cs="RGB" tints="0.305882,0.603922,0.023529" name="Chameleon 3" />
+			<color cs="RGB" tints="0.447059,0.623529,0.811765" name="Sky Blue 1" />
+			<color cs="RGB" tints="0.203922,0.396078,0.643137" name="Sky Blue 2" />
+			<color cs="RGB" tints="0.12549,0.290196,0.529412" name="Sky Blue 3" />
+			<color cs="RGB" tints="0.678431,0.498039,0.658824" name="Plum 1" />
+			<color cs="RGB" tints="0.458824,0.313725,0.462745" name="Plum 2" />
+			<color cs="RGB" tints="0.360784,0.207843,0.4" name="Plum 3" />
+			<color cs="RGB" tints="0.937255,0.160784,0.160784" name="Scarlet Red 1" />
+			<color cs="RGB" tints="0.8,0.0,0.0" name="Scarlet Red 2" />
+			<color cs="RGB" tints="0.643137,0.0,0.0" name="Scarlet Red 3" />
+			<color cs="RGB" tints="0.933333,0.933333,0.92549" name="Aluminium 1" />
+			<color cs="RGB" tints="0.827451,0.843137,0.811765" name="Aluminium 2" />
+			<color cs="RGB" tints="0.729412,0.741176,0.713725" name="Aluminium 3" />
+			<color cs="RGB" tints="0.533333,0.541176,0.521569" name="Aluminium 4" />
+			<color cs="RGB" tints="0.333333,0.341176,0.32549" name="Aluminium 5" />
+			<color cs="RGB" tints="0.180392,0.203922,0.211765" name="Aluminium 6" />
+		</page>
+	</colors>
+	<localization />
+</palette>

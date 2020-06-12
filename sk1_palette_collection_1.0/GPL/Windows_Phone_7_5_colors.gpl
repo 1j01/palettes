@@ -1,0 +1,18 @@
+GIMP Palette
+Name: Windows Phone 7.5 colors
+Columns: 4
+#
+# Palette source: Microsoft
+# The palette is published here:
+# https://msdn.microsoft.com/library/windows/apps/ff402557(v=vs.105).aspx
+#
+162 193  57	Lime
+ 51 153  51	Green
+  0 171 169	Viridian
+ 27 161 226	Blue
+170   0 255	Purple
+230 113 184	Pink
+216   0 115	Magenta
+229  20   0	Red
+240 150   9	Mango
+160  80   0	Brown

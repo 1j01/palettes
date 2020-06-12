@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Palette source: Fedora Project
+The palette is published here:
+https://fedoraproject.org/wiki/Logo/UsageGuidelines#Never_Stray_from_the_Color_Palette
+
+-->
+<office:color-table xmlns:form="http://openoffice.org/2000/form" xmlns:number="http://openoffice.org/2000/datastyle" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:office="http://openoffice.org/2000/office" xmlns:meta="http://openoffice.org/2000/meta" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:svg="http://www.w3.org/2000/svg" xmlns:dr3d="http://openoffice.org/2000/dr3d" xmlns:text="http://openoffice.org/2000/text" xmlns:style="http://openoffice.org/2000/style" xmlns:script="http://openoffice.org/2000/script" xmlns:chart="http://openoffice.org/2000/chart" xmlns:draw="http://openoffice.org/2000/drawing" xmlns:table="http://openoffice.org/2000/table" xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:config="http://openoffice.org/2001/config" xmlns:dc="http://purl.org/dc/elements/1.1/">
+ <draw:color draw:name="Fedora Blue" draw:color="#3c6eb4"/>
+ <draw:color draw:name="Fedora Dark Blue" draw:color="#294172"/>
+ <draw:color draw:name="Friends Magenta" draw:color="#db3279"/>
+ <draw:color draw:name="Features Orange" draw:color="#e59728"/>
+ <draw:color draw:name="First Green" draw:color="#79db32"/>
+ <draw:color draw:name="Freedom Purple" draw:color="#a07cbc"/>
+ <draw:color draw:name="Black" draw:color="#000000"/>
+ <draw:color draw:name="Dark Grey" draw:color="#4c4c4c"/>
+ <draw:color draw:name="Grey" draw:color="#8c8c8c"/>
+ <draw:color draw:name="Light Grey" draw:color="#dedede"/>
+</office:color-table>

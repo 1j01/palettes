@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Palette source: Tango Desktop Project
+Color guidelines are published on Tango home page 
+(http://tango.freedesktop.org/Tango_Icon_Theme_Guidelines)
+
+-->
+<office:color-table xmlns:form="http://openoffice.org/2000/form" xmlns:number="http://openoffice.org/2000/datastyle" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:office="http://openoffice.org/2000/office" xmlns:meta="http://openoffice.org/2000/meta" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:svg="http://www.w3.org/2000/svg" xmlns:dr3d="http://openoffice.org/2000/dr3d" xmlns:text="http://openoffice.org/2000/text" xmlns:style="http://openoffice.org/2000/style" xmlns:script="http://openoffice.org/2000/script" xmlns:chart="http://openoffice.org/2000/chart" xmlns:draw="http://openoffice.org/2000/drawing" xmlns:table="http://openoffice.org/2000/table" xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:config="http://openoffice.org/2001/config" xmlns:dc="http://purl.org/dc/elements/1.1/">
+ <draw:color draw:name="Butter 1" draw:color="#fce94f"/>
+ <draw:color draw:name="Butter 2" draw:color="#edd400"/>
+ <draw:color draw:name="Butter 3" draw:color="#c4a000"/>
+ <draw:color draw:name="Orange 1" draw:color="#fcaf3e"/>
+ <draw:color draw:name="Orange 2" draw:color="#f57900"/>
+ <draw:color draw:name="Orange 3" draw:color="#ce5c00"/>
+ <draw:color draw:name="Chocolate 1" draw:color="#e9b96e"/>
+ <draw:color draw:name="Chocolate 2" draw:color="#c17d11"/>
+ <draw:color draw:name="Chocolate 3" draw:color="#8f5902"/>
+ <draw:color draw:name="Chameleon 1" draw:color="#8ae234"/>
+ <draw:color draw:name="Chameleon 2" draw:color="#73d216"/>
+ <draw:color draw:name="Chameleon 3" draw:color="#4e9a06"/>
+ <draw:color draw:name="Sky Blue 1" draw:color="#729fcf"/>
+ <draw:color draw:name="Sky Blue 2" draw:color="#3465a4"/>
+ <draw:color draw:name="Sky Blue 3" draw:color="#204a87"/>
+ <draw:color draw:name="Plum 1" draw:color="#ad7fa8"/>
+ <draw:color draw:name="Plum 2" draw:color="#755076"/>
+ <draw:color draw:name="Plum 3" draw:color="#5c3566"/>
+ <draw:color draw:name="Scarlet Red 1" draw:color="#ef2929"/>
+ <draw:color draw:name="Scarlet Red 2" draw:color="#cc0000"/>
+ <draw:color draw:name="Scarlet Red 3" draw:color="#a40000"/>
+ <draw:color draw:name="Aluminium 1" draw:color="#eeeeec"/>
+ <draw:color draw:name="Aluminium 2" draw:color="#d3d7cf"/>
+ <draw:color draw:name="Aluminium 3" draw:color="#babdb6"/>
+ <draw:color draw:name="Aluminium 4" draw:color="#888a85"/>
+ <draw:color draw:name="Aluminium 5" draw:color="#555753"/>
+ <draw:color draw:name="Aluminium 6" draw:color="#2e3436"/>
+</office:color-table>

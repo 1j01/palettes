@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Palette source: Tango Desktop Project
+Color guidelines are published on Tango home page 
+(http://tango.freedesktop.org/Tango_Icon_Theme_Guidelines)
+-->
+<SCRIBUSCOLORS Name="Tango icon palette" >
+	<COLOR RGB="#fce94f" NAME="Butter 1" />
+	<COLOR RGB="#edd400" NAME="Butter 2" />
+	<COLOR RGB="#c4a000" NAME="Butter 3" />
+	<COLOR RGB="#fcaf3e" NAME="Orange 1" />
+	<COLOR RGB="#f57900" NAME="Orange 2" />
+	<COLOR RGB="#ce5c00" NAME="Orange 3" />
+	<COLOR RGB="#e9b96e" NAME="Chocolate 1" />
+	<COLOR RGB="#c17d11" NAME="Chocolate 2" />
+	<COLOR RGB="#8f5902" NAME="Chocolate 3" />
+	<COLOR RGB="#8ae234" NAME="Chameleon 1" />
+	<COLOR RGB="#73d216" NAME="Chameleon 2" />
+	<COLOR RGB="#4e9a06" NAME="Chameleon 3" />
+	<COLOR RGB="#729fcf" NAME="Sky Blue 1" />
+	<COLOR RGB="#3465a4" NAME="Sky Blue 2" />
+	<COLOR RGB="#204a87" NAME="Sky Blue 3" />
+	<COLOR RGB="#ad7fa8" NAME="Plum 1" />
+	<COLOR RGB="#755076" NAME="Plum 2" />
+	<COLOR RGB="#5c3566" NAME="Plum 3" />
+	<COLOR RGB="#ef2929" NAME="Scarlet Red 1" />
+	<COLOR RGB="#cc0000" NAME="Scarlet Red 2" />
+	<COLOR RGB="#a40000" NAME="Scarlet Red 3" />
+	<COLOR RGB="#eeeeec" NAME="Aluminium 1" />
+	<COLOR RGB="#d3d7cf" NAME="Aluminium 2" />
+	<COLOR RGB="#babdb6" NAME="Aluminium 3" />
+	<COLOR RGB="#888a85" NAME="Aluminium 4" />
+	<COLOR RGB="#555753" NAME="Aluminium 5" />
+	<COLOR RGB="#2e3436" NAME="Aluminium 6" />
+</SCRIBUSCOLORS>

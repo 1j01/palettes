@@ -1,0 +1,24 @@
+GIMP Palette
+Name: Lible Colors
+Columns: 4
+#
+# Palette source: Document Foundation
+# The palette is published here:
+# http://luxate.blogspot.com/2010/10/united-colors-of-liberty.html
+#
+ 24 163   3	LibreGreen
+ 44 238  14	#2CEE0E
+132 246 113	#84F671
+194 246 186	#C2F6BA
+  3 105 163	LibreBlue
+ 14 156 238	#0E9CEE
+ 73 186 251	#49BAFB
+159 215 246	#9FD7F6
+163  62   3	LibreMaroon
+242  95  10	#F25F0A
+252 155  99	#FC9B63
+248 201 172	#F8C9AC
+140   3 161	LibrePurple
+207  66 228	#CF42E4
+219 118 234	#DB76EA
+242 196 250	#F2C4FA

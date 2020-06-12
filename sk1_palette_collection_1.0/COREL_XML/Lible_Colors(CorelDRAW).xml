@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+Palette source: Document Foundation
+The palette is published here:
+http://luxate.blogspot.com/2010/10/united-colors-of-liberty.html
+
+-->
+<palette guid="c61a756a-15a2-11e5-a91f-e03f4985805d" name="Lible Colors">
+	<colorspaces />
+	<colors>
+		<page>
+			<color cs="RGB" tints="0.094118,0.639216,0.011765" name="LibreGreen" />
+			<color cs="RGB" tints="0.172549,0.933333,0.054902" name="#2CEE0E" />
+			<color cs="RGB" tints="0.517647,0.964706,0.443137" name="#84F671" />
+			<color cs="RGB" tints="0.760784,0.964706,0.729412" name="#C2F6BA" />
+			<color cs="RGB" tints="0.011765,0.411765,0.639216" name="LibreBlue" />
+			<color cs="RGB" tints="0.054902,0.611765,0.933333" name="#0E9CEE" />
+			<color cs="RGB" tints="0.286275,0.729412,0.984314" name="#49BAFB" />
+			<color cs="RGB" tints="0.623529,0.843137,0.964706" name="#9FD7F6" />
+			<color cs="RGB" tints="0.639216,0.243137,0.011765" name="LibreMaroon" />
+			<color cs="RGB" tints="0.94902,0.372549,0.039216" name="#F25F0A" />
+			<color cs="RGB" tints="0.988235,0.607843,0.388235" name="#FC9B63" />
+			<color cs="RGB" tints="0.972549,0.788235,0.67451" name="#F8C9AC" />
+			<color cs="RGB" tints="0.54902,0.011765,0.631373" name="LibrePurple" />
+			<color cs="RGB" tints="0.811765,0.258824,0.894118" name="#CF42E4" />
+			<color cs="RGB" tints="0.858824,0.462745,0.917647" name="#DB76EA" />
+			<color cs="RGB" tints="0.94902,0.768627,0.980392" name="#F2C4FA" />
+		</page>
+	</colors>
+	<localization />
+</palette>

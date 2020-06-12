@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Palette source: Designmondo
+The palette is published here:
+http://designmodo.github.io/Flat-UI/
+-->
+<SCRIBUSCOLORS Name="Flat UI colors" >
+	<COLOR RGB="#1abc9c" NAME="TURQUOISE" />
+	<COLOR RGB="#2ecc71" NAME="EMERALD" />
+	<COLOR RGB="#3498db" NAME="PETER RIVER" />
+	<COLOR RGB="#9b59b6" NAME="AMETHYST" />
+	<COLOR RGB="#34495e" NAME="WET ASPHALT" />
+	<COLOR RGB="#16a085" NAME="GREEN SEA" />
+	<COLOR RGB="#27ae60" NAME="NEPHRITIS" />
+	<COLOR RGB="#2980b9" NAME="BELIZE HOLE" />
+	<COLOR RGB="#8e44ad" NAME="WISTERIA" />
+	<COLOR RGB="#2c3e50" NAME="MIDNIGHT BLUE" />
+	<COLOR RGB="#f1c40f" NAME="SUN FLOWER" />
+	<COLOR RGB="#e67e22" NAME="CARROT" />
+	<COLOR RGB="#e74c3c" NAME="ALIZARIN" />
+	<COLOR RGB="#ecf0f1" NAME="CLOUDS" />
+	<COLOR RGB="#95a5a6" NAME="CONCRETE" />
+	<COLOR RGB="#f39c12" NAME="ORANGE" />
+	<COLOR RGB="#d35400" NAME="PUMPKIN" />
+	<COLOR RGB="#c0392b" NAME="POMEGRANATE" />
+	<COLOR RGB="#b9bfc3" NAME="SILVER" />
+	<COLOR RGB="#7e8a8b" NAME="ASBESTOS" />
+</SCRIBUSCOLORS>

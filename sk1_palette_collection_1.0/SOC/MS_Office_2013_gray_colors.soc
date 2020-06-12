@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Palette source: Microsoft
+The palette is published here:
+https://msdn.microsoft.com/en-us/library/office/dn684229.aspx
+
+-->
+<office:color-table xmlns:form="http://openoffice.org/2000/form" xmlns:number="http://openoffice.org/2000/datastyle" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:office="http://openoffice.org/2000/office" xmlns:meta="http://openoffice.org/2000/meta" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:svg="http://www.w3.org/2000/svg" xmlns:dr3d="http://openoffice.org/2000/dr3d" xmlns:text="http://openoffice.org/2000/text" xmlns:style="http://openoffice.org/2000/style" xmlns:script="http://openoffice.org/2000/script" xmlns:chart="http://openoffice.org/2000/chart" xmlns:draw="http://openoffice.org/2000/drawing" xmlns:table="http://openoffice.org/2000/table" xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:config="http://openoffice.org/2001/config" xmlns:dc="http://purl.org/dc/elements/1.1/">
+ <draw:color draw:name="Black" draw:color="#000000"/>
+ <draw:color draw:name="Dark" draw:color="#212121"/>
+ <draw:color draw:name="Primary" draw:color="#333333"/>
+ <draw:color draw:name="Secondary" draw:color="#666666"/>
+ <draw:color draw:name="Tertiary" draw:color="#c8c8c8"/>
+ <draw:color draw:name="Light" draw:color="#eaeaea"/>
+ <draw:color draw:name="Lighter" draw:color="#f4f4f4"/>
+ <draw:color draw:name="White" draw:color="#ffffff"/>
+</office:color-table>

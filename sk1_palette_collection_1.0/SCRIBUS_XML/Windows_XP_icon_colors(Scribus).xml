@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Palette source: Microsoft
+https://msdn.microsoft.com/en-us/library/ms997636.aspx
+-->
+<SCRIBUSCOLORS Name="Windows XP icon colors" >
+	<COLOR RGB="#996600" NAME="#996600" />
+	<COLOR RGB="#cc9900" NAME="#CC9900" />
+	<COLOR RGB="#ffcc00" NAME="#FFCC00" />
+	<COLOR RGB="#ffff00" NAME="#FFFF00" />
+	<COLOR RGB="#ffff99" NAME="#FFFF99" />
+	<COLOR RGB="#ffdb9d" NAME="#FFDB9D" />
+	<COLOR RGB="#ffcc66" NAME="#FFCC66" />
+	<COLOR RGB="#ff9933" NAME="#FF9933" />
+	<COLOR RGB="#ff794b" NAME="#FF794B" />
+	<COLOR RGB="#ff3300" NAME="#FF3300" />
+	<COLOR RGB="#990000" NAME="#990000" />
+	<COLOR RGB="#333366" NAME="#333366" />
+	<COLOR RGB="#003399" NAME="#003399" />
+	<COLOR RGB="#0066cc" NAME="#0066CC" />
+	<COLOR RGB="#0083d7" NAME="#0083D7" />
+	<COLOR RGB="#0099ff" NAME="#0099FF" />
+	<COLOR RGB="#3e9ade" NAME="#3E9ADE" />
+	<COLOR RGB="#99ccff" NAME="#99CCFF" />
+	<COLOR RGB="#b4e2ff" NAME="#B4E2FF" />
+	<COLOR RGB="#deffff" NAME="#DEFFFF" />
+	<COLOR RGB="#ffccff" NAME="#FFCCFF" />
+	<COLOR RGB="#ccccff" NAME="#CCCCFF" />
+	<COLOR RGB="#9999ff" NAME="#9999FF" />
+	<COLOR RGB="#6666cc" NAME="#6666CC" />
+	<COLOR RGB="#9999cc" NAME="#9999CC" />
+	<COLOR RGB="#666699" NAME="#666699" />
+	<COLOR RGB="#006600" NAME="#006600" />
+	<COLOR RGB="#009900" NAME="#009900" />
+	<COLOR RGB="#66cc33" NAME="#66CC33" />
+	<COLOR RGB="#99ff66" NAME="#99FF66" />
+	<COLOR RGB="#ccffcc" NAME="#CDFFCC" />
+</SCRIBUSCOLORS>

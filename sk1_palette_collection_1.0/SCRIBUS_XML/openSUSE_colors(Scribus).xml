@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Palette source: openSUSE
+The palette is published here:
+https://en.opensuse.org/Help:Colors
+-->
+<SCRIBUSCOLORS Name="openSUSE colors" >
+	<COLOR RGB="#fcae1b" NAME="Light Orange" />
+	<COLOR RGB="#e35001" NAME="Dark Orange" />
+	<COLOR RGB="#ffff66" NAME="Light Butter" />
+	<COLOR RGB="#b2b247" NAME="Dark Butter" />
+	<COLOR RGB="#94d006" NAME="Light Lemon" />
+	<COLOR RGB="#227808" NAME="Dark Lemon" />
+	<COLOR RGB="#d4c4ff" NAME="Light Plum" />
+	<COLOR RGB="#4c4466" NAME="Dark Plum" />
+	<COLOR RGB="#5082ff" NAME="Light Sky" />
+	<COLOR RGB="#000074" NAME="Dark Sky" />
+	<COLOR RGB="#babdb7" NAME="Light Dust" />
+	<COLOR RGB="#2e3436" NAME="Dark Dust" />
+	<COLOR RGB="#ff4d4d" NAME="Light Blood" />
+	<COLOR RGB="#8c0000" NAME="Dark Blood" />
+</SCRIBUSCOLORS>

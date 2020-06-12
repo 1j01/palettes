@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Palette source: Fedora Project
+The palette is published here:
+https://fedoraproject.org/wiki/Logo/UsageGuidelines#Never_Stray_from_the_Color_Palette
+-->
+<SCRIBUSCOLORS Name="Fedora color palette" >
+	<COLOR RGB="#3c6eb4" NAME="Fedora Blue" />
+	<COLOR RGB="#294172" NAME="Fedora Dark Blue" />
+	<COLOR RGB="#db3279" NAME="Friends Magenta" />
+	<COLOR RGB="#e59728" NAME="Features Orange" />
+	<COLOR RGB="#79db32" NAME="First Green" />
+	<COLOR RGB="#a07cbc" NAME="Freedom Purple" />
+	<COLOR RGB="#000000" NAME="Black" />
+	<COLOR RGB="#4c4c4c" NAME="Dark Grey" />
+	<COLOR RGB="#8c8c8c" NAME="Grey" />
+	<COLOR RGB="#dedede" NAME="Light Grey" />
+</SCRIBUSCOLORS>

@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Palette source: Canonical
+The palette is published here:
+http://design.ubuntu.com/brand/colour-palette
+-->
+<SCRIBUSCOLORS Name="Ubuntu color tints" >
+	<COLOR RGB="#dd4814" NAME="Ubuntu Orange 100%" />
+	<COLOR RGB="#e05a2b" NAME="Ubuntu Orange 90%" />
+	<COLOR RGB="#e36c43" NAME="Ubuntu Orange 80%" />
+	<COLOR RGB="#e77e5a" NAME="Ubuntu Orange 70%" />
+	<COLOR RGB="#ea9172" NAME="Ubuntu Orange 60%" />
+	<COLOR RGB="#eea389" NAME="Ubuntu Orange 50%" />
+	<COLOR RGB="#efac95" NAME="Ubuntu Orange 45%" />
+	<COLOR RGB="#f1b5a1" NAME="Ubuntu Orange 40%" />
+	<COLOR RGB="#f3beac" NAME="Ubuntu Orange 35%" />
+	<COLOR RGB="#f4c8b8" NAME="Ubuntu Orange 30%" />
+	<COLOR RGB="#f6d1c4" NAME="Ubuntu Orange 25%" />
+	<COLOR RGB="#f8dad0" NAME="Ubuntu Orange 20%" />
+	<COLOR RGB="#f9e3db" NAME="Ubuntu Orange 15%" />
+	<COLOR RGB="#fbece7" NAME="Ubuntu Orange 10%" />
+	<COLOR RGB="#772953" NAME="Canonical Aubergine 100%" />
+	<COLOR RGB="#843e64" NAME="Canonical Aubergine 90%" />
+	<COLOR RGB="#925375" NAME="Canonical Aubergine 80%" />
+	<COLOR RGB="#9f6986" NAME="Canonical Aubergine 70%" />
+	<COLOR RGB="#ad7e97" NAME="Canonical Aubergine 60%" />
+	<COLOR RGB="#bb94a9" NAME="Canonical Aubergine 50%" />
+	<COLOR RGB="#c19eb1" NAME="Canonical Aubergine 45%" />
+	<COLOR RGB="#c8a9ba" NAME="Canonical Aubergine 40%" />
+	<COLOR RGB="#cfb4c2" NAME="Canonical Aubergine 35%" />
+	<COLOR RGB="#d6becb" NAME="Canonical Aubergine 30%" />
+	<COLOR RGB="#ddc9d4" NAME="Canonical Aubergine 25%" />
+	<COLOR RGB="#e3d4dc" NAME="Canonical Aubergine 20%" />
+	<COLOR RGB="#eadee5" NAME="Canonical Aubergine 15%" />
+	<COLOR RGB="#f1e9ed" NAME="Canonical Aubergine 10%" />
+	<COLOR RGB="#77216f" NAME="Light Aubergine 100%" />
+	<COLOR RGB="#84377d" NAME="Light Aubergine 90%" />
+	<COLOR RGB="#924d8b" NAME="Light Aubergine 80%" />
+	<COLOR RGB="#9f639a" NAME="Light Aubergine 70%" />
+	<COLOR RGB="#ad79a8" NAME="Light Aubergine 60%" />
+	<COLOR RGB="#bb90b7" NAME="Light Aubergine 50%" />
+	<COLOR RGB="#c19bbe" NAME="Light Aubergine 45%" />
+	<COLOR RGB="#c8a6c5" NAME="Light Aubergine 40%" />
+	<COLOR RGB="#cfb1cc" NAME="Light Aubergine 35%" />
+	<COLOR RGB="#d6bcd3" NAME="Light Aubergine 30%" />
+	<COLOR RGB="#ddc7db" NAME="Light Aubergine 25%" />
+	<COLOR RGB="#e3d2e2" NAME="Light Aubergine 20%" />
+	<COLOR RGB="#eadde9" NAME="Light Aubergine 15%" />
+	<COLOR RGB="#f1e8f0" NAME="Light Aubergine 10%" />
+	<COLOR RGB="#5e2750" NAME="Mid Aubergine 100%" />
+	<COLOR RGB="#6e3c61" NAME="Mid Aubergine 90%" />
+	<COLOR RGB="#7e5273" NAME="Mid Aubergine 80%" />
+	<COLOR RGB="#8e6784" NAME="Mid Aubergine 70%" />
+	<COLOR RGB="#9e7d96" NAME="Mid Aubergine 60%" />
+	<COLOR RGB="#ae93a7" NAME="Mid Aubergine 50%" />
+	<COLOR RGB="#b69db0" NAME="Mid Aubergine 45%" />
+	<COLOR RGB="#bea8b9" NAME="Mid Aubergine 40%" />
+	<COLOR RGB="#c6b3c1" NAME="Mid Aubergine 35%" />
+	<COLOR RGB="#cebeca" NAME="Mid Aubergine 30%" />
+	<COLOR RGB="#d6c9d3" NAME="Mid Aubergine 25%" />
+	<COLOR RGB="#ded3dc" NAME="Mid Aubergine 20%" />
+	<COLOR RGB="#e6dee4" NAME="Mid Aubergine 15%" />
+	<COLOR RGB="#eee9ed" NAME="Mid Aubergine 10%" />
+	<COLOR RGB="#2c001e" NAME="Dark Aubergine 100%" />
+	<COLOR RGB="#411934" NAME="Dark Aubergine 90%" />
+	<COLOR RGB="#56334b" NAME="Dark Aubergine 80%" />
+	<COLOR RGB="#6b4c61" NAME="Dark Aubergine 70%" />
+	<COLOR RGB="#806678" NAME="Dark Aubergine 60%" />
+	<COLOR RGB="#957f8e" NAME="Dark Aubergine 50%" />
+	<COLOR RGB="#a08c99" NAME="Dark Aubergine 45%" />
+	<COLOR RGB="#aa99a5" NAME="Dark Aubergine 40%" />
+	<COLOR RGB="#b5a5b0" NAME="Dark Aubergine 35%" />
+	<COLOR RGB="#bfb2bb" NAME="Dark Aubergine 30%" />
+	<COLOR RGB="#cabfc6" NAME="Dark Aubergine 25%" />
+	<COLOR RGB="#d4ccd2" NAME="Dark Aubergine 20%" />
+	<COLOR RGB="#dfd8dd" NAME="Dark Aubergine 15%" />
+	<COLOR RGB="#e9e5e8" NAME="Dark Aubergine 10%" />
+	<COLOR RGB="#aea79f" NAME="Warm Grey 100%" />
+	<COLOR RGB="#b6afa8" NAME="Warm Grey 90%" />
+	<COLOR RGB="#beb8b2" NAME="Warm Grey 80%" />
+	<COLOR RGB="#c6c1bb" NAME="Warm Grey 70%" />
+	<COLOR RGB="#cecac5" NAME="Warm Grey 60%" />
+	<COLOR RGB="#d6d3cf" NAME="Warm Grey 50%" />
+	<COLOR RGB="#dad7d3" NAME="Warm Grey 45%" />
+	<COLOR RGB="#dedbd8" NAME="Warm Grey 40%" />
+	<COLOR RGB="#e2e0dd" NAME="Warm Grey 35%" />
+	<COLOR RGB="#e6e4e2" NAME="Warm Grey 30%" />
+	<COLOR RGB="#eae9e7" NAME="Warm Grey 25%" />
+	<COLOR RGB="#eeedeb" NAME="Warm Grey 20%" />
+	<COLOR RGB="#f2f1f0" NAME="Warm Grey 15%" />
+	<COLOR RGB="#f6f6f5" NAME="Warm Grey 10%" />
+</SCRIBUSCOLORS>

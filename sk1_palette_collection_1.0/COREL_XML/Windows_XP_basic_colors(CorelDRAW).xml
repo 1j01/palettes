@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+Palette source: Microsoft
+The palette colors are from color choose dialog.
+
+-->
+<palette guid="c6912890-15a2-11e5-a91f-e03f4985805d" name="Windows XP basic colors">
+	<colorspaces />
+	<colors>
+		<page>
+			<color cs="RGB" tints="1.0,0.501961,0.501961" name="#FF8080" />
+			<color cs="RGB" tints="1.0,1.0,0.501961" name="#FFFF80" />
+			<color cs="RGB" tints="0.501961,1.0,0.501961" name="#80FF80" />
+			<color cs="RGB" tints="0.0,1.0,0.501961" name="#00FF80" />
+			<color cs="RGB" tints="0.501961,1.0,1.0" name="#80FFFF" />
+			<color cs="RGB" tints="0.0,0.501961,1.0" name="#0080FF" />
+			<color cs="RGB" tints="1.0,0.501961,0.752941" name="#FF80C0" />
+			<color cs="RGB" tints="1.0,0.501961,1.0" name="#FF80FF" />
+			<color cs="RGB" tints="1.0,0.0,0.0" name="#FF0000" />
+			<color cs="RGB" tints="1.0,1.0,0.0" name="#FFFF00" />
+			<color cs="RGB" tints="0.501961,1.0,0.0" name="#80FF00" />
+			<color cs="RGB" tints="0.0,1.0,0.25098" name="#00FF40" />
+			<color cs="RGB" tints="0.0,1.0,1.0" name="#00FFFF" />
+			<color cs="RGB" tints="0.0,0.501961,0.752941" name="#0080C0" />
+			<color cs="RGB" tints="0.501961,0.501961,0.752941" name="#8080C0" />
+			<color cs="RGB" tints="1.0,0.0,1.0" name="#FF00FF" />
+			<color cs="RGB" tints="0.501961,0.25098,0.25098" name="#804040" />
+			<color cs="RGB" tints="1.0,0.501961,0.25098" name="#FF8040" />
+			<color cs="RGB" tints="0.0,1.0,0.0" name="#00FF00" />
+			<color cs="RGB" tints="0.0,0.501961,0.501961" name="#008080" />
+			<color cs="RGB" tints="0.0,0.25098,0.501961" name="#004080" />
+			<color cs="RGB" tints="0.501961,0.501961,1.0" name="#8080FF" />
+			<color cs="RGB" tints="0.501961,0.0,0.25098" name="#800040" />
+			<color cs="RGB" tints="1.0,0.0,0.501961" name="#FF0080" />
+			<color cs="RGB" tints="0.501961,0.0,0.0" name="#800000" />
+			<color cs="RGB" tints="1.0,0.501961,0.0" name="#FF8000" />
+			<color cs="RGB" tints="0.0,0.501961,0.0" name="#008000" />
+			<color cs="RGB" tints="0.0,0.501961,0.25098" name="#008040" />
+			<color cs="RGB" tints="0.0,0.0,1.0" name="#0000FF" />
+			<color cs="RGB" tints="0.0,0.0,0.627451" name="#0000A0" />
+			<color cs="RGB" tints="0.501961,0.0,0.501961" name="#800080" />
+			<color cs="RGB" tints="0.501961,0.0,1.0" name="#8000FF" />
+			<color cs="RGB" tints="0.25098,0.0,0.0" name="#400000" />
+			<color cs="RGB" tints="0.501961,0.25098,0.0" name="#804000" />
+			<color cs="RGB" tints="0.0,0.25098,0.0" name="#004000" />
+			<color cs="RGB" tints="0.0,0.25098,0.25098" name="#004040" />
+			<color cs="RGB" tints="0.0,0.0,0.501961" name="#000080" />
+			<color cs="RGB" tints="0.0,0.0,0.25098" name="#000040" />
+			<color cs="RGB" tints="0.25098,0.0,0.25098" name="#400040" />
+			<color cs="RGB" tints="0.25098,0.0,0.501961" name="#400080" />
+			<color cs="RGB" tints="0.0,0.0,0.0" name="#000000" />
+			<color cs="RGB" tints="0.501961,0.501961,0.0" name="#808000" />
+			<color cs="RGB" tints="0.501961,0.501961,0.25098" name="#808040" />
+			<color cs="RGB" tints="0.501961,0.501961,0.501961" name="#808080" />
+			<color cs="RGB" tints="0.25098,0.501961,0.501961" name="#408080" />
+			<color cs="RGB" tints="0.752941,0.752941,0.752941" name="#C0C0C0" />
+			<color cs="RGB" tints="0.25098,0.0,0.25098" name="#400040" />
+			<color cs="RGB" tints="1.0,1.0,1.0" name="#FFFFFF" />
+		</page>
+	</colors>
+	<localization />
+</palette>

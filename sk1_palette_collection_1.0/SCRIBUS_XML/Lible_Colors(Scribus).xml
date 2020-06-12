@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Palette source: Document Foundation
+The palette is published here:
+http://luxate.blogspot.com/2010/10/united-colors-of-liberty.html
+-->
+<SCRIBUSCOLORS Name="Lible Colors" >
+	<COLOR RGB="#18a303" NAME="LibreGreen" />
+	<COLOR RGB="#2cee0e" NAME="#2CEE0E" />
+	<COLOR RGB="#84f671" NAME="#84F671" />
+	<COLOR RGB="#c2f6ba" NAME="#C2F6BA" />
+	<COLOR RGB="#0369a3" NAME="LibreBlue" />
+	<COLOR RGB="#0e9cee" NAME="#0E9CEE" />
+	<COLOR RGB="#49bafb" NAME="#49BAFB" />
+	<COLOR RGB="#9fd7f6" NAME="#9FD7F6" />
+	<COLOR RGB="#a33e03" NAME="LibreMaroon" />
+	<COLOR RGB="#f25f0a" NAME="#F25F0A" />
+	<COLOR RGB="#fc9b63" NAME="#FC9B63" />
+	<COLOR RGB="#f8c9ac" NAME="#F8C9AC" />
+	<COLOR RGB="#8c03a1" NAME="LibrePurple" />
+	<COLOR RGB="#cf42e4" NAME="#CF42E4" />
+	<COLOR RGB="#db76ea" NAME="#DB76EA" />
+	<COLOR RGB="#f2c4fa" NAME="#F2C4FA" />
+</SCRIBUSCOLORS>

@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+Palette source: Canonical
+The palette is published here:
+http://design.ubuntu.com/brand/colour-palette
+
+-->
+<palette guid="c676f16e-15a2-11e5-a91f-e03f4985805d" name="Ubuntu color tints">
+	<colorspaces />
+	<colors>
+		<page>
+			<color cs="RGB" tints="0.866667,0.282353,0.078431" name="Ubuntu Orange 100%" />
+			<color cs="RGB" tints="0.878431,0.352941,0.168627" name="Ubuntu Orange 90%" />
+			<color cs="RGB" tints="0.890196,0.423529,0.262745" name="Ubuntu Orange 80%" />
+			<color cs="RGB" tints="0.905882,0.494118,0.352941" name="Ubuntu Orange 70%" />
+			<color cs="RGB" tints="0.917647,0.568627,0.447059" name="Ubuntu Orange 60%" />
+			<color cs="RGB" tints="0.933333,0.639216,0.537255" name="Ubuntu Orange 50%" />
+			<color cs="RGB" tints="0.937255,0.67451,0.584314" name="Ubuntu Orange 45%" />
+			<color cs="RGB" tints="0.945098,0.709804,0.631373" name="Ubuntu Orange 40%" />
+			<color cs="RGB" tints="0.952941,0.745098,0.67451" name="Ubuntu Orange 35%" />
+			<color cs="RGB" tints="0.956863,0.784314,0.721569" name="Ubuntu Orange 30%" />
+			<color cs="RGB" tints="0.964706,0.819608,0.768627" name="Ubuntu Orange 25%" />
+			<color cs="RGB" tints="0.972549,0.854902,0.815686" name="Ubuntu Orange 20%" />
+			<color cs="RGB" tints="0.976471,0.890196,0.858824" name="Ubuntu Orange 15%" />
+			<color cs="RGB" tints="0.984314,0.92549,0.905882" name="Ubuntu Orange 10%" />
+			<color cs="RGB" tints="0.466667,0.160784,0.32549" name="Canonical Aubergine 100%" />
+			<color cs="RGB" tints="0.517647,0.243137,0.392157" name="Canonical Aubergine 90%" />
+			<color cs="RGB" tints="0.572549,0.32549,0.458824" name="Canonical Aubergine 80%" />
+			<color cs="RGB" tints="0.623529,0.411765,0.52549" name="Canonical Aubergine 70%" />
+			<color cs="RGB" tints="0.678431,0.494118,0.592157" name="Canonical Aubergine 60%" />
+			<color cs="RGB" tints="0.733333,0.580392,0.662745" name="Canonical Aubergine 50%" />
+			<color cs="RGB" tints="0.756863,0.619608,0.694118" name="Canonical Aubergine 45%" />
+			<color cs="RGB" tints="0.784314,0.662745,0.729412" name="Canonical Aubergine 40%" />
+			<color cs="RGB" tints="0.811765,0.705882,0.760784" name="Canonical Aubergine 35%" />
+			<color cs="RGB" tints="0.839216,0.745098,0.796078" name="Canonical Aubergine 30%" />
+			<color cs="RGB" tints="0.866667,0.788235,0.831373" name="Canonical Aubergine 25%" />
+			<color cs="RGB" tints="0.890196,0.831373,0.862745" name="Canonical Aubergine 20%" />
+			<color cs="RGB" tints="0.917647,0.870588,0.898039" name="Canonical Aubergine 15%" />
+			<color cs="RGB" tints="0.945098,0.913725,0.929412" name="Canonical Aubergine 10%" />
+			<color cs="RGB" tints="0.466667,0.129412,0.435294" name="Light Aubergine 100%" />
+			<color cs="RGB" tints="0.517647,0.215686,0.490196" name="Light Aubergine 90%" />
+			<color cs="RGB" tints="0.572549,0.301961,0.545098" name="Light Aubergine 80%" />
+			<color cs="RGB" tints="0.623529,0.388235,0.603922" name="Light Aubergine 70%" />
+			<color cs="RGB" tints="0.678431,0.47451,0.658824" name="Light Aubergine 60%" />
+			<color cs="RGB" tints="0.733333,0.564706,0.717647" name="Light Aubergine 50%" />
+			<color cs="RGB" tints="0.756863,0.607843,0.745098" name="Light Aubergine 45%" />
+			<color cs="RGB" tints="0.784314,0.65098,0.772549" name="Light Aubergine 40%" />
+			<color cs="RGB" tints="0.811765,0.694118,0.8" name="Light Aubergine 35%" />
+			<color cs="RGB" tints="0.839216,0.737255,0.827451" name="Light Aubergine 30%" />
+			<color cs="RGB" tints="0.866667,0.780392,0.858824" name="Light Aubergine 25%" />
+			<color cs="RGB" tints="0.890196,0.823529,0.886275" name="Light Aubergine 20%" />
+			<color cs="RGB" tints="0.917647,0.866667,0.913725" name="Light Aubergine 15%" />
+			<color cs="RGB" tints="0.945098,0.909804,0.941176" name="Light Aubergine 10%" />
+			<color cs="RGB" tints="0.368627,0.152941,0.313725" name="Mid Aubergine 100%" />
+			<color cs="RGB" tints="0.431373,0.235294,0.380392" name="Mid Aubergine 90%" />
+			<color cs="RGB" tints="0.494118,0.321569,0.45098" name="Mid Aubergine 80%" />
+			<color cs="RGB" tints="0.556863,0.403922,0.517647" name="Mid Aubergine 70%" />
+			<color cs="RGB" tints="0.619608,0.490196,0.588235" name="Mid Aubergine 60%" />
+			<color cs="RGB" tints="0.682353,0.576471,0.654902" name="Mid Aubergine 50%" />
+			<color cs="RGB" tints="0.713725,0.615686,0.690196" name="Mid Aubergine 45%" />
+			<color cs="RGB" tints="0.745098,0.658824,0.72549" name="Mid Aubergine 40%" />
+			<color cs="RGB" tints="0.776471,0.701961,0.756863" name="Mid Aubergine 35%" />
+			<color cs="RGB" tints="0.807843,0.745098,0.792157" name="Mid Aubergine 30%" />
+			<color cs="RGB" tints="0.839216,0.788235,0.827451" name="Mid Aubergine 25%" />
+			<color cs="RGB" tints="0.870588,0.827451,0.862745" name="Mid Aubergine 20%" />
+			<color cs="RGB" tints="0.901961,0.870588,0.894118" name="Mid Aubergine 15%" />
+			<color cs="RGB" tints="0.933333,0.913725,0.929412" name="Mid Aubergine 10%" />
+			<color cs="RGB" tints="0.172549,0.0,0.117647" name="Dark Aubergine 100%" />
+			<color cs="RGB" tints="0.254902,0.098039,0.203922" name="Dark Aubergine 90%" />
+			<color cs="RGB" tints="0.337255,0.2,0.294118" name="Dark Aubergine 80%" />
+			<color cs="RGB" tints="0.419608,0.298039,0.380392" name="Dark Aubergine 70%" />
+			<color cs="RGB" tints="0.501961,0.4,0.470588" name="Dark Aubergine 60%" />
+			<color cs="RGB" tints="0.584314,0.498039,0.556863" name="Dark Aubergine 50%" />
+			<color cs="RGB" tints="0.627451,0.54902,0.6" name="Dark Aubergine 45%" />
+			<color cs="RGB" tints="0.666667,0.6,0.647059" name="Dark Aubergine 40%" />
+			<color cs="RGB" tints="0.709804,0.647059,0.690196" name="Dark Aubergine 35%" />
+			<color cs="RGB" tints="0.74902,0.698039,0.733333" name="Dark Aubergine 30%" />
+			<color cs="RGB" tints="0.792157,0.74902,0.776471" name="Dark Aubergine 25%" />
+			<color cs="RGB" tints="0.831373,0.8,0.823529" name="Dark Aubergine 20%" />
+			<color cs="RGB" tints="0.87451,0.847059,0.866667" name="Dark Aubergine 15%" />
+			<color cs="RGB" tints="0.913725,0.898039,0.909804" name="Dark Aubergine 10%" />
+			<color cs="RGB" tints="0.682353,0.654902,0.623529" name="Warm Grey 100%" />
+			<color cs="RGB" tints="0.713725,0.686275,0.658824" name="Warm Grey 90%" />
+			<color cs="RGB" tints="0.745098,0.721569,0.698039" name="Warm Grey 80%" />
+			<color cs="RGB" tints="0.776471,0.756863,0.733333" name="Warm Grey 70%" />
+			<color cs="RGB" tints="0.807843,0.792157,0.772549" name="Warm Grey 60%" />
+			<color cs="RGB" tints="0.839216,0.827451,0.811765" name="Warm Grey 50%" />
+			<color cs="RGB" tints="0.854902,0.843137,0.827451" name="Warm Grey 45%" />
+			<color cs="RGB" tints="0.870588,0.858824,0.847059" name="Warm Grey 40%" />
+			<color cs="RGB" tints="0.886275,0.878431,0.866667" name="Warm Grey 35%" />
+			<color cs="RGB" tints="0.901961,0.894118,0.886275" name="Warm Grey 30%" />
+			<color cs="RGB" tints="0.917647,0.913725,0.905882" name="Warm Grey 25%" />
+			<color cs="RGB" tints="0.933333,0.929412,0.921569" name="Warm Grey 20%" />
+			<color cs="RGB" tints="0.94902,0.945098,0.941176" name="Warm Grey 15%" />
+			<color cs="RGB" tints="0.964706,0.964706,0.960784" name="Warm Grey 10%" />
+		</page>
+	</colors>
+	<localization />
+</palette>

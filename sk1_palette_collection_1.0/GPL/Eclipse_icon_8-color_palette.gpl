@@ -1,0 +1,16 @@
+GIMP Palette
+Name: Eclipse icon 8-color palette
+#
+# Palette source: IBM Corp.
+# Use the Eclipse 8 color palette for creating the enabled state of perspective, view, toolbar, toolbar wizard, and local toolbar icons.
+# The palette is published here: 
+# https://eclipse.org/articles/Article-UI-Guidelines/Contents.html
+#
+ 63  63  95	#3F3F5F
+ 92  92  92	#5C5C5C
+130 130 130	#828282
+159 159 159	#9F9F9F
+191 191 191	#BFBFBF
+223 223 191	#DFDFBF
+  0   0   0	#000000
+255 255 255	#FFFFFF

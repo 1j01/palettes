@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Palette source: openSUSE
+The palette is published here:
+https://en.opensuse.org/Help:Colors
+
+-->
+<office:color-table xmlns:form="http://openoffice.org/2000/form" xmlns:number="http://openoffice.org/2000/datastyle" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:office="http://openoffice.org/2000/office" xmlns:meta="http://openoffice.org/2000/meta" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:svg="http://www.w3.org/2000/svg" xmlns:dr3d="http://openoffice.org/2000/dr3d" xmlns:text="http://openoffice.org/2000/text" xmlns:style="http://openoffice.org/2000/style" xmlns:script="http://openoffice.org/2000/script" xmlns:chart="http://openoffice.org/2000/chart" xmlns:draw="http://openoffice.org/2000/drawing" xmlns:table="http://openoffice.org/2000/table" xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:config="http://openoffice.org/2001/config" xmlns:dc="http://purl.org/dc/elements/1.1/">
+ <draw:color draw:name="Light Orange" draw:color="#fcae1b"/>
+ <draw:color draw:name="Dark Orange" draw:color="#e35001"/>
+ <draw:color draw:name="Light Butter" draw:color="#ffff66"/>
+ <draw:color draw:name="Dark Butter" draw:color="#b2b247"/>
+ <draw:color draw:name="Light Lemon" draw:color="#94d006"/>
+ <draw:color draw:name="Dark Lemon" draw:color="#227808"/>
+ <draw:color draw:name="Light Plum" draw:color="#d4c4ff"/>
+ <draw:color draw:name="Dark Plum" draw:color="#4c4466"/>
+ <draw:color draw:name="Light Sky" draw:color="#5082ff"/>
+ <draw:color draw:name="Dark Sky" draw:color="#000074"/>
+ <draw:color draw:name="Light Dust" draw:color="#babdb7"/>
+ <draw:color draw:name="Dark Dust" draw:color="#2e3436"/>
+ <draw:color draw:name="Light Blood" draw:color="#ff4d4d"/>
+ <draw:color draw:name="Dark Blood" draw:color="#8c0000"/>
+</office:color-table>

@@ -1,0 +1,264 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Palette source: Google
+The palette is published here:
+https://www.google.com/design/spec/style/color.html
+-->
+<SCRIBUSCOLORS Name="Google Material design palette" >
+	<COLOR RGB="#f44336" NAME="Red 500 - Primary" />
+	<COLOR RGB="#ffebee" NAME="Red 50" />
+	<COLOR RGB="#ffcdd2" NAME="Red 100" />
+	<COLOR RGB="#ef9a9a" NAME="Red 200" />
+	<COLOR RGB="#e57373" NAME="Red 300" />
+	<COLOR RGB="#ef5350" NAME="Red 400" />
+	<COLOR RGB="#e53935" NAME="Red 600" />
+	<COLOR RGB="#d32f2f" NAME="Red 700" />
+	<COLOR RGB="#c62828" NAME="Red 800" />
+	<COLOR RGB="#b71c1c" NAME="Red 900" />
+	<COLOR RGB="#ff8a80" NAME="Red A100" />
+	<COLOR RGB="#ff5252" NAME="Red A200" />
+	<COLOR RGB="#ff1744" NAME="Red A400" />
+	<COLOR RGB="#d50000" NAME="Red A700" />
+	<COLOR RGB="#e91e63" NAME="Pink 500 - Primary" />
+	<COLOR RGB="#fce4ec" NAME="Pink 50" />
+	<COLOR RGB="#f8bbd0" NAME="Pink 100" />
+	<COLOR RGB="#f48fb1" NAME="Pink 200" />
+	<COLOR RGB="#f06292" NAME="Pink 300" />
+	<COLOR RGB="#ec407a" NAME="Pink 400" />
+	<COLOR RGB="#d81b60" NAME="Pink 600" />
+	<COLOR RGB="#c2185b" NAME="Pink 700" />
+	<COLOR RGB="#ad1457" NAME="Pink 800" />
+	<COLOR RGB="#880e4f" NAME="Pink 900" />
+	<COLOR RGB="#ff80ab" NAME="Pink A100" />
+	<COLOR RGB="#ff4081" NAME="Pink A200" />
+	<COLOR RGB="#f50057" NAME="Pink A400" />
+	<COLOR RGB="#c51162" NAME="Pink A700" />
+	<COLOR RGB="#9c27b0" NAME="Purple 500 - Primary" />
+	<COLOR RGB="#f3e5f5" NAME="Purple 50" />
+	<COLOR RGB="#e1bee7" NAME="Purple 100" />
+	<COLOR RGB="#ce93d8" NAME="Purple 200" />
+	<COLOR RGB="#ba68c8" NAME="Purple 300" />
+	<COLOR RGB="#ab47bc" NAME="Purple 400" />
+	<COLOR RGB="#8e24aa" NAME="Purple 600" />
+	<COLOR RGB="#7b1fa2" NAME="Purple 700" />
+	<COLOR RGB="#6a1b9a" NAME="Purple 800" />
+	<COLOR RGB="#4a148c" NAME="Purple 900" />
+	<COLOR RGB="#ea80fc" NAME="Purple A100" />
+	<COLOR RGB="#e040fb" NAME="Purple A200" />
+	<COLOR RGB="#d500f9" NAME="Purple A400" />
+	<COLOR RGB="#aa00ff" NAME="Purple A700" />
+	<COLOR RGB="#673ab7" NAME="Deep Purple 500 - Primary" />
+	<COLOR RGB="#ede7f6" NAME="Deep Purple 50" />
+	<COLOR RGB="#d1c4e9" NAME="Deep Purple 100" />
+	<COLOR RGB="#b39ddb" NAME="Deep Purple 200" />
+	<COLOR RGB="#9575cd" NAME="Deep Purple 300" />
+	<COLOR RGB="#7e57c2" NAME="Deep Purple 400" />
+	<COLOR RGB="#5e35b1" NAME="Deep Purple 600" />
+	<COLOR RGB="#512da8" NAME="Deep Purple 700" />
+	<COLOR RGB="#4527a0" NAME="Deep Purple 800" />
+	<COLOR RGB="#311b92" NAME="Deep Purple 900" />
+	<COLOR RGB="#b388ff" NAME="Deep Purple A100" />
+	<COLOR RGB="#7c4dff" NAME="Deep Purple A200" />
+	<COLOR RGB="#651fff" NAME="Deep Purple A400" />
+	<COLOR RGB="#6200ea" NAME="Deep Purple A700" />
+	<COLOR RGB="#3f51b5" NAME="Indigo 500 - Primary" />
+	<COLOR RGB="#e8eaf6" NAME="Indigo 50" />
+	<COLOR RGB="#c5cae9" NAME="Indigo 100" />
+	<COLOR RGB="#9fa8da" NAME="Indigo 200" />
+	<COLOR RGB="#7986cb" NAME="Indigo 300" />
+	<COLOR RGB="#5c6bc0" NAME="Indigo 400" />
+	<COLOR RGB="#3949ab" NAME="Indigo 600" />
+	<COLOR RGB="#303f9f" NAME="Indigo 700" />
+	<COLOR RGB="#283593" NAME="Indigo 800" />
+	<COLOR RGB="#1a237e" NAME="Indigo 900" />
+	<COLOR RGB="#8c9eff" NAME="Indigo A100" />
+	<COLOR RGB="#536dfe" NAME="Indigo A200" />
+	<COLOR RGB="#3d5afe" NAME="Indigo A400" />
+	<COLOR RGB="#304ffe" NAME="Indigo A700" />
+	<COLOR RGB="#2196f3" NAME="Blue 500" />
+	<COLOR RGB="#e3f2fd" NAME="Blue 50" />
+	<COLOR RGB="#bbdefb" NAME="Blue 100" />
+	<COLOR RGB="#90caf9" NAME="Blue 200" />
+	<COLOR RGB="#64b5f6" NAME="Blue 300" />
+	<COLOR RGB="#42a5f5" NAME="Blue 400" />
+	<COLOR RGB="#1e88e5" NAME="Blue 600" />
+	<COLOR RGB="#1976d2" NAME="Blue 700" />
+	<COLOR RGB="#1565c0" NAME="Blue 800" />
+	<COLOR RGB="#0d47a1" NAME="Blue 900" />
+	<COLOR RGB="#82b1ff" NAME="Blue A100" />
+	<COLOR RGB="#448aff" NAME="Blue A200" />
+	<COLOR RGB="#2979ff" NAME="Blue A400" />
+	<COLOR RGB="#2962ff" NAME="Blue A700" />
+	<COLOR RGB="#03a9f4" NAME="Light Blue 500 - Primary" />
+	<COLOR RGB="#e1f5fe" NAME="Light Blue 50" />
+	<COLOR RGB="#b3e5fc" NAME="Light Blue 100" />
+	<COLOR RGB="#81d4fa" NAME="Light Blue 200" />
+	<COLOR RGB="#4fc3f7" NAME="Light Blue 300" />
+	<COLOR RGB="#29b6f6" NAME="Light Blue 400" />
+	<COLOR RGB="#039be5" NAME="Light Blue 600" />
+	<COLOR RGB="#0288d1" NAME="Light Blue 700" />
+	<COLOR RGB="#0277bd" NAME="Light Blue 800" />
+	<COLOR RGB="#01579b" NAME="Light Blue 900" />
+	<COLOR RGB="#80d8ff" NAME="Light Blue A100" />
+	<COLOR RGB="#40c4ff" NAME="Light Blue A200" />
+	<COLOR RGB="#00b0ff" NAME="Light Blue A400" />
+	<COLOR RGB="#0091ea" NAME="Light Blue A700" />
+	<COLOR RGB="#00bcd4" NAME="Cyan 500 - Primary" />
+	<COLOR RGB="#e0f7fa" NAME="Cyan 50" />
+	<COLOR RGB="#b2ebf2" NAME="Cyan 100" />
+	<COLOR RGB="#80deea" NAME="Cyan 200" />
+	<COLOR RGB="#4dd0e1" NAME="Cyan 300" />
+	<COLOR RGB="#26c6da" NAME="Cyan 400" />
+	<COLOR RGB="#00acc1" NAME="Cyan 600" />
+	<COLOR RGB="#0097a7" NAME="Cyan 700" />
+	<COLOR RGB="#00838f" NAME="Cyan 800" />
+	<COLOR RGB="#006064" NAME="Cyan 900" />
+	<COLOR RGB="#84ffff" NAME="Cyan A100" />
+	<COLOR RGB="#18ffff" NAME="Cyan A200" />
+	<COLOR RGB="#00e5ff" NAME="Cyan A400" />
+	<COLOR RGB="#00b8d4" NAME="Cyan A700" />
+	<COLOR RGB="#009688" NAME="Teal 500 - Primary" />
+	<COLOR RGB="#e0f2f1" NAME="Teal 50" />
+	<COLOR RGB="#b2dfdb" NAME="Teal 100" />
+	<COLOR RGB="#80cbc4" NAME="Teal 200" />
+	<COLOR RGB="#4db6ac" NAME="Teal 300" />
+	<COLOR RGB="#26a69a" NAME="Teal 400" />
+	<COLOR RGB="#00897b" NAME="Teal 600" />
+	<COLOR RGB="#00796b" NAME="Teal 700" />
+	<COLOR RGB="#00695c" NAME="Teal 800" />
+	<COLOR RGB="#004d40" NAME="Teal 900" />
+	<COLOR RGB="#a7ffeb" NAME="Teal A100" />
+	<COLOR RGB="#64ffda" NAME="Teal A200" />
+	<COLOR RGB="#1de9b6" NAME="Teal A400" />
+	<COLOR RGB="#00bfa5" NAME="Teal A700" />
+	<COLOR RGB="#4caf50" NAME="Green 500" />
+	<COLOR RGB="#e8f5e9" NAME="Green 50" />
+	<COLOR RGB="#c8e6c9" NAME="Green 100" />
+	<COLOR RGB="#a5d6a7" NAME="Green 200" />
+	<COLOR RGB="#81c784" NAME="Green 300" />
+	<COLOR RGB="#66bb6a" NAME="Green 400" />
+	<COLOR RGB="#43a047" NAME="Green 600" />
+	<COLOR RGB="#388e3c" NAME="Green 700" />
+	<COLOR RGB="#2e7d32" NAME="Green 800" />
+	<COLOR RGB="#1b5e20" NAME="Green 900" />
+	<COLOR RGB="#b9f6ca" NAME="Green A100" />
+	<COLOR RGB="#69f0ae" NAME="Green A200" />
+	<COLOR RGB="#00e676" NAME="Green A400" />
+	<COLOR RGB="#00c853" NAME="Green A700" />
+	<COLOR RGB="#8bc34a" NAME="Light Green 500 - Primary" />
+	<COLOR RGB="#f1f8e9" NAME="Light Green 50" />
+	<COLOR RGB="#dcedc8" NAME="Light Green 100" />
+	<COLOR RGB="#c5e1a5" NAME="Light Green 200" />
+	<COLOR RGB="#aed581" NAME="Light Green 300" />
+	<COLOR RGB="#9ccc65" NAME="Light Green 400" />
+	<COLOR RGB="#7cb342" NAME="Light Green 600" />
+	<COLOR RGB="#689f38" NAME="Light Green 700" />
+	<COLOR RGB="#558b2f" NAME="Light Green 800" />
+	<COLOR RGB="#33691e" NAME="Light Green 900" />
+	<COLOR RGB="#ccff90" NAME="Light Green A100" />
+	<COLOR RGB="#b2ff59" NAME="Light Green A200" />
+	<COLOR RGB="#76ff03" NAME="Light Green A400" />
+	<COLOR RGB="#64dd17" NAME="Light Green A700" />
+	<COLOR RGB="#cddc39" NAME="Lime 500 - Primary" />
+	<COLOR RGB="#f9fbe7" NAME="Lime 50" />
+	<COLOR RGB="#f0f4c3" NAME="Lime 100" />
+	<COLOR RGB="#e6ee9c" NAME="Lime 200" />
+	<COLOR RGB="#dce775" NAME="Lime 300" />
+	<COLOR RGB="#d4e157" NAME="Lime 400" />
+	<COLOR RGB="#c0ca33" NAME="Lime 600" />
+	<COLOR RGB="#afb42b" NAME="Lime 700" />
+	<COLOR RGB="#9e9d24" NAME="Lime 800" />
+	<COLOR RGB="#827717" NAME="Lime 900" />
+	<COLOR RGB="#f4ff81" NAME="Lime A100" />
+	<COLOR RGB="#eeff41" NAME="Lime A200" />
+	<COLOR RGB="#c6ff00" NAME="Lime A400" />
+	<COLOR RGB="#aeea00" NAME="Lime A700" />
+	<COLOR RGB="#ffeb3b" NAME="Yellow 500 - Primary" />
+	<COLOR RGB="#fffde7" NAME="Yellow 50" />
+	<COLOR RGB="#fff9c4" NAME="Yellow 100" />
+	<COLOR RGB="#fff59d" NAME="Yellow 200" />
+	<COLOR RGB="#fff176" NAME="Yellow 300" />
+	<COLOR RGB="#ffee58" NAME="Yellow 400" />
+	<COLOR RGB="#fdd835" NAME="Yellow 600" />
+	<COLOR RGB="#fbc02d" NAME="Yellow 700" />
+	<COLOR RGB="#f9a825" NAME="Yellow 800" />
+	<COLOR RGB="#f57f17" NAME="Yellow 900" />
+	<COLOR RGB="#ffff8d" NAME="Yellow A100" />
+	<COLOR RGB="#ffff00" NAME="Yellow A200" />
+	<COLOR RGB="#ffea00" NAME="Yellow A400" />
+	<COLOR RGB="#ffd600" NAME="Yellow A700" />
+	<COLOR RGB="#ffc107" NAME="Amber 500" />
+	<COLOR RGB="#fff8e1" NAME="Amber 50" />
+	<COLOR RGB="#ffecb3" NAME="Amber 100" />
+	<COLOR RGB="#ffe082" NAME="Amber 200" />
+	<COLOR RGB="#ffd54f" NAME="Amber 300" />
+	<COLOR RGB="#ffca28" NAME="Amber 400" />
+	<COLOR RGB="#ffb300" NAME="Amber 600" />
+	<COLOR RGB="#ffa000" NAME="Amber 700" />
+	<COLOR RGB="#ff8f00" NAME="Amber 800" />
+	<COLOR RGB="#ff6f00" NAME="Amber 900" />
+	<COLOR RGB="#ffe57f" NAME="Amber A100" />
+	<COLOR RGB="#ffd740" NAME="Amber A200" />
+	<COLOR RGB="#ffc400" NAME="Amber A400" />
+	<COLOR RGB="#ffab00" NAME="Amber A700" />
+	<COLOR RGB="#ff9800" NAME="Orange 500 - Primary" />
+	<COLOR RGB="#fff3e0" NAME="Orange 50" />
+	<COLOR RGB="#ffe0b2" NAME="Orange 100" />
+	<COLOR RGB="#ffcc80" NAME="Orange 200" />
+	<COLOR RGB="#ffb74d" NAME="Orange 300" />
+	<COLOR RGB="#ffa726" NAME="Orange 400" />
+	<COLOR RGB="#fb8c00" NAME="Orange 600" />
+	<COLOR RGB="#f57c00" NAME="Orange 700" />
+	<COLOR RGB="#ef6c00" NAME="Orange 800" />
+	<COLOR RGB="#e65100" NAME="Orange 900" />
+	<COLOR RGB="#ffd180" NAME="Orange A100" />
+	<COLOR RGB="#ffab40" NAME="Orange A200" />
+	<COLOR RGB="#ff9100" NAME="Orange A400" />
+	<COLOR RGB="#ff6d00" NAME="Orange A700" />
+	<COLOR RGB="#ff5722" NAME="Deep Orange 500 - Primary" />
+	<COLOR RGB="#fbe9e7" NAME="Deep Orange 50" />
+	<COLOR RGB="#ffccbc" NAME="Deep Orange 100" />
+	<COLOR RGB="#ffab91" NAME="Deep Orange 200" />
+	<COLOR RGB="#ff8a65" NAME="Deep Orange 300" />
+	<COLOR RGB="#ff7043" NAME="Deep Orange 400" />
+	<COLOR RGB="#f4511e" NAME="Deep Orange 600" />
+	<COLOR RGB="#e64a19" NAME="Deep Orange 700" />
+	<COLOR RGB="#d84315" NAME="Deep Orange 800" />
+	<COLOR RGB="#bf360c" NAME="Deep Orange 900" />
+	<COLOR RGB="#ff9e80" NAME="Deep Orange A100" />
+	<COLOR RGB="#ff6e40" NAME="Deep Orange A200" />
+	<COLOR RGB="#ff3d00" NAME="Deep Orange A400" />
+	<COLOR RGB="#dd2c00" NAME="Deep Orange A700" />
+	<COLOR RGB="#9e9e9e" NAME="Grey 500 - Primary" />
+	<COLOR RGB="#fafafa" NAME="Grey 50" />
+	<COLOR RGB="#f5f5f5" NAME="Grey 100" />
+	<COLOR RGB="#eeeeee" NAME="Grey 200" />
+	<COLOR RGB="#e0e0e0" NAME="Grey 300" />
+	<COLOR RGB="#bdbdbd" NAME="Grey 400" />
+	<COLOR RGB="#757575" NAME="Grey 600" />
+	<COLOR RGB="#616161" NAME="Grey 700" />
+	<COLOR RGB="#424242" NAME="Grey 800" />
+	<COLOR RGB="#212121" NAME="Grey 900" />
+	<COLOR RGB="#607d8b" NAME="Blue Grey 500 - Primary" />
+	<COLOR RGB="#eceff1" NAME="Blue Grey 50" />
+	<COLOR RGB="#cfd8dc" NAME="Blue Grey 100" />
+	<COLOR RGB="#b0bec5" NAME="Blue Grey 200" />
+	<COLOR RGB="#90a4ae" NAME="Blue Grey 300" />
+	<COLOR RGB="#78909c" NAME="Blue Grey 400" />
+	<COLOR RGB="#546e7a" NAME="Blue Grey 600" />
+	<COLOR RGB="#455a64" NAME="Blue Grey 700" />
+	<COLOR RGB="#37474f" NAME="Blue Grey 800" />
+	<COLOR RGB="#263238" NAME="Blue Grey 900" />
+	<COLOR RGB="#795548" NAME="Brown 500 - Primary" />
+	<COLOR RGB="#efebe9" NAME="Brown 50" />
+	<COLOR RGB="#d7ccc8" NAME="Brown 100" />
+	<COLOR RGB="#bcaaa4" NAME="Brown 200" />
+	<COLOR RGB="#a1887f" NAME="Brown 300" />
+	<COLOR RGB="#8d6e63" NAME="Brown 400" />
+	<COLOR RGB="#6d4c41" NAME="Brown 600" />
+	<COLOR RGB="#5d4037" NAME="Brown 700" />
+	<COLOR RGB="#4e342e" NAME="Brown 800" />
+	<COLOR RGB="#3e2723" NAME="Brown 900" />
+	<COLOR RGB="#000000" NAME="000000" />
+	<COLOR RGB="#ffffff" NAME="ffffff" />
+</SCRIBUSCOLORS>

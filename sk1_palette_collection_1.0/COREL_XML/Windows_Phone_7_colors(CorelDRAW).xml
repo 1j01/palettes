@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+Palette source: Microsoft
+The palette is published here:
+https://msdn.microsoft.com/library/windows/apps/ff402557(v=vs.105).aspx
+
+-->
+<palette guid="c68c3920-15a2-11e5-a91f-e03f4985805d" name="Windows Phone 7 colors">
+	<colorspaces />
+	<colors>
+		<page>
+			<color cs="RGB" tints="0.54902,0.74902,0.14902" name="Lime" />
+			<color cs="RGB" tints="0.2,0.6,0.2" name="Green" />
+			<color cs="RGB" tints="0.0,0.670588,0.662745" name="Teal" />
+			<color cs="RGB" tints="0.105882,0.631373,0.886275" name="Blue" />
+			<color cs="RGB" tints="0.666667,0.0,1.0" name="Purple" />
+			<color cs="RGB" tints="0.901961,0.443137,0.721569" name="Pink" />
+			<color cs="RGB" tints="1.0,0.0,0.592157" name="Magenta" />
+			<color cs="RGB" tints="0.898039,0.078431,0.0" name="Red" />
+			<color cs="RGB" tints="0.941176,0.588235,0.035294" name="Orange" />
+			<color cs="RGB" tints="0.627451,0.313725,0.0" name="Brown" />
+		</page>
+	</colors>
+	<localization />
+</palette>

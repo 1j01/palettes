@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+Palette source: Microsoft
+The palette is published here:
+https://msdn.microsoft.com/en-us/library/office/dn684229.aspx
+
+-->
+<palette guid="c61e460e-15a2-11e5-a91f-e03f4985805d" name="MS Office 2013 gray colors">
+	<colorspaces />
+	<colors>
+		<page>
+			<color cs="RGB" tints="0.0,0.0,0.0" name="Black" />
+			<color cs="RGB" tints="0.129412,0.129412,0.129412" name="Dark" />
+			<color cs="RGB" tints="0.2,0.2,0.2" name="Primary" />
+			<color cs="RGB" tints="0.4,0.4,0.4" name="Secondary" />
+			<color cs="RGB" tints="0.784314,0.784314,0.784314" name="Tertiary" />
+			<color cs="RGB" tints="0.917647,0.917647,0.917647" name="Light" />
+			<color cs="RGB" tints="0.956863,0.956863,0.956863" name="Lighter" />
+			<color cs="RGB" tints="1.0,1.0,1.0" name="White" />
+		</page>
+	</colors>
+	<localization />
+</palette>

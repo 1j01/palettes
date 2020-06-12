@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Palette source: Microsoft
+
+-->
+<office:color-table xmlns:form="http://openoffice.org/2000/form" xmlns:number="http://openoffice.org/2000/datastyle" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:office="http://openoffice.org/2000/office" xmlns:meta="http://openoffice.org/2000/meta" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:svg="http://www.w3.org/2000/svg" xmlns:dr3d="http://openoffice.org/2000/dr3d" xmlns:text="http://openoffice.org/2000/text" xmlns:style="http://openoffice.org/2000/style" xmlns:script="http://openoffice.org/2000/script" xmlns:chart="http://openoffice.org/2000/chart" xmlns:draw="http://openoffice.org/2000/drawing" xmlns:table="http://openoffice.org/2000/table" xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:config="http://openoffice.org/2001/config" xmlns:dc="http://purl.org/dc/elements/1.1/">
+ <draw:color draw:name="#ABABAB" draw:color="#ababab"/>
+ <draw:color draw:name="#8ACFFF" draw:color="#8acfff"/>
+ <draw:color draw:name="#F598D6" draw:color="#f598d6"/>
+ <draw:color draw:name="#F3D240" draw:color="#f3d240"/>
+ <draw:color draw:name="#ADD85F" draw:color="#add85f"/>
+ <draw:color draw:name="#78D9D9" draw:color="#78d9d9"/>
+ <draw:color draw:name="#FFAF51" draw:color="#ffaf51"/>
+ <draw:color draw:name="#FF6F6F" draw:color="#ff6f6f"/>
+ <draw:color draw:name="#F359A8" draw:color="#f359a8"/>
+ <draw:color draw:name="#47CF74" draw:color="#47cf74"/>
+ <draw:color draw:name="#C48AFF" draw:color="#c48aff"/>
+ <draw:color draw:name="#58B1FC" draw:color="#58b1fc"/>
+ <draw:color draw:name="#9898FF" draw:color="#9898ff"/>
+ <draw:color draw:name="#C3B5A8" draw:color="#c3b5a8"/>
+ <draw:color draw:name="#FCFCFC" draw:color="#fcfcfc"/>
+</office:color-table>

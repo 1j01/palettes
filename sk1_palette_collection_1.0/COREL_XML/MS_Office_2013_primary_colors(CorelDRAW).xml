@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+Palette source: Microsoft
+The palette is published here:
+https://msdn.microsoft.com/en-us/library/office/dn684229.aspx
+
+-->
+<palette guid="c61f9c0c-15a2-11e5-a91f-e03f4985805d" name="MS Office 2013 primary colors">
+	<colorspaces />
+	<colors>
+		<page>
+			<color cs="RGB" tints="0.0,0.352941,0.619608" name="Outlook Dark" />
+			<color cs="RGB" tints="0.0,0.447059,0.776471" name="Outlook Primary" />
+			<color cs="RGB" tints="0.164706,0.552941,0.831373" name="Outlook Secondary" />
+			<color cs="RGB" tints="0.803922,0.901961,0.968627" name="Outlook Light" />
+			<color cs="RGB" tints="0.039216,0.388235,0.196078" name="Excel Dark" />
+			<color cs="RGB" tints="0.129412,0.45098,0.27451" name="Excel Primary" />
+			<color cs="RGB" tints="0.262745,0.580392,0.403922" name="Excel Secondary" />
+			<color cs="RGB" tints="0.827451,0.941176,0.878431" name="Excel Light" />
+			<color cs="RGB" tints="0.721569,0.231373,0.113725" name="PowerPoint Dark" />
+			<color cs="RGB" tints="0.823529,0.278431,0.14902" name="PowerPoint Primary" />
+			<color cs="RGB" tints="0.941176,0.384314,0.243137" name="PowerPoint Secondary" />
+			<color cs="RGB" tints="0.988235,0.894118,0.862745" name="PowerPoint Light" />
+			<color cs="RGB" tints="0.098039,0.278431,0.541176" name="Word Dark" />
+			<color cs="RGB" tints="0.168627,0.341176,0.603922" name="Word Primary" />
+			<color cs="RGB" tints="0.243137,0.427451,0.709804" name="Word Secondary" />
+			<color cs="RGB" tints="0.835294,0.917647,0.94902" name="Word Light" />
+		</page>
+	</colors>
+	<localization />
+</palette>

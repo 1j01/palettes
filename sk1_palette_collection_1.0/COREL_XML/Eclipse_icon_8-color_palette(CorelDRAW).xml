@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+Palette source: IBM Corp.
+Use the Eclipse 8 color palette for creating the enabled state of perspective, view, toolbar, toolbar wizard, and local toolbar icons.
+The palette is published here: 
+https://eclipse.org/articles/Article-UI-Guidelines/Contents.html
+
+-->
+<palette guid="c6093520-15a2-11e5-a91f-e03f4985805d" name="Eclipse icon 8-color palette">
+	<colorspaces />
+	<colors>
+		<page>
+			<color cs="RGB" tints="0.247059,0.247059,0.372549" name="#3F3F5F" />
+			<color cs="RGB" tints="0.360784,0.360784,0.360784" name="#5C5C5C" />
+			<color cs="RGB" tints="0.509804,0.509804,0.509804" name="#828282" />
+			<color cs="RGB" tints="0.623529,0.623529,0.623529" name="#9F9F9F" />
+			<color cs="RGB" tints="0.74902,0.74902,0.74902" name="#BFBFBF" />
+			<color cs="RGB" tints="0.87451,0.87451,0.74902" name="#DFDFBF" />
+			<color cs="RGB" tints="0.0,0.0,0.0" name="#000000" />
+			<color cs="RGB" tints="1.0,1.0,1.0" name="#FFFFFF" />
+		</page>
+	</colors>
+	<localization />
+</palette>

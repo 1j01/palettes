@@ -1,0 +1,16 @@
+GIMP Palette
+Name: Ubuntu colors
+#
+# Palette source: Canonical
+# The palette is published here:
+# http://design.ubuntu.com/brand/colour-palette
+#
+221  72  20	Ubuntu orange
+119  41  83	Canonical aubergine
+255 255 255	White
+  0   0   0	Black
+119  33 111	Light aubergine
+ 94  39  80	Mid aubergine
+ 44   0  30	Dark aubergine
+174 167 159	Warm grey
+ 51  51  51	Cool grey

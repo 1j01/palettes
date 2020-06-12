@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Palette source: Google
+The palette is published here:
+http://developer.android.com/design/style/color.html
+
+-->
+<office:color-table xmlns:form="http://openoffice.org/2000/form" xmlns:number="http://openoffice.org/2000/datastyle" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:office="http://openoffice.org/2000/office" xmlns:meta="http://openoffice.org/2000/meta" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:svg="http://www.w3.org/2000/svg" xmlns:dr3d="http://openoffice.org/2000/dr3d" xmlns:text="http://openoffice.org/2000/text" xmlns:style="http://openoffice.org/2000/style" xmlns:script="http://openoffice.org/2000/script" xmlns:chart="http://openoffice.org/2000/chart" xmlns:draw="http://openoffice.org/2000/drawing" xmlns:table="http://openoffice.org/2000/table" xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:config="http://openoffice.org/2001/config" xmlns:dc="http://purl.org/dc/elements/1.1/">
+ <draw:color draw:name="33B5E5" draw:color="#33b5e5"/>
+ <draw:color draw:name="AA66CC" draw:color="#aa66cc"/>
+ <draw:color draw:name="99CC00" draw:color="#99cc00"/>
+ <draw:color draw:name="FFBB33" draw:color="#ffbb33"/>
+ <draw:color draw:name="FF4444" draw:color="#ff4444"/>
+ <draw:color draw:name="0099CC" draw:color="#0099cc"/>
+ <draw:color draw:name="9933CC" draw:color="#9933cc"/>
+ <draw:color draw:name="669900" draw:color="#669900"/>
+ <draw:color draw:name="FF8800" draw:color="#ff8800"/>
+ <draw:color draw:name="CC0000" draw:color="#cc0000"/>
+</office:color-table>

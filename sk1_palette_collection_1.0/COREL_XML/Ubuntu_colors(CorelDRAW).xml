@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+Palette source: Canonical
+The palette is published here:
+http://design.ubuntu.com/brand/colour-palette
+
+-->
+<palette guid="c679e37e-15a2-11e5-a91f-e03f4985805d" name="Ubuntu colors">
+	<colorspaces />
+	<colors>
+		<page>
+			<color cs="RGB" tints="0.866667,0.282353,0.078431" name="Ubuntu orange" />
+			<color cs="RGB" tints="0.466667,0.160784,0.32549" name="Canonical aubergine" />
+			<color cs="RGB" tints="1.0,1.0,1.0" name="White" />
+			<color cs="RGB" tints="0.0,0.0,0.0" name="Black" />
+			<color cs="RGB" tints="0.466667,0.129412,0.435294" name="Light aubergine" />
+			<color cs="RGB" tints="0.368627,0.152941,0.313725" name="Mid aubergine" />
+			<color cs="RGB" tints="0.172549,0.0,0.117647" name="Dark aubergine" />
+			<color cs="RGB" tints="0.682353,0.654902,0.623529" name="Warm grey" />
+			<color cs="RGB" tints="0.2,0.2,0.2" name="Cool grey" />
+		</page>
+	</colors>
+	<localization />
+</palette>

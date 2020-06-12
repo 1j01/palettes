@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+Palette source: Google
+The palette is published here:
+http://developer.android.com/design/style/color.html
+
+-->
+<palette guid="c5e51924-15a2-11e5-a91f-e03f4985805d" name="Android ICS colors">
+	<colorspaces />
+	<colors>
+		<page>
+			<color cs="RGB" tints="0.2,0.709804,0.898039" name="33B5E5" />
+			<color cs="RGB" tints="0.666667,0.4,0.8" name="AA66CC" />
+			<color cs="RGB" tints="0.6,0.8,0.0" name="99CC00" />
+			<color cs="RGB" tints="1.0,0.733333,0.2" name="FFBB33" />
+			<color cs="RGB" tints="1.0,0.266667,0.266667" name="FF4444" />
+			<color cs="RGB" tints="0.0,0.6,0.8" name="0099CC" />
+			<color cs="RGB" tints="0.6,0.2,0.8" name="9933CC" />
+			<color cs="RGB" tints="0.4,0.6,0.0" name="669900" />
+			<color cs="RGB" tints="1.0,0.533333,0.0" name="FF8800" />
+			<color cs="RGB" tints="0.8,0.0,0.0" name="CC0000" />
+		</page>
+	</colors>
+	<localization />
+</palette>

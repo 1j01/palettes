@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Palette source: Microsoft
+The palette is published here:
+https://msdn.microsoft.com/en-us/library/office/dn684229.aspx
+-->
+<SCRIBUSCOLORS Name="MS Office 2013 primary colors" >
+	<COLOR RGB="#005a9e" NAME="Outlook Dark" />
+	<COLOR RGB="#0072c6" NAME="Outlook Primary" />
+	<COLOR RGB="#2a8dd4" NAME="Outlook Secondary" />
+	<COLOR RGB="#cde6f7" NAME="Outlook Light" />
+	<COLOR RGB="#0a6332" NAME="Excel Dark" />
+	<COLOR RGB="#217346" NAME="Excel Primary" />
+	<COLOR RGB="#439467" NAME="Excel Secondary" />
+	<COLOR RGB="#d3f0e0" NAME="Excel Light" />
+	<COLOR RGB="#b83b1d" NAME="PowerPoint Dark" />
+	<COLOR RGB="#d24726" NAME="PowerPoint Primary" />
+	<COLOR RGB="#f0623e" NAME="PowerPoint Secondary" />
+	<COLOR RGB="#fce4dc" NAME="PowerPoint Light" />
+	<COLOR RGB="#19478a" NAME="Word Dark" />
+	<COLOR RGB="#2b579a" NAME="Word Primary" />
+	<COLOR RGB="#3e6db5" NAME="Word Secondary" />
+	<COLOR RGB="#d5eaf2" NAME="Word Light" />
+</SCRIBUSCOLORS>

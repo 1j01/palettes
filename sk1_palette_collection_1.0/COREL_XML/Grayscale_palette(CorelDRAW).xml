@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+Palette source: sK1 Project
+Grayscale colors for tests
+
+-->
+<palette guid="c619226e-15a2-11e5-a91f-e03f4985805d" name="Grayscale palette">
+	<colorspaces />
+	<colors>
+		<page>
+			<color cs="Gray" tints="0.0" name="0%" />
+			<color cs="Gray" tints="0.1" name="10%" />
+			<color cs="Gray" tints="0.2" name="20%" />
+			<color cs="Gray" tints="0.3" name="30%" />
+			<color cs="Gray" tints="0.4" name="40%" />
+			<color cs="Gray" tints="0.5" name="50%" />
+			<color cs="Gray" tints="0.6" name="60%" />
+			<color cs="Gray" tints="0.7" name="70%" />
+			<color cs="Gray" tints="0.8" name="80%" />
+			<color cs="Gray" tints="0.9" name="90%" />
+			<color cs="Gray" tints="1.0" name="100%" />
+		</page>
+	</colors>
+	<localization />
+</palette>

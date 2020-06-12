@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Palette source: Apple
+The palette is published here:
+https://developer.apple.com/library/ios/documentation/UserExperience/Conceptual/MobileHIG/ColorImagesText.html
+
+-->
+<office:color-table xmlns:form="http://openoffice.org/2000/form" xmlns:number="http://openoffice.org/2000/datastyle" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:office="http://openoffice.org/2000/office" xmlns:meta="http://openoffice.org/2000/meta" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:svg="http://www.w3.org/2000/svg" xmlns:dr3d="http://openoffice.org/2000/dr3d" xmlns:text="http://openoffice.org/2000/text" xmlns:style="http://openoffice.org/2000/style" xmlns:script="http://openoffice.org/2000/script" xmlns:chart="http://openoffice.org/2000/chart" xmlns:draw="http://openoffice.org/2000/drawing" xmlns:table="http://openoffice.org/2000/table" xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:config="http://openoffice.org/2001/config" xmlns:dc="http://purl.org/dc/elements/1.1/">
+ <draw:color draw:name="#5AC8FA" draw:color="#5ac8fa"/>
+ <draw:color draw:name="#FFCC00" draw:color="#ffcc00"/>
+ <draw:color draw:name="#FF9500" draw:color="#ff9500"/>
+ <draw:color draw:name="#FF2D55" draw:color="#ff2d55"/>
+ <draw:color draw:name="#007AFF" draw:color="#007aff"/>
+ <draw:color draw:name="#4CD964" draw:color="#4cd964"/>
+ <draw:color draw:name="#FF3B30" draw:color="#ff3b30"/>
+ <draw:color draw:name="#8E8E93" draw:color="#8e8e93"/>
+</office:color-table>

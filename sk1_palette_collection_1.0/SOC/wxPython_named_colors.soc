@@ -1,0 +1,638 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Palette source: wxPython
+All the palette colours are defined in wx.lib.colourdb
+
+-->
+<office:color-table xmlns:form="http://openoffice.org/2000/form" xmlns:number="http://openoffice.org/2000/datastyle" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:office="http://openoffice.org/2000/office" xmlns:meta="http://openoffice.org/2000/meta" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:svg="http://www.w3.org/2000/svg" xmlns:dr3d="http://openoffice.org/2000/dr3d" xmlns:text="http://openoffice.org/2000/text" xmlns:style="http://openoffice.org/2000/style" xmlns:script="http://openoffice.org/2000/script" xmlns:chart="http://openoffice.org/2000/chart" xmlns:draw="http://openoffice.org/2000/drawing" xmlns:table="http://openoffice.org/2000/table" xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:config="http://openoffice.org/2001/config" xmlns:dc="http://purl.org/dc/elements/1.1/">
+ <draw:color draw:name="SNOW" draw:color="#fffafa"/>
+ <draw:color draw:name="GHOST WHITE" draw:color="#f8f8ff"/>
+ <draw:color draw:name="GHOSTWHITE" draw:color="#f8f8ff"/>
+ <draw:color draw:name="WHITE SMOKE" draw:color="#f5f5f5"/>
+ <draw:color draw:name="WHITESMOKE" draw:color="#f5f5f5"/>
+ <draw:color draw:name="GAINSBORO" draw:color="#dcdcdc"/>
+ <draw:color draw:name="FLORAL WHITE" draw:color="#fffaf0"/>
+ <draw:color draw:name="FLORALWHITE" draw:color="#fffaf0"/>
+ <draw:color draw:name="OLD LACE" draw:color="#fdf5e6"/>
+ <draw:color draw:name="OLDLACE" draw:color="#fdf5e6"/>
+ <draw:color draw:name="LINEN" draw:color="#faf0e6"/>
+ <draw:color draw:name="ANTIQUE WHITE" draw:color="#faebd7"/>
+ <draw:color draw:name="ANTIQUEWHITE" draw:color="#faebd7"/>
+ <draw:color draw:name="PAPAYA WHIP" draw:color="#ffefd5"/>
+ <draw:color draw:name="PAPAYAWHIP" draw:color="#ffefd5"/>
+ <draw:color draw:name="BLANCHED ALMOND" draw:color="#ffebcd"/>
+ <draw:color draw:name="BLANCHEDALMOND" draw:color="#ffebcd"/>
+ <draw:color draw:name="BISQUE" draw:color="#ffe4c4"/>
+ <draw:color draw:name="PEACH PUFF" draw:color="#ffdab9"/>
+ <draw:color draw:name="PEACHPUFF" draw:color="#ffdab9"/>
+ <draw:color draw:name="NAVAJO WHITE" draw:color="#ffdead"/>
+ <draw:color draw:name="NAVAJOWHITE" draw:color="#ffdead"/>
+ <draw:color draw:name="MOCCASIN" draw:color="#ffe4b5"/>
+ <draw:color draw:name="CORNSILK" draw:color="#fff8dc"/>
+ <draw:color draw:name="IVORY" draw:color="#fffff0"/>
+ <draw:color draw:name="LEMON CHIFFON" draw:color="#fffacd"/>
+ <draw:color draw:name="LEMONCHIFFON" draw:color="#fffacd"/>
+ <draw:color draw:name="SEASHELL" draw:color="#fff5ee"/>
+ <draw:color draw:name="HONEYDEW" draw:color="#f0fff0"/>
+ <draw:color draw:name="MINT CREAM" draw:color="#f5fffa"/>
+ <draw:color draw:name="MINTCREAM" draw:color="#f5fffa"/>
+ <draw:color draw:name="AZURE" draw:color="#f0ffff"/>
+ <draw:color draw:name="ALICE BLUE" draw:color="#f0f8ff"/>
+ <draw:color draw:name="ALICEBLUE" draw:color="#f0f8ff"/>
+ <draw:color draw:name="LAVENDER" draw:color="#e6e6fa"/>
+ <draw:color draw:name="LAVENDER BLUSH" draw:color="#fff0f5"/>
+ <draw:color draw:name="LAVENDERBLUSH" draw:color="#fff0f5"/>
+ <draw:color draw:name="MISTY ROSE" draw:color="#ffe4e1"/>
+ <draw:color draw:name="MISTYROSE" draw:color="#ffe4e1"/>
+ <draw:color draw:name="WHITE" draw:color="#ffffff"/>
+ <draw:color draw:name="BLACK" draw:color="#000000"/>
+ <draw:color draw:name="DARK SLATE GREY" draw:color="#2f4f4f"/>
+ <draw:color draw:name="DARKSLATEGREY" draw:color="#2f4f4f"/>
+ <draw:color draw:name="DIM GREY" draw:color="#696969"/>
+ <draw:color draw:name="DIMGREY" draw:color="#696969"/>
+ <draw:color draw:name="SLATE GREY" draw:color="#708090"/>
+ <draw:color draw:name="SLATEGREY" draw:color="#708090"/>
+ <draw:color draw:name="LIGHT SLATE GREY" draw:color="#778899"/>
+ <draw:color draw:name="LIGHTSLATEGREY" draw:color="#778899"/>
+ <draw:color draw:name="GREY" draw:color="#bebebe"/>
+ <draw:color draw:name="LIGHT GREY" draw:color="#d3d3d3"/>
+ <draw:color draw:name="LIGHTGREY" draw:color="#d3d3d3"/>
+ <draw:color draw:name="MIDNIGHT BLUE" draw:color="#191970"/>
+ <draw:color draw:name="MIDNIGHTBLUE" draw:color="#191970"/>
+ <draw:color draw:name="NAVY" draw:color="#000080"/>
+ <draw:color draw:name="NAVY BLUE" draw:color="#000080"/>
+ <draw:color draw:name="NAVYBLUE" draw:color="#000080"/>
+ <draw:color draw:name="CORNFLOWER BLUE" draw:color="#6495ed"/>
+ <draw:color draw:name="CORNFLOWERBLUE" draw:color="#6495ed"/>
+ <draw:color draw:name="DARK SLATE BLUE" draw:color="#483d8b"/>
+ <draw:color draw:name="DARKSLATEBLUE" draw:color="#483d8b"/>
+ <draw:color draw:name="SLATE BLUE" draw:color="#6a5acd"/>
+ <draw:color draw:name="SLATEBLUE" draw:color="#6a5acd"/>
+ <draw:color draw:name="MEDIUM SLATE BLUE" draw:color="#7b68ee"/>
+ <draw:color draw:name="MEDIUMSLATEBLUE" draw:color="#7b68ee"/>
+ <draw:color draw:name="LIGHT SLATE BLUE" draw:color="#8470ff"/>
+ <draw:color draw:name="LIGHTSLATEBLUE" draw:color="#8470ff"/>
+ <draw:color draw:name="MEDIUM BLUE" draw:color="#0000cd"/>
+ <draw:color draw:name="MEDIUMBLUE" draw:color="#0000cd"/>
+ <draw:color draw:name="ROYAL BLUE" draw:color="#4169e1"/>
+ <draw:color draw:name="ROYALBLUE" draw:color="#4169e1"/>
+ <draw:color draw:name="BLUE" draw:color="#0000ff"/>
+ <draw:color draw:name="DODGER BLUE" draw:color="#1e90ff"/>
+ <draw:color draw:name="DODGERBLUE" draw:color="#1e90ff"/>
+ <draw:color draw:name="DEEP SKY BLUE" draw:color="#00bfff"/>
+ <draw:color draw:name="DEEPSKYBLUE" draw:color="#00bfff"/>
+ <draw:color draw:name="SKY BLUE" draw:color="#87ceeb"/>
+ <draw:color draw:name="SKYBLUE" draw:color="#87ceeb"/>
+ <draw:color draw:name="LIGHT SKY BLUE" draw:color="#87cefa"/>
+ <draw:color draw:name="LIGHTSKYBLUE" draw:color="#87cefa"/>
+ <draw:color draw:name="STEEL BLUE" draw:color="#4682b4"/>
+ <draw:color draw:name="STEELBLUE" draw:color="#4682b4"/>
+ <draw:color draw:name="LIGHT STEEL BLUE" draw:color="#b0c4de"/>
+ <draw:color draw:name="LIGHTSTEELBLUE" draw:color="#b0c4de"/>
+ <draw:color draw:name="LIGHT BLUE" draw:color="#add8e6"/>
+ <draw:color draw:name="LIGHTBLUE" draw:color="#add8e6"/>
+ <draw:color draw:name="POWDER BLUE" draw:color="#b0e0e6"/>
+ <draw:color draw:name="POWDERBLUE" draw:color="#b0e0e6"/>
+ <draw:color draw:name="PALE TURQUOISE" draw:color="#afeeee"/>
+ <draw:color draw:name="PALETURQUOISE" draw:color="#afeeee"/>
+ <draw:color draw:name="DARK TURQUOISE" draw:color="#00ced1"/>
+ <draw:color draw:name="DARKTURQUOISE" draw:color="#00ced1"/>
+ <draw:color draw:name="MEDIUM TURQUOISE" draw:color="#48d1cc"/>
+ <draw:color draw:name="MEDIUMTURQUOISE" draw:color="#48d1cc"/>
+ <draw:color draw:name="TURQUOISE" draw:color="#40e0d0"/>
+ <draw:color draw:name="CYAN" draw:color="#00ffff"/>
+ <draw:color draw:name="LIGHT CYAN" draw:color="#e0ffff"/>
+ <draw:color draw:name="LIGHTCYAN" draw:color="#e0ffff"/>
+ <draw:color draw:name="CADET BLUE" draw:color="#5f9ea0"/>
+ <draw:color draw:name="CADETBLUE" draw:color="#5f9ea0"/>
+ <draw:color draw:name="MEDIUM AQUAMARINE" draw:color="#66cdaa"/>
+ <draw:color draw:name="MEDIUMAQUAMARINE" draw:color="#66cdaa"/>
+ <draw:color draw:name="AQUAMARINE" draw:color="#7fffd4"/>
+ <draw:color draw:name="DARK GREEN" draw:color="#006400"/>
+ <draw:color draw:name="DARKGREEN" draw:color="#006400"/>
+ <draw:color draw:name="DARK OLIVE GREEN" draw:color="#556b2f"/>
+ <draw:color draw:name="DARKOLIVEGREEN" draw:color="#556b2f"/>
+ <draw:color draw:name="DARK SEA GREEN" draw:color="#8fbc8f"/>
+ <draw:color draw:name="DARKSEAGREEN" draw:color="#8fbc8f"/>
+ <draw:color draw:name="SEA GREEN" draw:color="#2e8b57"/>
+ <draw:color draw:name="SEAGREEN" draw:color="#2e8b57"/>
+ <draw:color draw:name="MEDIUM SEA GREEN" draw:color="#3cb371"/>
+ <draw:color draw:name="MEDIUMSEAGREEN" draw:color="#3cb371"/>
+ <draw:color draw:name="LIGHT SEA GREEN" draw:color="#20b2aa"/>
+ <draw:color draw:name="LIGHTSEAGREEN" draw:color="#20b2aa"/>
+ <draw:color draw:name="PALE GREEN" draw:color="#98fb98"/>
+ <draw:color draw:name="PALEGREEN" draw:color="#98fb98"/>
+ <draw:color draw:name="SPRING GREEN" draw:color="#00ff7f"/>
+ <draw:color draw:name="SPRINGGREEN" draw:color="#00ff7f"/>
+ <draw:color draw:name="LAWN GREEN" draw:color="#7cfc00"/>
+ <draw:color draw:name="LAWNGREEN" draw:color="#7cfc00"/>
+ <draw:color draw:name="GREEN" draw:color="#00ff00"/>
+ <draw:color draw:name="CHARTREUSE" draw:color="#7fff00"/>
+ <draw:color draw:name="MEDIUM SPRING GREEN" draw:color="#00fa9a"/>
+ <draw:color draw:name="MEDIUMSPRINGGREEN" draw:color="#00fa9a"/>
+ <draw:color draw:name="GREEN YELLOW" draw:color="#adff2f"/>
+ <draw:color draw:name="GREENYELLOW" draw:color="#adff2f"/>
+ <draw:color draw:name="LIME GREEN" draw:color="#32cd32"/>
+ <draw:color draw:name="LIMEGREEN" draw:color="#32cd32"/>
+ <draw:color draw:name="YELLOW GREEN" draw:color="#9acd32"/>
+ <draw:color draw:name="YELLOWGREEN" draw:color="#9acd32"/>
+ <draw:color draw:name="FOREST GREEN" draw:color="#228b22"/>
+ <draw:color draw:name="FORESTGREEN" draw:color="#228b22"/>
+ <draw:color draw:name="OLIVE DRAB" draw:color="#6b8e23"/>
+ <draw:color draw:name="OLIVEDRAB" draw:color="#6b8e23"/>
+ <draw:color draw:name="DARK KHAKI" draw:color="#bdb76b"/>
+ <draw:color draw:name="DARKKHAKI" draw:color="#bdb76b"/>
+ <draw:color draw:name="KHAKI" draw:color="#f0e68c"/>
+ <draw:color draw:name="PALE GOLDENROD" draw:color="#eee8aa"/>
+ <draw:color draw:name="PALEGOLDENROD" draw:color="#eee8aa"/>
+ <draw:color draw:name="LIGHT GOLDENROD YELLOW" draw:color="#fafad2"/>
+ <draw:color draw:name="LIGHTGOLDENRODYELLOW" draw:color="#fafad2"/>
+ <draw:color draw:name="LIGHT YELLOW" draw:color="#ffffe0"/>
+ <draw:color draw:name="LIGHTYELLOW" draw:color="#ffffe0"/>
+ <draw:color draw:name="YELLOW" draw:color="#ffff00"/>
+ <draw:color draw:name="GOLD" draw:color="#ffd700"/>
+ <draw:color draw:name="LIGHT GOLDENROD" draw:color="#eedd82"/>
+ <draw:color draw:name="LIGHTGOLDENROD" draw:color="#eedd82"/>
+ <draw:color draw:name="GOLDENROD" draw:color="#daa520"/>
+ <draw:color draw:name="DARK GOLDENROD" draw:color="#b8860b"/>
+ <draw:color draw:name="DARKGOLDENROD" draw:color="#b8860b"/>
+ <draw:color draw:name="ROSY BROWN" draw:color="#bc8f8f"/>
+ <draw:color draw:name="ROSYBROWN" draw:color="#bc8f8f"/>
+ <draw:color draw:name="INDIAN RED" draw:color="#cd5c5c"/>
+ <draw:color draw:name="INDIANRED" draw:color="#cd5c5c"/>
+ <draw:color draw:name="SADDLE BROWN" draw:color="#8b4513"/>
+ <draw:color draw:name="SADDLEBROWN" draw:color="#8b4513"/>
+ <draw:color draw:name="SIENNA" draw:color="#a0522d"/>
+ <draw:color draw:name="PERU" draw:color="#cd853f"/>
+ <draw:color draw:name="BURLYWOOD" draw:color="#deb887"/>
+ <draw:color draw:name="BEIGE" draw:color="#f5f5dc"/>
+ <draw:color draw:name="WHEAT" draw:color="#f5deb3"/>
+ <draw:color draw:name="SANDY BROWN" draw:color="#f4a460"/>
+ <draw:color draw:name="SANDYBROWN" draw:color="#f4a460"/>
+ <draw:color draw:name="TAN" draw:color="#d2b48c"/>
+ <draw:color draw:name="CHOCOLATE" draw:color="#d2691e"/>
+ <draw:color draw:name="FIREBRICK" draw:color="#b22222"/>
+ <draw:color draw:name="BROWN" draw:color="#a52a2a"/>
+ <draw:color draw:name="DARK SALMON" draw:color="#e9967a"/>
+ <draw:color draw:name="DARKSALMON" draw:color="#e9967a"/>
+ <draw:color draw:name="SALMON" draw:color="#fa8072"/>
+ <draw:color draw:name="LIGHT SALMON" draw:color="#ffa07a"/>
+ <draw:color draw:name="LIGHTSALMON" draw:color="#ffa07a"/>
+ <draw:color draw:name="ORANGE" draw:color="#ffa500"/>
+ <draw:color draw:name="DARK ORANGE" draw:color="#ff8c00"/>
+ <draw:color draw:name="DARKORANGE" draw:color="#ff8c00"/>
+ <draw:color draw:name="CORAL" draw:color="#ff7f50"/>
+ <draw:color draw:name="LIGHT CORAL" draw:color="#f08080"/>
+ <draw:color draw:name="LIGHTCORAL" draw:color="#f08080"/>
+ <draw:color draw:name="TOMATO" draw:color="#ff6347"/>
+ <draw:color draw:name="ORANGE RED" draw:color="#ff4500"/>
+ <draw:color draw:name="ORANGERED" draw:color="#ff4500"/>
+ <draw:color draw:name="RED" draw:color="#ff0000"/>
+ <draw:color draw:name="HOT PINK" draw:color="#ff69b4"/>
+ <draw:color draw:name="HOTPINK" draw:color="#ff69b4"/>
+ <draw:color draw:name="DEEP PINK" draw:color="#ff1493"/>
+ <draw:color draw:name="DEEPPINK" draw:color="#ff1493"/>
+ <draw:color draw:name="PINK" draw:color="#ffc0cb"/>
+ <draw:color draw:name="LIGHT PINK" draw:color="#ffb6c1"/>
+ <draw:color draw:name="LIGHTPINK" draw:color="#ffb6c1"/>
+ <draw:color draw:name="PALE VIOLET RED" draw:color="#db7093"/>
+ <draw:color draw:name="PALEVIOLETRED" draw:color="#db7093"/>
+ <draw:color draw:name="MAROON" draw:color="#b03060"/>
+ <draw:color draw:name="MEDIUM VIOLET RED" draw:color="#c71585"/>
+ <draw:color draw:name="MEDIUMVIOLETRED" draw:color="#c71585"/>
+ <draw:color draw:name="VIOLET RED" draw:color="#d02090"/>
+ <draw:color draw:name="VIOLETRED" draw:color="#d02090"/>
+ <draw:color draw:name="MAGENTA" draw:color="#ff00ff"/>
+ <draw:color draw:name="VIOLET" draw:color="#ee82ee"/>
+ <draw:color draw:name="PLUM" draw:color="#dda0dd"/>
+ <draw:color draw:name="ORCHID" draw:color="#da70d6"/>
+ <draw:color draw:name="MEDIUM ORCHID" draw:color="#ba55d3"/>
+ <draw:color draw:name="MEDIUMORCHID" draw:color="#ba55d3"/>
+ <draw:color draw:name="DARK ORCHID" draw:color="#9932cc"/>
+ <draw:color draw:name="DARKORCHID" draw:color="#9932cc"/>
+ <draw:color draw:name="DARK VIOLET" draw:color="#9400d3"/>
+ <draw:color draw:name="DARKVIOLET" draw:color="#9400d3"/>
+ <draw:color draw:name="BLUE VIOLET" draw:color="#8a2be2"/>
+ <draw:color draw:name="BLUEVIOLET" draw:color="#8a2be2"/>
+ <draw:color draw:name="PURPLE" draw:color="#a020f0"/>
+ <draw:color draw:name="MEDIUM PURPLE" draw:color="#9370db"/>
+ <draw:color draw:name="MEDIUMPURPLE" draw:color="#9370db"/>
+ <draw:color draw:name="THISTLE" draw:color="#d8bfd8"/>
+ <draw:color draw:name="SNOW1" draw:color="#fffafa"/>
+ <draw:color draw:name="SNOW2" draw:color="#eee9e9"/>
+ <draw:color draw:name="SNOW3" draw:color="#cdc9c9"/>
+ <draw:color draw:name="SNOW4" draw:color="#8b8989"/>
+ <draw:color draw:name="SEASHELL1" draw:color="#fff5ee"/>
+ <draw:color draw:name="SEASHELL2" draw:color="#eee5de"/>
+ <draw:color draw:name="SEASHELL3" draw:color="#cdc5bf"/>
+ <draw:color draw:name="SEASHELL4" draw:color="#8b8682"/>
+ <draw:color draw:name="ANTIQUEWHITE1" draw:color="#ffefdb"/>
+ <draw:color draw:name="ANTIQUEWHITE2" draw:color="#eedfcc"/>
+ <draw:color draw:name="ANTIQUEWHITE3" draw:color="#cdc0b0"/>
+ <draw:color draw:name="ANTIQUEWHITE4" draw:color="#8b8378"/>
+ <draw:color draw:name="BISQUE1" draw:color="#ffe4c4"/>
+ <draw:color draw:name="BISQUE2" draw:color="#eed5b7"/>
+ <draw:color draw:name="BISQUE3" draw:color="#cdb79e"/>
+ <draw:color draw:name="BISQUE4" draw:color="#8b7d6b"/>
+ <draw:color draw:name="PEACHPUFF1" draw:color="#ffdab9"/>
+ <draw:color draw:name="PEACHPUFF2" draw:color="#eecbad"/>
+ <draw:color draw:name="PEACHPUFF3" draw:color="#cdaf95"/>
+ <draw:color draw:name="PEACHPUFF4" draw:color="#8b7765"/>
+ <draw:color draw:name="NAVAJOWHITE1" draw:color="#ffdead"/>
+ <draw:color draw:name="NAVAJOWHITE2" draw:color="#eecfa1"/>
+ <draw:color draw:name="NAVAJOWHITE3" draw:color="#cdb38b"/>
+ <draw:color draw:name="NAVAJOWHITE4" draw:color="#8b795e"/>
+ <draw:color draw:name="LEMONCHIFFON1" draw:color="#fffacd"/>
+ <draw:color draw:name="LEMONCHIFFON2" draw:color="#eee9bf"/>
+ <draw:color draw:name="LEMONCHIFFON3" draw:color="#cdc9a5"/>
+ <draw:color draw:name="LEMONCHIFFON4" draw:color="#8b8970"/>
+ <draw:color draw:name="CORNSILK1" draw:color="#fff8dc"/>
+ <draw:color draw:name="CORNSILK2" draw:color="#eee8cd"/>
+ <draw:color draw:name="CORNSILK3" draw:color="#cdc8b1"/>
+ <draw:color draw:name="CORNSILK4" draw:color="#8b8878"/>
+ <draw:color draw:name="IVORY1" draw:color="#fffff0"/>
+ <draw:color draw:name="IVORY2" draw:color="#eeeee0"/>
+ <draw:color draw:name="IVORY3" draw:color="#cdcdc1"/>
+ <draw:color draw:name="IVORY4" draw:color="#8b8b83"/>
+ <draw:color draw:name="HONEYDEW1" draw:color="#f0fff0"/>
+ <draw:color draw:name="HONEYDEW2" draw:color="#e0eee0"/>
+ <draw:color draw:name="HONEYDEW3" draw:color="#c1cdc1"/>
+ <draw:color draw:name="HONEYDEW4" draw:color="#838b83"/>
+ <draw:color draw:name="LAVENDERBLUSH1" draw:color="#fff0f5"/>
+ <draw:color draw:name="LAVENDERBLUSH2" draw:color="#eee0e5"/>
+ <draw:color draw:name="LAVENDERBLUSH3" draw:color="#cdc1c5"/>
+ <draw:color draw:name="LAVENDERBLUSH4" draw:color="#8b8386"/>
+ <draw:color draw:name="MISTYROSE1" draw:color="#ffe4e1"/>
+ <draw:color draw:name="MISTYROSE2" draw:color="#eed5d2"/>
+ <draw:color draw:name="MISTYROSE3" draw:color="#cdb7b5"/>
+ <draw:color draw:name="MISTYROSE4" draw:color="#8b7d7b"/>
+ <draw:color draw:name="AZURE1" draw:color="#f0ffff"/>
+ <draw:color draw:name="AZURE2" draw:color="#e0eeee"/>
+ <draw:color draw:name="AZURE3" draw:color="#c1cdcd"/>
+ <draw:color draw:name="AZURE4" draw:color="#838b8b"/>
+ <draw:color draw:name="SLATEBLUE1" draw:color="#836fff"/>
+ <draw:color draw:name="SLATEBLUE2" draw:color="#7a67ee"/>
+ <draw:color draw:name="SLATEBLUE3" draw:color="#6959cd"/>
+ <draw:color draw:name="SLATEBLUE4" draw:color="#473c8b"/>
+ <draw:color draw:name="ROYALBLUE1" draw:color="#4876ff"/>
+ <draw:color draw:name="ROYALBLUE2" draw:color="#436eee"/>
+ <draw:color draw:name="ROYALBLUE3" draw:color="#3a5fcd"/>
+ <draw:color draw:name="ROYALBLUE4" draw:color="#27408b"/>
+ <draw:color draw:name="BLUE1" draw:color="#0000ff"/>
+ <draw:color draw:name="BLUE2" draw:color="#0000ee"/>
+ <draw:color draw:name="BLUE3" draw:color="#0000cd"/>
+ <draw:color draw:name="BLUE4" draw:color="#00008b"/>
+ <draw:color draw:name="DODGERBLUE1" draw:color="#1e90ff"/>
+ <draw:color draw:name="DODGERBLUE2" draw:color="#1c86ee"/>
+ <draw:color draw:name="DODGERBLUE3" draw:color="#1874cd"/>
+ <draw:color draw:name="DODGERBLUE4" draw:color="#104e8b"/>
+ <draw:color draw:name="STEELBLUE1" draw:color="#63b8ff"/>
+ <draw:color draw:name="STEELBLUE2" draw:color="#5cacee"/>
+ <draw:color draw:name="STEELBLUE3" draw:color="#4f94cd"/>
+ <draw:color draw:name="STEELBLUE4" draw:color="#36648b"/>
+ <draw:color draw:name="DEEPSKYBLUE1" draw:color="#00bfff"/>
+ <draw:color draw:name="DEEPSKYBLUE2" draw:color="#00b2ee"/>
+ <draw:color draw:name="DEEPSKYBLUE3" draw:color="#009acd"/>
+ <draw:color draw:name="DEEPSKYBLUE4" draw:color="#00688b"/>
+ <draw:color draw:name="SKYBLUE1" draw:color="#87ceff"/>
+ <draw:color draw:name="SKYBLUE2" draw:color="#7ec0ee"/>
+ <draw:color draw:name="SKYBLUE3" draw:color="#6ca6cd"/>
+ <draw:color draw:name="SKYBLUE4" draw:color="#4a708b"/>
+ <draw:color draw:name="LIGHTSKYBLUE1" draw:color="#b0e2ff"/>
+ <draw:color draw:name="LIGHTSKYBLUE2" draw:color="#a4d3ee"/>
+ <draw:color draw:name="LIGHTSKYBLUE3" draw:color="#8db6cd"/>
+ <draw:color draw:name="LIGHTSKYBLUE4" draw:color="#607b8b"/>
+ <draw:color draw:name="LIGHTSTEELBLUE1" draw:color="#cae1ff"/>
+ <draw:color draw:name="LIGHTSTEELBLUE2" draw:color="#bcd2ee"/>
+ <draw:color draw:name="LIGHTSTEELBLUE3" draw:color="#a2b5cd"/>
+ <draw:color draw:name="LIGHTSTEELBLUE4" draw:color="#6e7b8b"/>
+ <draw:color draw:name="LIGHTBLUE1" draw:color="#bfefff"/>
+ <draw:color draw:name="LIGHTBLUE2" draw:color="#b2dfee"/>
+ <draw:color draw:name="LIGHTBLUE3" draw:color="#9ac0cd"/>
+ <draw:color draw:name="LIGHTBLUE4" draw:color="#68838b"/>
+ <draw:color draw:name="LIGHTCYAN1" draw:color="#e0ffff"/>
+ <draw:color draw:name="LIGHTCYAN2" draw:color="#d1eeee"/>
+ <draw:color draw:name="LIGHTCYAN3" draw:color="#b4cdcd"/>
+ <draw:color draw:name="LIGHTCYAN4" draw:color="#7a8b8b"/>
+ <draw:color draw:name="PALETURQUOISE1" draw:color="#bbffff"/>
+ <draw:color draw:name="PALETURQUOISE2" draw:color="#aeeeee"/>
+ <draw:color draw:name="PALETURQUOISE3" draw:color="#96cdcd"/>
+ <draw:color draw:name="PALETURQUOISE4" draw:color="#668b8b"/>
+ <draw:color draw:name="CADETBLUE1" draw:color="#98f5ff"/>
+ <draw:color draw:name="CADETBLUE2" draw:color="#8ee5ee"/>
+ <draw:color draw:name="CADETBLUE3" draw:color="#7ac5cd"/>
+ <draw:color draw:name="CADETBLUE4" draw:color="#53868b"/>
+ <draw:color draw:name="TURQUOISE1" draw:color="#00f5ff"/>
+ <draw:color draw:name="TURQUOISE2" draw:color="#00e5ee"/>
+ <draw:color draw:name="TURQUOISE3" draw:color="#00c5cd"/>
+ <draw:color draw:name="TURQUOISE4" draw:color="#00868b"/>
+ <draw:color draw:name="CYAN1" draw:color="#00ffff"/>
+ <draw:color draw:name="CYAN2" draw:color="#00eeee"/>
+ <draw:color draw:name="CYAN3" draw:color="#00cdcd"/>
+ <draw:color draw:name="CYAN4" draw:color="#008b8b"/>
+ <draw:color draw:name="AQUAMARINE1" draw:color="#7fffd4"/>
+ <draw:color draw:name="AQUAMARINE2" draw:color="#76eec6"/>
+ <draw:color draw:name="AQUAMARINE3" draw:color="#66cdaa"/>
+ <draw:color draw:name="AQUAMARINE4" draw:color="#458b74"/>
+ <draw:color draw:name="DARKSEAGREEN1" draw:color="#c1ffc1"/>
+ <draw:color draw:name="DARKSEAGREEN2" draw:color="#b4eeb4"/>
+ <draw:color draw:name="DARKSEAGREEN3" draw:color="#9bcd9b"/>
+ <draw:color draw:name="DARKSEAGREEN4" draw:color="#698b69"/>
+ <draw:color draw:name="SEAGREEN1" draw:color="#54ff9f"/>
+ <draw:color draw:name="SEAGREEN2" draw:color="#4eee94"/>
+ <draw:color draw:name="SEAGREEN3" draw:color="#43cd80"/>
+ <draw:color draw:name="SEAGREEN4" draw:color="#2e8b57"/>
+ <draw:color draw:name="PALEGREEN1" draw:color="#9aff9a"/>
+ <draw:color draw:name="PALEGREEN2" draw:color="#90ee90"/>
+ <draw:color draw:name="PALEGREEN3" draw:color="#7ccd7c"/>
+ <draw:color draw:name="PALEGREEN4" draw:color="#548b54"/>
+ <draw:color draw:name="SPRINGGREEN1" draw:color="#00ff7f"/>
+ <draw:color draw:name="SPRINGGREEN2" draw:color="#00ee76"/>
+ <draw:color draw:name="SPRINGGREEN3" draw:color="#00cd66"/>
+ <draw:color draw:name="SPRINGGREEN4" draw:color="#008b45"/>
+ <draw:color draw:name="GREEN1" draw:color="#00ff00"/>
+ <draw:color draw:name="GREEN2" draw:color="#00ee00"/>
+ <draw:color draw:name="GREEN3" draw:color="#00cd00"/>
+ <draw:color draw:name="GREEN4" draw:color="#008b00"/>
+ <draw:color draw:name="CHARTREUSE1" draw:color="#7fff00"/>
+ <draw:color draw:name="CHARTREUSE2" draw:color="#76ee00"/>
+ <draw:color draw:name="CHARTREUSE3" draw:color="#66cd00"/>
+ <draw:color draw:name="CHARTREUSE4" draw:color="#458b00"/>
+ <draw:color draw:name="OLIVEDRAB1" draw:color="#c0ff3e"/>
+ <draw:color draw:name="OLIVEDRAB2" draw:color="#b3ee3a"/>
+ <draw:color draw:name="OLIVEDRAB3" draw:color="#9acd32"/>
+ <draw:color draw:name="OLIVEDRAB4" draw:color="#698b22"/>
+ <draw:color draw:name="DARKOLIVEGREEN1" draw:color="#caff70"/>
+ <draw:color draw:name="DARKOLIVEGREEN2" draw:color="#bcee68"/>
+ <draw:color draw:name="DARKOLIVEGREEN3" draw:color="#a2cd5a"/>
+ <draw:color draw:name="DARKOLIVEGREEN4" draw:color="#6e8b3d"/>
+ <draw:color draw:name="KHAKI1" draw:color="#fff68f"/>
+ <draw:color draw:name="KHAKI2" draw:color="#eee685"/>
+ <draw:color draw:name="KHAKI3" draw:color="#cdc673"/>
+ <draw:color draw:name="KHAKI4" draw:color="#8b864e"/>
+ <draw:color draw:name="LIGHTGOLDENROD1" draw:color="#ffec8b"/>
+ <draw:color draw:name="LIGHTGOLDENROD2" draw:color="#eedc82"/>
+ <draw:color draw:name="LIGHTGOLDENROD3" draw:color="#cdbe70"/>
+ <draw:color draw:name="LIGHTGOLDENROD4" draw:color="#8b814c"/>
+ <draw:color draw:name="LIGHTYELLOW1" draw:color="#ffffe0"/>
+ <draw:color draw:name="LIGHTYELLOW2" draw:color="#eeeed1"/>
+ <draw:color draw:name="LIGHTYELLOW3" draw:color="#cdcdb4"/>
+ <draw:color draw:name="LIGHTYELLOW4" draw:color="#8b8b7a"/>
+ <draw:color draw:name="YELLOW1" draw:color="#ffff00"/>
+ <draw:color draw:name="YELLOW2" draw:color="#eeee00"/>
+ <draw:color draw:name="YELLOW3" draw:color="#cdcd00"/>
+ <draw:color draw:name="YELLOW4" draw:color="#8b8b00"/>
+ <draw:color draw:name="GOLD1" draw:color="#ffd700"/>
+ <draw:color draw:name="GOLD2" draw:color="#eec900"/>
+ <draw:color draw:name="GOLD3" draw:color="#cdad00"/>
+ <draw:color draw:name="GOLD4" draw:color="#8b7500"/>
+ <draw:color draw:name="GOLDENROD1" draw:color="#ffc125"/>
+ <draw:color draw:name="GOLDENROD2" draw:color="#eeb422"/>
+ <draw:color draw:name="GOLDENROD3" draw:color="#cd9b1d"/>
+ <draw:color draw:name="GOLDENROD4" draw:color="#8b6914"/>
+ <draw:color draw:name="DARKGOLDENROD1" draw:color="#ffb90f"/>
+ <draw:color draw:name="DARKGOLDENROD2" draw:color="#eead0e"/>
+ <draw:color draw:name="DARKGOLDENROD3" draw:color="#cd950c"/>
+ <draw:color draw:name="DARKGOLDENROD4" draw:color="#8b6508"/>
+ <draw:color draw:name="ROSYBROWN1" draw:color="#ffc1c1"/>
+ <draw:color draw:name="ROSYBROWN2" draw:color="#eeb4b4"/>
+ <draw:color draw:name="ROSYBROWN3" draw:color="#cd9b9b"/>
+ <draw:color draw:name="ROSYBROWN4" draw:color="#8b6969"/>
+ <draw:color draw:name="INDIANRED1" draw:color="#ff6a6a"/>
+ <draw:color draw:name="INDIANRED2" draw:color="#ee6363"/>
+ <draw:color draw:name="INDIANRED3" draw:color="#cd5555"/>
+ <draw:color draw:name="INDIANRED4" draw:color="#8b3a3a"/>
+ <draw:color draw:name="SIENNA1" draw:color="#ff8247"/>
+ <draw:color draw:name="SIENNA2" draw:color="#ee7942"/>
+ <draw:color draw:name="SIENNA3" draw:color="#cd6839"/>
+ <draw:color draw:name="SIENNA4" draw:color="#8b4726"/>
+ <draw:color draw:name="BURLYWOOD1" draw:color="#ffd39b"/>
+ <draw:color draw:name="BURLYWOOD2" draw:color="#eec591"/>
+ <draw:color draw:name="BURLYWOOD3" draw:color="#cdaa7d"/>
+ <draw:color draw:name="BURLYWOOD4" draw:color="#8b7355"/>
+ <draw:color draw:name="WHEAT1" draw:color="#ffe7ba"/>
+ <draw:color draw:name="WHEAT2" draw:color="#eed8ae"/>
+ <draw:color draw:name="WHEAT3" draw:color="#cdba96"/>
+ <draw:color draw:name="WHEAT4" draw:color="#8b7e66"/>
+ <draw:color draw:name="TAN1" draw:color="#ffa54f"/>
+ <draw:color draw:name="TAN2" draw:color="#ee9a49"/>
+ <draw:color draw:name="TAN3" draw:color="#cd853f"/>
+ <draw:color draw:name="TAN4" draw:color="#8b5a2b"/>
+ <draw:color draw:name="CHOCOLATE1" draw:color="#ff7f24"/>
+ <draw:color draw:name="CHOCOLATE2" draw:color="#ee7621"/>
+ <draw:color draw:name="CHOCOLATE3" draw:color="#cd661d"/>
+ <draw:color draw:name="CHOCOLATE4" draw:color="#8b4513"/>
+ <draw:color draw:name="FIREBRICK1" draw:color="#ff3030"/>
+ <draw:color draw:name="FIREBRICK2" draw:color="#ee2c2c"/>
+ <draw:color draw:name="FIREBRICK3" draw:color="#cd2626"/>
+ <draw:color draw:name="FIREBRICK4" draw:color="#8b1a1a"/>
+ <draw:color draw:name="BROWN1" draw:color="#ff4040"/>
+ <draw:color draw:name="BROWN2" draw:color="#ee3b3b"/>
+ <draw:color draw:name="BROWN3" draw:color="#cd3333"/>
+ <draw:color draw:name="BROWN4" draw:color="#8b2323"/>
+ <draw:color draw:name="SALMON1" draw:color="#ff8c69"/>
+ <draw:color draw:name="SALMON2" draw:color="#ee8262"/>
+ <draw:color draw:name="SALMON3" draw:color="#cd7054"/>
+ <draw:color draw:name="SALMON4" draw:color="#8b4c39"/>
+ <draw:color draw:name="LIGHTSALMON1" draw:color="#ffa07a"/>
+ <draw:color draw:name="LIGHTSALMON2" draw:color="#ee9572"/>
+ <draw:color draw:name="LIGHTSALMON3" draw:color="#cd8162"/>
+ <draw:color draw:name="LIGHTSALMON4" draw:color="#8b5742"/>
+ <draw:color draw:name="ORANGE1" draw:color="#ffa500"/>
+ <draw:color draw:name="ORANGE2" draw:color="#ee9a00"/>
+ <draw:color draw:name="ORANGE3" draw:color="#cd8500"/>
+ <draw:color draw:name="ORANGE4" draw:color="#8b5a00"/>
+ <draw:color draw:name="DARKORANGE1" draw:color="#ff7f00"/>
+ <draw:color draw:name="DARKORANGE2" draw:color="#ee7600"/>
+ <draw:color draw:name="DARKORANGE3" draw:color="#cd6600"/>
+ <draw:color draw:name="DARKORANGE4" draw:color="#8b4500"/>
+ <draw:color draw:name="CORAL1" draw:color="#ff7256"/>
+ <draw:color draw:name="CORAL2" draw:color="#ee6a50"/>
+ <draw:color draw:name="CORAL3" draw:color="#cd5b45"/>
+ <draw:color draw:name="CORAL4" draw:color="#8b3e2f"/>
+ <draw:color draw:name="TOMATO1" draw:color="#ff6347"/>
+ <draw:color draw:name="TOMATO2" draw:color="#ee5c42"/>
+ <draw:color draw:name="TOMATO3" draw:color="#cd4f39"/>
+ <draw:color draw:name="TOMATO4" draw:color="#8b3626"/>
+ <draw:color draw:name="ORANGERED1" draw:color="#ff4500"/>
+ <draw:color draw:name="ORANGERED2" draw:color="#ee4000"/>
+ <draw:color draw:name="ORANGERED3" draw:color="#cd3700"/>
+ <draw:color draw:name="ORANGERED4" draw:color="#8b2500"/>
+ <draw:color draw:name="RED1" draw:color="#ff0000"/>
+ <draw:color draw:name="RED2" draw:color="#ee0000"/>
+ <draw:color draw:name="RED3" draw:color="#cd0000"/>
+ <draw:color draw:name="RED4" draw:color="#8b0000"/>
+ <draw:color draw:name="DEEPPINK1" draw:color="#ff1493"/>
+ <draw:color draw:name="DEEPPINK2" draw:color="#ee1289"/>
+ <draw:color draw:name="DEEPPINK3" draw:color="#cd1076"/>
+ <draw:color draw:name="DEEPPINK4" draw:color="#8b0a50"/>
+ <draw:color draw:name="HOTPINK1" draw:color="#ff6eb4"/>
+ <draw:color draw:name="HOTPINK2" draw:color="#ee6aa7"/>
+ <draw:color draw:name="HOTPINK3" draw:color="#cd6090"/>
+ <draw:color draw:name="HOTPINK4" draw:color="#8b3a62"/>
+ <draw:color draw:name="PINK1" draw:color="#ffb5c5"/>
+ <draw:color draw:name="PINK2" draw:color="#eea9b8"/>
+ <draw:color draw:name="PINK3" draw:color="#cd919e"/>
+ <draw:color draw:name="PINK4" draw:color="#8b636c"/>
+ <draw:color draw:name="LIGHTPINK1" draw:color="#ffaeb9"/>
+ <draw:color draw:name="LIGHTPINK2" draw:color="#eea2ad"/>
+ <draw:color draw:name="LIGHTPINK3" draw:color="#cd8c95"/>
+ <draw:color draw:name="LIGHTPINK4" draw:color="#8b5f65"/>
+ <draw:color draw:name="PALEVIOLETRED1" draw:color="#ff82ab"/>
+ <draw:color draw:name="PALEVIOLETRED2" draw:color="#ee799f"/>
+ <draw:color draw:name="PALEVIOLETRED3" draw:color="#cd6889"/>
+ <draw:color draw:name="PALEVIOLETRED4" draw:color="#8b475d"/>
+ <draw:color draw:name="MAROON1" draw:color="#ff34b3"/>
+ <draw:color draw:name="MAROON2" draw:color="#ee30a7"/>
+ <draw:color draw:name="MAROON3" draw:color="#cd2990"/>
+ <draw:color draw:name="MAROON4" draw:color="#8b1c62"/>
+ <draw:color draw:name="VIOLETRED1" draw:color="#ff3e96"/>
+ <draw:color draw:name="VIOLETRED2" draw:color="#ee3a8c"/>
+ <draw:color draw:name="VIOLETRED3" draw:color="#cd3278"/>
+ <draw:color draw:name="VIOLETRED4" draw:color="#8b2252"/>
+ <draw:color draw:name="MAGENTA1" draw:color="#ff00ff"/>
+ <draw:color draw:name="MAGENTA2" draw:color="#ee00ee"/>
+ <draw:color draw:name="MAGENTA3" draw:color="#cd00cd"/>
+ <draw:color draw:name="MAGENTA4" draw:color="#8b008b"/>
+ <draw:color draw:name="ORCHID1" draw:color="#ff83fa"/>
+ <draw:color draw:name="ORCHID2" draw:color="#ee7ae9"/>
+ <draw:color draw:name="ORCHID3" draw:color="#cd69c9"/>
+ <draw:color draw:name="ORCHID4" draw:color="#8b4789"/>
+ <draw:color draw:name="PLUM1" draw:color="#ffbbff"/>
+ <draw:color draw:name="PLUM2" draw:color="#eeaeee"/>
+ <draw:color draw:name="PLUM3" draw:color="#cd96cd"/>
+ <draw:color draw:name="PLUM4" draw:color="#8b668b"/>
+ <draw:color draw:name="MEDIUMORCHID1" draw:color="#e066ff"/>
+ <draw:color draw:name="MEDIUMORCHID2" draw:color="#d15fee"/>
+ <draw:color draw:name="MEDIUMORCHID3" draw:color="#b452cd"/>
+ <draw:color draw:name="MEDIUMORCHID4" draw:color="#7a378b"/>
+ <draw:color draw:name="DARKORCHID1" draw:color="#bf3eff"/>
+ <draw:color draw:name="DARKORCHID2" draw:color="#b23aee"/>
+ <draw:color draw:name="DARKORCHID3" draw:color="#9a32cd"/>
+ <draw:color draw:name="DARKORCHID4" draw:color="#68228b"/>
+ <draw:color draw:name="PURPLE1" draw:color="#9b30ff"/>
+ <draw:color draw:name="PURPLE2" draw:color="#912cee"/>
+ <draw:color draw:name="PURPLE3" draw:color="#7d26cd"/>
+ <draw:color draw:name="PURPLE4" draw:color="#551a8b"/>
+ <draw:color draw:name="MEDIUMPURPLE1" draw:color="#ab82ff"/>
+ <draw:color draw:name="MEDIUMPURPLE2" draw:color="#9f79ee"/>
+ <draw:color draw:name="MEDIUMPURPLE3" draw:color="#8968cd"/>
+ <draw:color draw:name="MEDIUMPURPLE4" draw:color="#5d478b"/>
+ <draw:color draw:name="THISTLE1" draw:color="#ffe1ff"/>
+ <draw:color draw:name="THISTLE2" draw:color="#eed2ee"/>
+ <draw:color draw:name="THISTLE3" draw:color="#cdb5cd"/>
+ <draw:color draw:name="THISTLE4" draw:color="#8b7b8b"/>
+ <draw:color draw:name="GREY0" draw:color="#000000"/>
+ <draw:color draw:name="GREY1" draw:color="#030303"/>
+ <draw:color draw:name="GREY2" draw:color="#050505"/>
+ <draw:color draw:name="GREY3" draw:color="#080808"/>
+ <draw:color draw:name="GREY4" draw:color="#0a0a0a"/>
+ <draw:color draw:name="GREY5" draw:color="#0d0d0d"/>
+ <draw:color draw:name="GREY6" draw:color="#0f0f0f"/>
+ <draw:color draw:name="GREY7" draw:color="#121212"/>
+ <draw:color draw:name="GREY8" draw:color="#141414"/>
+ <draw:color draw:name="GREY9" draw:color="#171717"/>
+ <draw:color draw:name="GREY10" draw:color="#1a1a1a"/>
+ <draw:color draw:name="GREY11" draw:color="#1c1c1c"/>
+ <draw:color draw:name="GREY12" draw:color="#1f1f1f"/>
+ <draw:color draw:name="GREY13" draw:color="#212121"/>
+ <draw:color draw:name="GREY14" draw:color="#242424"/>
+ <draw:color draw:name="GREY15" draw:color="#262626"/>
+ <draw:color draw:name="GREY16" draw:color="#292929"/>
+ <draw:color draw:name="GREY17" draw:color="#2b2b2b"/>
+ <draw:color draw:name="GREY18" draw:color="#2e2e2e"/>
+ <draw:color draw:name="GREY19" draw:color="#303030"/>
+ <draw:color draw:name="GREY20" draw:color="#333333"/>
+ <draw:color draw:name="GREY21" draw:color="#363636"/>
+ <draw:color draw:name="GREY22" draw:color="#383838"/>
+ <draw:color draw:name="GREY23" draw:color="#3b3b3b"/>
+ <draw:color draw:name="GREY24" draw:color="#3d3d3d"/>
+ <draw:color draw:name="GREY25" draw:color="#404040"/>
+ <draw:color draw:name="GREY26" draw:color="#424242"/>
+ <draw:color draw:name="GREY27" draw:color="#454545"/>
+ <draw:color draw:name="GREY28" draw:color="#474747"/>
+ <draw:color draw:name="GREY29" draw:color="#4a4a4a"/>
+ <draw:color draw:name="GREY30" draw:color="#4d4d4d"/>
+ <draw:color draw:name="GREY31" draw:color="#4f4f4f"/>
+ <draw:color draw:name="GREY32" draw:color="#525252"/>
+ <draw:color draw:name="GREY33" draw:color="#545454"/>
+ <draw:color draw:name="GREY34" draw:color="#575757"/>
+ <draw:color draw:name="GREY35" draw:color="#595959"/>
+ <draw:color draw:name="GREY36" draw:color="#5c5c5c"/>
+ <draw:color draw:name="GREY37" draw:color="#5e5e5e"/>
+ <draw:color draw:name="GREY38" draw:color="#616161"/>
+ <draw:color draw:name="GREY39" draw:color="#636363"/>
+ <draw:color draw:name="GREY40" draw:color="#666666"/>
+ <draw:color draw:name="GREY41" draw:color="#696969"/>
+ <draw:color draw:name="GREY42" draw:color="#6b6b6b"/>
+ <draw:color draw:name="GREY43" draw:color="#6e6e6e"/>
+ <draw:color draw:name="GREY44" draw:color="#707070"/>
+ <draw:color draw:name="GREY45" draw:color="#737373"/>
+ <draw:color draw:name="GREY46" draw:color="#757575"/>
+ <draw:color draw:name="GREY47" draw:color="#787878"/>
+ <draw:color draw:name="GREY48" draw:color="#7a7a7a"/>
+ <draw:color draw:name="GREY49" draw:color="#7d7d7d"/>
+ <draw:color draw:name="GREY50" draw:color="#7f7f7f"/>
+ <draw:color draw:name="GREY51" draw:color="#828282"/>
+ <draw:color draw:name="GREY52" draw:color="#858585"/>
+ <draw:color draw:name="GREY53" draw:color="#878787"/>
+ <draw:color draw:name="GREY54" draw:color="#8a8a8a"/>
+ <draw:color draw:name="GREY55" draw:color="#8c8c8c"/>
+ <draw:color draw:name="GREY56" draw:color="#8f8f8f"/>
+ <draw:color draw:name="GREY57" draw:color="#919191"/>
+ <draw:color draw:name="GREY58" draw:color="#949494"/>
+ <draw:color draw:name="GREY59" draw:color="#969696"/>
+ <draw:color draw:name="GREY60" draw:color="#999999"/>
+ <draw:color draw:name="GREY61" draw:color="#9c9c9c"/>
+ <draw:color draw:name="GREY62" draw:color="#9e9e9e"/>
+ <draw:color draw:name="GREY63" draw:color="#a1a1a1"/>
+ <draw:color draw:name="GREY64" draw:color="#a3a3a3"/>
+ <draw:color draw:name="GREY65" draw:color="#a6a6a6"/>
+ <draw:color draw:name="GREY66" draw:color="#a8a8a8"/>
+ <draw:color draw:name="GREY67" draw:color="#ababab"/>
+ <draw:color draw:name="GREY68" draw:color="#adadad"/>
+ <draw:color draw:name="GREY69" draw:color="#b0b0b0"/>
+ <draw:color draw:name="GREY70" draw:color="#b3b3b3"/>
+ <draw:color draw:name="GREY71" draw:color="#b5b5b5"/>
+ <draw:color draw:name="GREY72" draw:color="#b8b8b8"/>
+ <draw:color draw:name="GREY73" draw:color="#bababa"/>
+ <draw:color draw:name="GREY74" draw:color="#bdbdbd"/>
+ <draw:color draw:name="GREY75" draw:color="#bfbfbf"/>
+ <draw:color draw:name="GREY76" draw:color="#c2c2c2"/>
+ <draw:color draw:name="GREY77" draw:color="#c4c4c4"/>
+ <draw:color draw:name="GREY78" draw:color="#c7c7c7"/>
+ <draw:color draw:name="GREY79" draw:color="#c9c9c9"/>
+ <draw:color draw:name="GREY80" draw:color="#cccccc"/>
+ <draw:color draw:name="GREY81" draw:color="#cfcfcf"/>
+ <draw:color draw:name="GREY82" draw:color="#d1d1d1"/>
+ <draw:color draw:name="GREY83" draw:color="#d4d4d4"/>
+ <draw:color draw:name="GREY84" draw:color="#d6d6d6"/>
+ <draw:color draw:name="GREY85" draw:color="#d9d9d9"/>
+ <draw:color draw:name="GREY86" draw:color="#dbdbdb"/>
+ <draw:color draw:name="GREY87" draw:color="#dedede"/>
+ <draw:color draw:name="GREY88" draw:color="#e0e0e0"/>
+ <draw:color draw:name="GREY89" draw:color="#e3e3e3"/>
+ <draw:color draw:name="GREY90" draw:color="#e5e5e5"/>
+ <draw:color draw:name="GREY91" draw:color="#e8e8e8"/>
+ <draw:color draw:name="GREY92" draw:color="#ebebeb"/>
+ <draw:color draw:name="GREY93" draw:color="#ededed"/>
+ <draw:color draw:name="GREY94" draw:color="#f0f0f0"/>
+ <draw:color draw:name="GREY95" draw:color="#f2f2f2"/>
+ <draw:color draw:name="GREY96" draw:color="#f5f5f5"/>
+ <draw:color draw:name="GREY97" draw:color="#f7f7f7"/>
+ <draw:color draw:name="GREY98" draw:color="#fafafa"/>
+ <draw:color draw:name="GREY99" draw:color="#fcfcfc"/>
+ <draw:color draw:name="GREY100" draw:color="#ffffff"/>
+ <draw:color draw:name="DARK GREY" draw:color="#a9a9a9"/>
+ <draw:color draw:name="DARKGREY" draw:color="#a9a9a9"/>
+ <draw:color draw:name="DARK BLUE" draw:color="#00008b"/>
+ <draw:color draw:name="DARKBLUE" draw:color="#00008b"/>
+ <draw:color draw:name="DARK CYAN" draw:color="#008b8b"/>
+ <draw:color draw:name="DARKCYAN" draw:color="#008b8b"/>
+ <draw:color draw:name="DARK MAGENTA" draw:color="#8b008b"/>
+ <draw:color draw:name="DARKMAGENTA" draw:color="#8b008b"/>
+ <draw:color draw:name="DARK RED" draw:color="#8b0000"/>
+ <draw:color draw:name="DARKRED" draw:color="#8b0000"/>
+ <draw:color draw:name="LIGHT GREEN" draw:color="#90ee90"/>
+ <draw:color draw:name="LIGHTGREEN" draw:color="#90ee90"/>
+</office:color-table>

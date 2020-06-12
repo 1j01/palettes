@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+Palette source: Document Foundation
+The palette is published here:
+https://wiki.documentfoundation.org/Marketing/Branding#Colors
+
+-->
+<palette guid="c61c3850-15a2-11e5-a91f-e03f4985805d" name="LibreOffice branding colors">
+	<colorspaces />
+	<colors>
+		<page>
+			<color cs="RGB" tints="0.439216,0.654902,0.321569" name="Olive" />
+			<color cs="RGB" tints="0.062745,0.407843,0.007843" name="Green 0" />
+			<color cs="RGB" tints="0.094118,0.639216,0.011765" name="Green 1" />
+			<color cs="RGB" tints="0.262745,0.764706,0.188235" name="Green 2" />
+			<color cs="RGB" tints="0.572549,0.886275,0.521569" name="Green 3" />
+			<color cs="RGB" tints="0.8,0.956863,0.776471" name="Green 4" />
+			<color cs="RGB" tints="0.007843,0.247059,0.384314" name="Blue 0" />
+			<color cs="RGB" tints="0.011765,0.411765,0.639216" name="Blue 1" />
+			<color cs="RGB" tints="0.109804,0.6,0.878431" name="Blue 2" />
+			<color cs="RGB" tints="0.388235,0.733333,0.933333" name="Blue 3" />
+			<color cs="RGB" tints="0.666667,0.862745,0.968627" name="Blue 4" />
+			<color cs="RGB" tints="0.384314,0.145098,0.007843" name="Orange 0" />
+			<color cs="RGB" tints="0.639216,0.243137,0.011765" name="Orange 1" />
+			<color cs="RGB" tints="0.827451,0.380392,0.094118" name="Orange 2" />
+			<color cs="RGB" tints="0.941176,0.619608,0.435294" name="Orange 3" />
+			<color cs="RGB" tints="0.976471,0.811765,0.709804" name="Orange 4" />
+			<color cs="RGB" tints="0.32549,0.007843,0.376471" name="Purple 0" />
+			<color cs="RGB" tints="0.556863,0.011765,0.639216" name="Purple 1" />
+			<color cs="RGB" tints="0.760784,0.329412,0.823529" name="Purple 2" />
+			<color cs="RGB" tints="0.862745,0.521569,0.913725" name="Purple 3" />
+			<color cs="RGB" tints="0.94902,0.796078,0.972549" name="Purple 4" />
+			<color cs="RGB" tints="0.529412,0.411765,0.0" name="Yellow 0" />
+			<color cs="RGB" tints="0.788235,0.611765,0.0" name="Yellow 1" />
+			<color cs="RGB" tints="0.913725,0.72549,0.07451" name="Yellow 2" />
+			<color cs="RGB" tints="0.960784,0.807843,0.32549" name="Yellow 3" />
+			<color cs="RGB" tints="0.992157,0.913725,0.662745" name="Yellow 4" />
+			<color cs="RGB" tints="0.172549,0.933333,0.054902" name="Green Accent" />
+			<color cs="RGB" tints="0.0,0.627451,0.988235" name="Blue Accent" />
+			<color cs="RGB" tints="0.988235,0.360784,0.0" name="Orange Accent" />
+			<color cs="RGB" tints="0.890196,0.152941,1.0" name="Purple Accent" />
+			<color cs="RGB" tints="1.0,0.843137,0.298039" name="Yellow Accent" />
+		</page>
+	</colors>
+	<localization />
+</palette>

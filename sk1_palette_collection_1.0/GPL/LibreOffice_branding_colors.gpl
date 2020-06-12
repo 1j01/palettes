@@ -1,0 +1,38 @@
+GIMP Palette
+Name: LibreOffice branding colors
+#
+# Palette source: Document Foundation
+# The palette is published here:
+# https://wiki.documentfoundation.org/Marketing/Branding#Colors
+#
+112 167  82	Olive
+ 16 104   2	Green 0
+ 24 163   3	Green 1
+ 67 195  48	Green 2
+146 226 133	Green 3
+204 244 198	Green 4
+  2  63  98	Blue 0
+  3 105 163	Blue 1
+ 28 153 224	Blue 2
+ 99 187 238	Blue 3
+170 220 247	Blue 4
+ 98  37   2	Orange 0
+163  62   3	Orange 1
+211  97  24	Orange 2
+240 158 111	Orange 3
+249 207 181	Orange 4
+ 83   2  96	Purple 0
+142   3 163	Purple 1
+194  84 210	Purple 2
+220 133 233	Purple 3
+242 203 248	Purple 4
+135 105   0	Yellow 0
+201 156   0	Yellow 1
+233 185  19	Yellow 2
+245 206  83	Yellow 3
+253 233 169	Yellow 4
+ 44 238  14	Green Accent
+  0 160 252	Blue Accent
+252  92   0	Orange Accent
+227  39 255	Purple Accent
+255 215  76	Yellow Accent

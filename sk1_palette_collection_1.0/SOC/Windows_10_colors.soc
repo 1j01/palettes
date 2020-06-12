@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Palette source: Microsoft
+
+-->
+<office:color-table xmlns:form="http://openoffice.org/2000/form" xmlns:number="http://openoffice.org/2000/datastyle" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:office="http://openoffice.org/2000/office" xmlns:meta="http://openoffice.org/2000/meta" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:svg="http://www.w3.org/2000/svg" xmlns:dr3d="http://openoffice.org/2000/dr3d" xmlns:text="http://openoffice.org/2000/text" xmlns:style="http://openoffice.org/2000/style" xmlns:script="http://openoffice.org/2000/script" xmlns:chart="http://openoffice.org/2000/chart" xmlns:draw="http://openoffice.org/2000/drawing" xmlns:table="http://openoffice.org/2000/table" xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:config="http://openoffice.org/2001/config" xmlns:dc="http://purl.org/dc/elements/1.1/">
+ <draw:color draw:name="#FFB901" draw:color="#ffb901"/>
+ <draw:color draw:name="#E64856" draw:color="#e64856"/>
+ <draw:color draw:name="#0078D7" draw:color="#0078d7"/>
+ <draw:color draw:name="#0099BB" draw:color="#0099bb"/>
+ <draw:color draw:name="#7A7474" draw:color="#7a7474"/>
+ <draw:color draw:name="#767676" draw:color="#767676"/>
+ <draw:color draw:name="#FF8B00" draw:color="#ff8b00"/>
+ <draw:color draw:name="#E81123" draw:color="#e81123"/>
+ <draw:color draw:name="#0063B1" draw:color="#0063b1"/>
+ <draw:color draw:name="#2D7C9A" draw:color="#2d7c9a"/>
+ <draw:color draw:name="#5E5A57" draw:color="#5e5a57"/>
+ <draw:color draw:name="#4B4A48" draw:color="#4b4a48"/>
+ <draw:color draw:name="#F84E2A" draw:color="#f84e2a"/>
+ <draw:color draw:name="#EA005F" draw:color="#ea005f"/>
+ <draw:color draw:name="#8E8BD8" draw:color="#8e8bd8"/>
+ <draw:color draw:name="#01B7C4" draw:color="#01b7c4"/>
+ <draw:color draw:name="#677689" draw:color="#677689"/>
+ <draw:color draw:name="#6A797E" draw:color="#6a797e"/>
+ <draw:color draw:name="#CA500F" draw:color="#ca500f"/>
+ <draw:color draw:name="#C40052" draw:color="#c40052"/>
+ <draw:color draw:name="#6B69D6" draw:color="#6b69d6"/>
+ <draw:color draw:name="#00B194" draw:color="#00b194"/>
+ <draw:color draw:name="#505C6A" draw:color="#505c6a"/>
+ <draw:color draw:name="#4B5459" draw:color="#4b5459"/>
+ <draw:color draw:name="#DA3A01" draw:color="#da3a01"/>
+ <draw:color draw:name="#E3008D" draw:color="#e3008d"/>
+ <draw:color draw:name="#8764B8" draw:color="#8764b8"/>
+ <draw:color draw:name="#00B294" draw:color="#00b294"/>
+ <draw:color draw:name="#577C74" draw:color="#577c74"/>
+ <draw:color draw:name="#647C64" draw:color="#647c64"/>
+ <draw:color draw:name="#EF6950" draw:color="#ef6950"/>
+ <draw:color draw:name="#C00077" draw:color="#c00077"/>
+ <draw:color draw:name="#744DA8" draw:color="#744da8"/>
+ <draw:color draw:name="#018675" draw:color="#018675"/>
+ <draw:color draw:name="#496860" draw:color="#496860"/>
+ <draw:color draw:name="#525D55" draw:color="#525d55"/>
+ <draw:color draw:name="#D03438" draw:color="#d03438"/>
+ <draw:color draw:name="#C238B3" draw:color="#c238b3"/>
+ <draw:color draw:name="#B046C2" draw:color="#b046c2"/>
+ <draw:color draw:name="#03CA69" draw:color="#03ca69"/>
+ <draw:color draw:name="#4A8205" draw:color="#4a8205"/>
+ <draw:color draw:name="#837544" draw:color="#837544"/>
+ <draw:color draw:name="#FE4342" draw:color="#fe4342"/>
+ <draw:color draw:name="#9B008A" draw:color="#9b008a"/>
+ <draw:color draw:name="#871696" draw:color="#871696"/>
+ <draw:color draw:name="#10883E" draw:color="#10883e"/>
+ <draw:color draw:name="#107B0E" draw:color="#107b0e"/>
+ <draw:color draw:name="#7E735F" draw:color="#7e735f"/>
+ <draw:color draw:name="#0061B3" draw:color="#0061b3"/>
+</office:color-table>

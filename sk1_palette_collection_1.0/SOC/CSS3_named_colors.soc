@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Palette source: W3C
+The palette is published here:
+http://www.w3.org/TR/css3-color/
+
+-->
+<office:color-table xmlns:form="http://openoffice.org/2000/form" xmlns:number="http://openoffice.org/2000/datastyle" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:office="http://openoffice.org/2000/office" xmlns:meta="http://openoffice.org/2000/meta" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:svg="http://www.w3.org/2000/svg" xmlns:dr3d="http://openoffice.org/2000/dr3d" xmlns:text="http://openoffice.org/2000/text" xmlns:style="http://openoffice.org/2000/style" xmlns:script="http://openoffice.org/2000/script" xmlns:chart="http://openoffice.org/2000/chart" xmlns:draw="http://openoffice.org/2000/drawing" xmlns:table="http://openoffice.org/2000/table" xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:config="http://openoffice.org/2001/config" xmlns:dc="http://purl.org/dc/elements/1.1/">
+ <draw:color draw:name="black" draw:color="#000000"/>
+ <draw:color draw:name="silver" draw:color="#c0c0c0"/>
+ <draw:color draw:name="gray" draw:color="#808080"/>
+ <draw:color draw:name="white" draw:color="#ffffff"/>
+ <draw:color draw:name="maroon" draw:color="#800000"/>
+ <draw:color draw:name="red" draw:color="#ff0000"/>
+ <draw:color draw:name="purple" draw:color="#800080"/>
+ <draw:color draw:name="fuchsia" draw:color="#ff00ff"/>
+ <draw:color draw:name="green" draw:color="#008000"/>
+ <draw:color draw:name="lime" draw:color="#00ff00"/>
+ <draw:color draw:name="olive" draw:color="#808000"/>
+ <draw:color draw:name="yellow" draw:color="#ffff00"/>
+ <draw:color draw:name="navy" draw:color="#000080"/>
+ <draw:color draw:name="blue" draw:color="#0000ff"/>
+ <draw:color draw:name="teal" draw:color="#008080"/>
+ <draw:color draw:name="aqua" draw:color="#00ffff"/>
+</office:color-table>

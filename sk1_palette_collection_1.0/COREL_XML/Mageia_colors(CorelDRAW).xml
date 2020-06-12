@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+Palette source: Mageia
+The palette is published here:
+https://wiki.mageia.org/en/Artwork_team
+
+-->
+<palette guid="c62328a4-15a2-11e5-a91f-e03f4985805d" name="Mageia colors">
+	<colorspaces />
+	<colors>
+		<page>
+			<color cs="RGB" tints="0.0,0.0,0.0" name="Black" />
+			<color cs="RGB" tints="0.717647,0.717647,0.717647" name="Bombay ~" />
+			<color cs="RGB" tints="1.0,1.0,1.0" name="White" />
+			<color cs="RGB" tints="0.211765,0.0,0.368627" name="Midnight blue ~" />
+			<color cs="RGB" tints="0.298039,0.0,0.435294" name="Midnight blue ~" />
+			<color cs="RGB" tints="0.380392,0.047059,0.505882" name="Indigo ~" />
+			<color cs="RGB" tints="0.466667,0.141176,0.576471" name="Dark magenta ~" />
+			<color cs="RGB" tints="0.54902,0.219608,0.647059" name="Fuchsia ~" />
+			<color cs="RGB" tints="0.639216,0.298039,0.721569" name="Medium violet red ~" />
+			<color cs="RGB" tints="0.72549,0.372549,0.792157" name="Medium purple ~" />
+			<color cs="RGB" tints="0.815686,0.45098,0.870588" name="Orchid ~" />
+			<color cs="RGB" tints="0.905882,0.529412,0.945098" name="Violet ~" />
+			<color cs="RGB" tints="0.0,0.070588,0.376471" name="Midnight blue ~" />
+			<color cs="RGB" tints="0.109804,0.129412,0.447059" name="Midnight blue" />
+			<color cs="RGB" tints="0.211765,0.192157,0.513725" name="Indigo ~" />
+			<color cs="RGB" tints="0.301961,0.254902,0.584314" name="Daisy bush ~" />
+			<color cs="RGB" tints="0.392157,0.32549,0.658824" name="Studio ~" />
+			<color cs="RGB" tints="0.478431,0.392157,0.729412" name="Fuchsia ~" />
+			<color cs="RGB" tints="0.564706,0.466667,0.803922" name="True v ~" />
+			<color cs="RGB" tints="0.65098,0.541176,0.878431" name="Cornflower ~" />
+			<color cs="RGB" tints="0.741176,0.619608,0.956863" name="Deep sky blue ~" />
+			<color cs="RGB" tints="0.0,0.164706,0.372549" name="Paris m ~" />
+			<color cs="RGB" tints="0.0,0.223529,0.439216" name="Resolution blue ~" />
+			<color cs="RGB" tints="0.0,0.290196,0.505882" name="Jacksons purple ~" />
+			<color cs="RGB" tints="0.035294,0.356863,0.576471" name="Endeavour ~" />
+			<color cs="RGB" tints="0.196078,0.427451,0.647059" name="Scampi ~" />
+			<color cs="RGB" tints="0.298039,0.501961,0.721569" name="Curious blue" />
+			<color cs="RGB" tints="0.396078,0.576471,0.792157" name="Picton blue ~" />
+			<color cs="RGB" tints="0.486275,0.65098,0.866667" name="Jordy blue ~" />
+			<color cs="RGB" tints="0.576471,0.733333,0.945098" name="Dark turquoise ~" />
+			<color cs="RGB" tints="0.062745,0.368627,0.490196" name="Bahama blue ~" />
+			<color cs="RGB" tints="0.192157,0.439216,0.560784" name="Waikawa grey ~" />
+			<color cs="RGB" tints="0.286275,0.513725,0.631373" name="Dark cyan ~" />
+			<color cs="RGB" tints="0.376471,0.588235,0.701961" name="Shakespeare ~" />
+			<color cs="RGB" tints="0.466667,0.666667,0.772549" name="Polo blue ~" />
+			<color cs="RGB" tints="0.552941,0.745098,0.847059" name="Moon raker ~" />
+			<color cs="RGB" tints="0.643137,0.827451,0.921569" name="Sail ~" />
+			<color cs="RGB" tints="0.733333,0.909804,1.0" name="Pale turquoise ~" />
+			<color cs="RGB" tints="0.823529,0.992157,1.0" name="Light cyan ~" />
+			<color cs="RGB" tints="0.0,0.003922,0.152941" name="Stratos ~" />
+			<color cs="RGB" tints="0.0,0.003922,0.152941" name="Stratos ~" />
+			<color cs="RGB" tints="0.0,0.090196,0.207843" name="Outer space ~" />
+			<color cs="RGB" tints="0.019608,0.14902,0.270588" name="Violent violet ~" />
+			<color cs="RGB" tints="0.121569,0.207843,0.333333" name="Cobalt" />
+			<color cs="RGB" tints="0.203922,0.27451,0.4" name="Bay of many ~" />
+			<color cs="RGB" tints="0.282353,0.341176,0.466667" name="Chambray" />
+			<color cs="RGB" tints="0.360784,0.411765,0.533333" name="Wedgewood ~" />
+			<color cs="RGB" tints="0.443137,0.486275,0.603922" name="Hippie blue ~" />
+			<color cs="RGB" tints="0.494118,0.0,0.003922" name="Dark red ~" />
+			<color cs="RGB" tints="0.584314,0.0,0.066667" name="Bright red ~" />
+			<color cs="RGB" tints="0.682353,0.0,0.113725" name="Firebrick ~" />
+			<color cs="RGB" tints="0.776471,0.0,0.168627" name="Mandy ~" />
+			<color cs="RGB" tints="0.87451,0.003922,0.227451" name="Crimson ~" />
+			<color cs="RGB" tints="0.968627,0.184314,0.286275" name="Orange red ~" />
+			<color cs="RGB" tints="1.0,0.286275,0.345098" name="Orange red ~" />
+			<color cs="RGB" tints="1.0,0.380392,0.411765" name="Tomato" />
+			<color cs="RGB" tints="1.0,0.466667,0.478431" name="Coral ~" />
+		</page>
+	</colors>
+	<localization />
+</palette>
