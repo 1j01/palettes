@@ -3,13 +3,13 @@
 
 A collection of palette files of various types
 
-This is a repository of testing data for [palette.js][]
+This is a repository of testing data for [anypalette.js][]
 
 ## License?
 
 I am not licensing these palettes; they're not mine to license.
 
-This repo exists specifically to make a clear distinction that the license of [palette.js][] does not apply here.
+This repo exists specifically to make a clear distinction that the license of [anypalette.js][] does not apply here.
 
 ## Adding Palettes
 
@@ -18,4 +18,4 @@ This repo exists specifically to make a clear distinction that the license of [p
 - Edit `palettes.cson` (including HTML descriptions if applicable)
 - Send a pull request
 
-[palette.js]: https://github.com/1j01/palette.js
+[anypalette.js]: https://github.com/1j01/anypalette.js
