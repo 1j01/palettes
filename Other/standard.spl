@@ -1,0 +1,427 @@
+##Sketch RGBPalette 0
+0 0 0	Black
+0.1 0.1 0.1	90% Black
+0.2 0.2 0.2	80% Black
+0.3 0.3 0.3	70% Black
+0.4 0.4 0.4	60% Black
+0.5 0.5 0.5	50% Black
+0.6 0.6 0.6	40% Black
+0.7 0.7 0.7	30% Black
+0.8 0.8 0.8	20% Black
+0.9 0.9 0.9	10% Black
+1 1 1	White
+1 0 0	Red
+0 1 0	Green
+0 0 1	Blue
+0 1 1	Cyan
+1 0 1	Magenta
+1 1 0	Yellow
+0.5 0 0	Dark Red
+0 0.5 0	Dark Green
+0 0 0.5	Dark Blue
+0 0.5 0.5	Dark Cyan
+0.5 0 0.5	Dark Magenta
+0.5 0.5 0	Dark Yellow
+# From X's rgb.txt:
+0.184 0.31 0.31	Dark Slate Gray
+0.412 0.412 0.412	Dim Gray
+0.439 0.502 0.565	Slate Gray
+0.467 0.533 0.6	Light Slate Gray
+0.745 0.745 0.745	Gray
+0.827 0.827 0.827	Light Grey
+0.098 0.098 0.439	Midnight Blue
+0 0 0.502	Navy
+0.392 0.584 0.929	Cornflower Blue
+0.282 0.239 0.545	Dark Slate Blue
+0.416 0.353 0.804	Slate Blue
+0.482 0.408 0.933	Medium Slate Blue
+0.518 0.439 1	Light Slate Blue
+0 0 0.804	Medium Blue
+0.255 0.412 0.882	Royal Blue
+0 0 1	Blue
+0.118 0.565 1	Dodger Blue
+0 0.749 1	Deep Sky Blue
+0.529 0.808 0.922	Sky Blue
+0.529 0.808 0.98	Light Sky Blue
+0.275 0.51 0.706	Steel Blue
+0.69 0.769 0.871	Light Steel Blue
+0.678 0.847 0.902	Light Blue
+0.69 0.878 0.902	Powder Blue
+0.686 0.933 0.933	Pale Turquoise
+0 0.808 0.82	Dark Turquoise
+0.282 0.82 0.8	Medium Turquoise
+0.251 0.878 0.816	Turquoise
+0 1 1	Cyan
+0.878 1 1	Light Cyan
+0.373 0.62 0.627	Cadet Blue
+0.4 0.804 0.667	Medium Aquamarine
+0.498 1 0.831	Aquamarine
+0 0.392 0	Dark Green 2
+0.333 0.42 0.184	Dark Olive Green
+0.561 0.737 0.561	Dark Sea Green
+0.18 0.545 0.341	Sea Green
+0.235 0.702 0.443	Medium Sea Green
+0.125 0.698 0.667	Light Sea Green
+0.596 0.984 0.596	Pale Green
+0 1 0.498	Spring Green
+0.486 0.988 0	Lawn Green
+0 1 0	Green
+0.498 1 0	Chartreuse
+0 0.98 0.604	Medium Spring Green
+0.678 1 0.184	Green Yellow
+0.196 0.804 0.196	Lime Green
+0.604 0.804 0.196	Yellow Green
+0.133 0.545 0.133	Forest Green
+0.42 0.557 0.137	Olive Drab
+0.741 0.718 0.42	Dark Khaki
+0.941 0.902 0.549	Khaki
+0.933 0.91 0.667	Pale Goldenrod
+0.98 0.98 0.824	Light Goldenrod Yellow
+1 1 0.878	Light Yellow
+1 1 0	Yellow
+1 0.843 0	Gold
+0.933 0.867 0.51	Light Goldenrod
+0.855 0.647 0.125	Goldenrod
+0.722 0.525 0.043	Dark Goldenrod
+0.737 0.561 0.561	Rosy Brown
+0.804 0.361 0.361	Indian Red
+0.545 0.271 0.075	Saddle Brown
+0.627 0.322 0.176	Sienna
+0.804 0.522 0.247	Peru
+0.871 0.722 0.529	Burlywood
+0.961 0.961 0.863	Beige
+0.961 0.871 0.702	Wheat
+0.957 0.643 0.376	Sandy Brown
+0.824 0.706 0.549	Tan
+0.824 0.412 0.118	Chocolate
+0.698 0.133 0.133	Firebrick
+0.647 0.165 0.165	Brown
+0.914 0.588 0.478	Dark Salmon
+0.98 0.502 0.447	Salmon
+1 0.627 0.478	Light Salmon
+1 0.647 0	Orange
+1 0.549 0	Dark Orange
+1 0.498 0.314	Coral
+0.941 0.502 0.502	Light Coral
+1 0.388 0.278	Tomato
+1 0.271 0	Orange Red
+1 0 0	Red
+1 0.412 0.706	Hot Pink
+1 0.078 0.576	Deep Pink
+1 0.753 0.796	Pink
+1 0.714 0.757	Light Pink
+0.859 0.439 0.576	Pale Violet Red
+0.69 0.188 0.376	Maroon
+0.78 0.082 0.522	Medium Violet Red
+0.816 0.125 0.565	Violet Red
+1 0 1	Magenta
+0.933 0.51 0.933	Violet
+0.867 0.627 0.867	Plum
+0.855 0.439 0.839	Orchid
+0.729 0.333 0.827	Medium Orchid
+0.6 0.196 0.8	Dark Orchid
+0.58 0 0.827	Dark Violet
+0.541 0.169 0.886	Blue Violet
+0.627 0.125 0.941	Purple
+0.576 0.439 0.859	Medium Purple
+0.847 0.749 0.847	Thistle
+0.933 0.914 0.914	Snow2
+0.804 0.788 0.788	Snow3
+0.545 0.537 0.537	Snow4
+0.933 0.898 0.871	Seashell2
+0.804 0.773 0.749	Seashell3
+0.545 0.525 0.51	Seashell4
+1 0.937 0.859	AntiqueWhite1
+0.933 0.875 0.8	AntiqueWhite2
+0.804 0.753 0.69	AntiqueWhite3
+0.545 0.514 0.471	AntiqueWhite4
+0.933 0.835 0.718	Bisque2
+0.804 0.718 0.62	Bisque3
+0.545 0.49 0.42	Bisque4
+0.933 0.796 0.678	PeachPuff2
+0.804 0.686 0.584	PeachPuff3
+0.545 0.467 0.396	PeachPuff4
+0.933 0.812 0.631	NavajoWhite2
+0.804 0.702 0.545	NavajoWhite3
+0.545 0.475 0.369	NavajoWhite4
+0.933 0.914 0.749	LemonChiffon2
+0.804 0.788 0.647	LemonChiffon3
+0.545 0.537 0.439	LemonChiffon4
+0.933 0.91 0.804	Cornsilk2
+0.804 0.784 0.694	Cornsilk3
+0.545 0.533 0.471	Cornsilk4
+0.933 0.933 0.878	Ivory2
+0.804 0.804 0.757	Ivory3
+0.545 0.545 0.514	Ivory4
+0.878 0.933 0.878	Honeydew2
+0.757 0.804 0.757	Honeydew3
+0.514 0.545 0.514	Honeydew4
+0.933 0.878 0.898	LavenderBlush2
+0.804 0.757 0.773	LavenderBlush3
+0.545 0.514 0.525	LavenderBlush4
+0.933 0.835 0.824	MistyRose2
+0.804 0.718 0.71	MistyRose3
+0.545 0.49 0.482	MistyRose4
+0.878 0.933 0.933	Azure2
+0.757 0.804 0.804	Azure3
+0.514 0.545 0.545	Azure4
+0.514 0.435 1	SlateBlue1
+0.478 0.404 0.933	SlateBlue2
+0.412 0.349 0.804	SlateBlue3
+0.278 0.235 0.545	SlateBlue4
+0.282 0.463 1	RoyalBlue1
+0.263 0.431 0.933	RoyalBlue2
+0.227 0.373 0.804	RoyalBlue3
+0.153 0.251 0.545	RoyalBlue4
+0 0 0.933	Blue2
+0 0 0.545	Blue4
+0.11 0.525 0.933	DodgerBlue2
+0.094 0.455 0.804	DodgerBlue3
+0.063 0.306 0.545	DodgerBlue4
+0.388 0.722 1	SteelBlue1
+0.361 0.675 0.933	SteelBlue2
+0.31 0.58 0.804	SteelBlue3
+0.212 0.392 0.545	SteelBlue4
+0 0.698 0.933	DeepSkyBlue2
+0 0.604 0.804	DeepSkyBlue3
+0 0.408 0.545	DeepSkyBlue4
+0.529 0.808 1	SkyBlue1
+0.494 0.753 0.933	SkyBlue2
+0.424 0.651 0.804	SkyBlue3
+0.29 0.439 0.545	SkyBlue4
+0.69 0.886 1	LightSkyBlue1
+0.643 0.827 0.933	LightSkyBlue2
+0.553 0.714 0.804	LightSkyBlue3
+0.376 0.482 0.545	LightSkyBlue4
+0.776 0.886 1	SlateGray1
+0.725 0.827 0.933	SlateGray2
+0.624 0.714 0.804	SlateGray3
+0.424 0.482 0.545	SlateGray4
+0.792 0.882 1	LightSteelBlue1
+0.737 0.824 0.933	LightSteelBlue2
+0.635 0.71 0.804	LightSteelBlue3
+0.431 0.482 0.545	LightSteelBlue4
+0.749 0.937 1	LightBlue1
+0.698 0.875 0.933	LightBlue2
+0.604 0.753 0.804	LightBlue3
+0.408 0.514 0.545	LightBlue4
+0.82 0.933 0.933	LightCyan2
+0.706 0.804 0.804	LightCyan3
+0.478 0.545 0.545	LightCyan4
+0.733 1 1	PaleTurquoise1
+0.682 0.933 0.933	PaleTurquoise2
+0.588 0.804 0.804	PaleTurquoise3
+0.4 0.545 0.545	PaleTurquoise4
+0.596 0.961 1	CadetBlue1
+0.557 0.898 0.933	CadetBlue2
+0.478 0.773 0.804	CadetBlue3
+0.325 0.525 0.545	CadetBlue4
+0 0.961 1	Turquoise1
+0 0.898 0.933	Turquoise2
+0 0.773 0.804	Turquoise3
+0 0.525 0.545	Turquoise4
+0 0.933 0.933	cyan2
+0 0.804 0.804	cyan3
+0 0.545 0.545	cyan4
+0.592 1 1	DarkSlateGray1
+0.553 0.933 0.933	DarkSlateGray2
+0.475 0.804 0.804	DarkSlateGray3
+0.322 0.545 0.545	DarkSlateGray4
+0.463 0.933 0.776	Aquamarine2
+0.271 0.545 0.455	Aquamarine4
+0.757 1 0.757	DarkSeaGreen1
+0.706 0.933 0.706	DarkSeaGreen2
+0.608 0.804 0.608	DarkSeaGreen3
+0.412 0.545 0.412	DarkSeaGreen4
+0.329 1 0.624	SeaGreen1
+0.306 0.933 0.58	SeaGreen2
+0.263 0.804 0.502	SeaGreen3
+0.604 1 0.604	PaleGreen1
+0.565 0.933 0.565	PaleGreen2
+0.486 0.804 0.486	PaleGreen3
+0.329 0.545 0.329	PaleGreen4
+0 0.933 0.463	SpringGreen2
+0 0.804 0.4	SpringGreen3
+0 0.545 0.271	SpringGreen4
+0 0.933 0	Green2
+0 0.804 0	Green3
+0 0.545 0	Green4
+0.463 0.933 0	Chartreuse2
+0.4 0.804 0	Chartreuse3
+0.271 0.545 0	Chartreuse4
+0.753 1 0.243	OliveDrab1
+0.702 0.933 0.227	OliveDrab2
+0.412 0.545 0.133	OliveDrab4
+0.792 1 0.439	DarkOliveGreen1
+0.737 0.933 0.408	DarkOliveGreen2
+0.635 0.804 0.353	DarkOliveGreen3
+0.431 0.545 0.239	DarkOliveGreen4
+1 0.965 0.561	Khaki1
+0.933 0.902 0.522	Khaki2
+0.804 0.776 0.451	Khaki3
+0.545 0.525 0.306	Khaki4
+1 0.925 0.545	LightGoldenrod1
+0.933 0.863 0.51	LightGoldenrod2
+0.804 0.745 0.439	LightGoldenrod3
+0.545 0.506 0.298	LightGoldenrod4
+0.933 0.933 0.82	LightYellow2
+0.804 0.804 0.706	LightYellow3
+0.545 0.545 0.478	LightYellow4
+0.933 0.933 0	Yellow2
+0.804 0.804 0	Yellow3
+0.545 0.545 0	Yellow4
+0.933 0.788 0	Gold2
+0.804 0.678 0	Gold3
+0.545 0.459 0	Gold4
+1 0.757 0.145	Goldenrod1
+0.933 0.706 0.133	Goldenrod2
+0.804 0.608 0.114	Goldenrod3
+0.545 0.412 0.078	Goldenrod4
+1 0.725 0.059	DarkGoldenrod1
+0.933 0.678 0.055	DarkGoldenrod2
+0.804 0.584 0.047	DarkGoldenrod3
+0.545 0.396 0.031	DarkGoldenrod4
+1 0.757 0.757	RosyBrown1
+0.933 0.706 0.706	RosyBrown2
+0.804 0.608 0.608	RosyBrown3
+0.545 0.412 0.412	RosyBrown4
+1 0.416 0.416	IndianRed1
+0.933 0.388 0.388	IndianRed2
+0.804 0.333 0.333	IndianRed3
+0.545 0.227 0.227	IndianRed4
+1 0.51 0.278	Sienna1
+0.933 0.475 0.259	Sienna2
+0.804 0.408 0.224	Sienna3
+0.545 0.278 0.149	Sienna4
+1 0.827 0.608	Burlywood1
+0.933 0.773 0.569	Burlywood2
+0.804 0.667 0.49	Burlywood3
+0.545 0.451 0.333	Burlywood4
+1 0.906 0.729	Wheat1
+0.933 0.847 0.682	Wheat2
+0.804 0.729 0.588	Wheat3
+0.545 0.494 0.4	Wheat4
+1 0.647 0.31	Tan1
+0.933 0.604 0.286	Tan2
+0.545 0.353 0.169	Tan4
+1 0.498 0.141	Chocolate1
+0.933 0.463 0.129	Chocolate2
+0.804 0.4 0.114	Chocolate3
+1 0.188 0.188	Firebrick1
+0.933 0.173 0.173	Firebrick2
+0.804 0.149 0.149	Firebrick3
+0.545 0.102 0.102	Firebrick4
+1 0.251 0.251	Brown1
+0.933 0.231 0.231	Brown2
+0.804 0.2 0.2	Brown3
+0.545 0.137 0.137	Brown4
+1 0.549 0.412	Salmon1
+0.933 0.51 0.384	Salmon2
+0.804 0.439 0.329	Salmon3
+0.545 0.298 0.224	Salmon4
+0.933 0.584 0.447	LightSalmon2
+0.804 0.506 0.384	LightSalmon3
+0.545 0.341 0.259	LightSalmon4
+0.933 0.604 0	Orange2
+0.804 0.522 0	Orange3
+0.545 0.353 0	Orange4
+1 0.498 0	DarkOrange1
+0.933 0.463 0	DarkOrange2
+0.804 0.4 0	DarkOrange3
+0.545 0.271 0	DarkOrange4
+1 0.447 0.337	Coral1
+0.933 0.416 0.314	Coral2
+0.804 0.357 0.271	Coral3
+0.545 0.243 0.184	Coral4
+0.933 0.361 0.259	Tomato2
+0.804 0.31 0.224	Tomato3
+0.545 0.212 0.149	Tomato4
+0.933 0.251 0	OrangeRed2
+0.804 0.216 0	OrangeRed3
+0.545 0.145 0	OrangeRed4
+0.933 0 0	Red2
+0.804 0 0	Red3
+0.545 0 0	Red4
+0.933 0.071 0.537	DeepPink2
+0.804 0.063 0.463	DeepPink3
+0.545 0.039 0.314	DeepPink4
+1 0.431 0.706	HotPink1
+0.933 0.416 0.655	HotPink2
+0.804 0.376 0.565	HotPink3
+0.545 0.227 0.384	HotPink4
+1 0.71 0.773	Pink1
+0.933 0.663 0.722	Pink2
+0.804 0.569 0.62	Pink3
+0.545 0.388 0.424	Pink4
+1 0.682 0.725	LightPink1
+0.933 0.635 0.678	LightPink2
+0.804 0.549 0.584	LightPink3
+0.545 0.373 0.396	LightPink4
+1 0.51 0.671	PaleVioletRed1
+0.933 0.475 0.624	PaleVioletRed2
+0.804 0.408 0.537	PaleVioletRed3
+0.545 0.278 0.365	PaleVioletRed4
+1 0.204 0.702	Maroon1
+0.933 0.188 0.655	Maroon2
+0.804 0.161 0.565	Maroon3
+0.545 0.11 0.384	Maroon4
+1 0.243 0.588	VioletRed1
+0.933 0.227 0.549	VioletRed2
+0.804 0.196 0.471	VioletRed3
+0.545 0.133 0.322	VioletRed4
+0.933 0 0.933	Magenta2
+0.804 0 0.804	Magenta3
+0.545 0 0.545	Magenta4
+1 0.514 0.98	Orchid1
+0.933 0.478 0.914	Orchid2
+0.804 0.412 0.788	Orchid3
+0.545 0.278 0.537	Orchid4
+1 0.733 1	Plum1
+0.933 0.682 0.933	Plum2
+0.804 0.588 0.804	Plum3
+0.545 0.4 0.545	Plum4
+0.878 0.4 1	MediumOrchid1
+0.82 0.373 0.933	MediumOrchid2
+0.706 0.322 0.804	MediumOrchid3
+0.478 0.216 0.545	MediumOrchid4
+0.749 0.243 1	DarkOrchid1
+0.698 0.227 0.933	DarkOrchid2
+0.604 0.196 0.804	DarkOrchid3
+0.408 0.133 0.545	DarkOrchid4
+0.608 0.188 1	Purple1
+0.569 0.173 0.933	Purple2
+0.49 0.149 0.804	Purple3
+0.333 0.102 0.545	Purple4
+0.671 0.51 1	MediumPurple1
+0.624 0.475 0.933	MediumPurple2
+0.537 0.408 0.804	MediumPurple3
+0.365 0.278 0.545	MediumPurple4
+1 0.882 1	Thistle1
+0.933 0.824 0.933	Thistle2
+0.804 0.71 0.804	Thistle3
+0.545 0.482 0.545	Thistle4
+1 0.98 0.98	Snow
+0.973 0.973 1	Ghost White
+0.961 0.961 0.961	White Smoke
+0.863 0.863 0.863	Gainsboro
+1 0.98 0.941	Floral White
+0.992 0.961 0.902	Old Lace
+0.98 0.941 0.902	Linen
+0.98 0.922 0.843	Antique White
+1 0.937 0.835	Papaya Whip
+1 0.922 0.804	Blanched Almond
+1 0.894 0.769	Bisque
+1 0.855 0.725	Peach Puff
+1 0.871 0.678	Navajo White
+1 0.894 0.71	Moccasin
+1 0.973 0.863	Cornsilk
+1 1 0.941	Ivory
+1 0.98 0.804	Lemon Chiffon
+1 0.961 0.933	Seashell
+0.941 1 0.941	Honeydew
+0.961 1 0.98	Mint Cream
+0.941 1 1	Azure
+0.941 0.973 1	Alice Blue
+0.902 0.902 0.98	Lavender
+1 0.941 0.961	Lavender Blush
+1 0.894 0.882	Misty Rose
