@@ -9,7 +9,7 @@
  <draw:color draw:name="128 0 128" draw:color="#800080"/>
  <draw:color draw:name="128 128 0" draw:color="#808000"/>
  <draw:color draw:name="128 128 128" draw:color="#808080"/>
- <draw:color draw:name="192 192 192" draw:color="#bfbfbf"/>
+ <draw:color draw:name="191 191 191" draw:color="#bfbfbf"/>
  <draw:color draw:name="0 0 255" draw:color="#0000ff"/>
  <draw:color draw:name="0 255 0" draw:color="#00ff00"/>
  <draw:color draw:name="0 255 255" draw:color="#00ffff"/>
@@ -17,7 +17,7 @@
  <draw:color draw:name="255 0 255" draw:color="#ff00ff"/>
  <draw:color draw:name="255 255 0" draw:color="#ffff00"/>
  <draw:color draw:name="255 255 255" draw:color="#ffffff"/>
- <draw:color draw:name="0 0 0 " draw:color="#333333"/>
+ <draw:color draw:name="51 51 51" draw:color="#333333"/>
  <draw:color draw:name="51 0 0" draw:color="#330000"/>
  <draw:color draw:name="102 0 0" draw:color="#660000"/>
  <draw:color draw:name="153 0 0" draw:color="#990000"/>
@@ -82,7 +82,7 @@
  <draw:color draw:name="102 204 51" draw:color="#66cc33"/>
  <draw:color draw:name="153 204 51" draw:color="#99cc33"/>
  <draw:color draw:name="204 204 51" draw:color="#cccc33"/>
- <draw:color draw:name="255 204 51" draw:color="#ffcc82"/>
+ <draw:color draw:name="255 204 130" draw:color="#ffcc82"/>
  <draw:color draw:name="0 255 51" draw:color="#00ff33"/>
  <draw:color draw:name="51 255 51" draw:color="#33ff33"/>
  <draw:color draw:name="102 255 51" draw:color="#66ff33"/>
